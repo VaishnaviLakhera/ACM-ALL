@@ -1,0 +1,140 @@
+Region,Facility Code,Facility Name,Resident First Name,Resident Last Name,Resident Number,Action Code,Action Code Description,Discharge Status,Prior Location,Location,Effective Date,Effective Time,Prior Payer,Payer,Insurance Company,Insurance Address Line1,Insurance Address Line2,Insurance Address City,Insurance Address County,Insurance Address State,Insurance Address Country,Insurance Address Zip Code,Unit,Created Date,Created Time
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Gearldine,Blankenship,602855,AA,Actual Admission,,,K1304-A,2025-08-25,05:43 PM,,Private Pay,,,,,,,,,K1 South,2025-08-25,05:44 PM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Alice,Avedisian,602900,DD,Discharge Date,Discharged / Transferred to another hospital,,K1613-A,2025-08-20,10:46 PM,,Private Pay,,,,,,,,,1600,2025-08-21,08:10 AM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Fred,Kansier,602884,DD,Discharge Date,Discharged to home or self care,,K1710-A,2025-08-04,12:01 PM,,Private Pay,,,,,,,,,1700,2025-08-04,12:01 PM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Jeffrey,St. Pierre,602847,DD,Discharge Date,Discharged to home or self care,,K1614-A,2025-08-01,11:46 AM,,Private Pay,,,,,,,,,1600,2025-08-01,11:46 AM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,June,Havens,602879,DD,Discharge Date,Discharged / Transferred to another hospital,,K1622-A,2025-08-16,12:56 PM,,Private Pay,,,,,,,,,1600,2025-08-16,12:57 PM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Gearldine,Blankenship,602855,DE,Deceased Date (Facility),,,K1304-A,2025-08-29,04:38 PM,,Hospice Private,,,,,,,,,K1 South,2025-08-29,04:38 PM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Nancy,Stockwell,601268,DE,Deceased Date (Facility),,,K2302-A,2025-08-26,11:10 PM,,Private Pay,,,,,,,,,K2 South,2025-08-26,11:11 PM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Richard,Gobba,602863,DE,Deceased Date (Facility),Expired,,K1617-A,2025-08-09,10:52 PM,,Hospice Private,,,,,,,,,1600,2025-08-10,01:08 AM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Robert,Armstrong,602851,DE,Deceased Date (Facility),,,K2303-A,2025-08-28,03:18 PM,,Hospice Private,,,,,,,,,K2 South,2025-08-28,06:58 PM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Alice,Avedisian,602900,PC,Payer Change,,K1613-A,K1613-A,2025-08-12,12:00 AM,Medicare A,Private Pay,,,,,,,,,1600,2025-08-12,05:56 AM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Gearldine,Blankenship,602855,PC,Payer Change,,K1304-A,K1304-A,2025-08-26,10:00 AM,Private Pay,Hospice Private,,,,,,,,,K1 South,2025-08-27,09:43 AM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,June,Havens,602879,PC,Payer Change,,K1622-A,K1622-A,2025-08-13,12:00 AM,Medicare A,Private Pay,,,,,,,,,1600,2025-08-13,09:12 AM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Martha,McNutt,602897,PC,Payer Change,,K1625-A,K1625-A,2025-08-30,12:01 AM,BC Medicare Advantage Med A,Private Pay,,,,,,,,,1600,2025-09-02,09:07 AM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Nancy,Brower,602906,PC,Payer Change,,K1700-A,K1700-A,2025-08-28,12:01 AM,Medicare A,Private Pay,,,,,,,,,1700,2025-08-28,09:06 AM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Richard,Gobba,602863,PC,Payer Change,,K1617-A,K1617-A,2025-08-01,12:00 AM,Medicare A,Hospice Private,,,,,,,,,1600,2025-08-01,09:08 AM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,William,Cable,601774,RC,Room Change,,K1612-A,K2302-A,2025-08-30,11:23 AM,Hospice Private,Hospice Private,,,,,,,,,K2 South,2025-08-30,11:23 AM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Giannina,Reyes,602295,RFL,Return from Leave/LOA,,K1107-A,K1107-A,2025-08-10,02:13 AM,Private Pay,Private Pay,,,,,,,,,K1 North,2025-08-10,02:14 AM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Nancy,Stockwell,601268,RFL,Return from Leave/LOA,,K2302-A,K2302-A,2025-08-01,12:42 PM,Private Pay,Private Pay,,,,,,,,,K2 South,2025-08-01,12:43 PM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Robert,Armstrong,602851,RFL,Return from Leave/LOA,,K2303-A,K2303-A,2025-08-20,09:27 PM,Private Pay,Hospice Private,,,,,,,,,K2 South,2025-08-20,10:28 PM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Robert,Armstrong,602851,RH,Reserve Hospital,,,K2303-A,2025-08-18,05:30 PM,,Private Pay,,,,,,,,,K2 South,2025-08-19,01:09 PM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Giannina,Reyes,602295,TO,Transfer Out to Hospital,,,K1107-A,2025-08-09,06:30 PM,,Private Pay,,,,,,,,,K1 North,2025-08-09,06:59 PM
+Unspecified,10,Kresge Healthcare & Rehabilitation Center,Jessie,Siekmeier,602555,TO,Transfer Out to Hospital,,,K2308-A,2025-08-30,03:22 AM,,Private Pay,,,,,,,,,K2 South,2025-08-30,03:23 AM
+Unspecified,11,Chelsea Retirement Community - AL,Bradford,Stone,500442,AA,Actual Admission,,,GS655-A,2025-08-21,02:14 PM,,Private Pay,,,,,,,,,Assisted,2025-08-21,03:16 PM
+Unspecified,11,Chelsea Retirement Community - AL,James,Poulter,500334,DD,Discharge Date,,,GS655-A,2025-08-04,11:21 AM,,Private Pay,,,,,,,,,Assisted,2025-08-04,11:18 AM
+Unspecified,11,Chelsea Retirement Community - AL,James,Poulter,500334,DD,Discharge Date,,,GS655-A,2025-08-10,12:00 PM,,Private Pay,,,,,,,,,Assisted,2025-08-19,10:53 AM
+Unspecified,11,Chelsea Retirement Community - AL,Roxana,Hoffman,500435,DD,Discharge Date,,,GN688-A,2025-08-22,01:30 PM,,Private Pay,,,,,,,,,Assisted,2025-08-22,01:51 PM
+Unspecified,11,Chelsea Retirement Community - AL,Gail,Esty,500242,DE,Deceased Date (Facility),,,TV114-A,2025-08-13,02:35 PM,,Private Pay,,,,,,,,,Memory Care,2025-08-13,02:35 PM
+Unspecified,11,Chelsea Retirement Community - AL,Gail,Esty,500242,DE,Deceased Date (Facility),,,TV114-A,2025-08-16,08:45 PM,,Private Pay,,,,,,,,,Memory Care,2025-08-16,08:51 PM
+Unspecified,11,Chelsea Retirement Community - AL,Jack,Bittle,500229,DE,Deceased Date (Facility),,,TV342-A,2025-08-05,06:50 PM,,Private Pay,,,,,,,,,Memory Care,2025-08-05,09:01 PM
+Unspecified,11,Chelsea Retirement Community - AL,Jack,Bittle,500229,DE,Deceased Date (Facility),,,TV342-A,2025-08-08,12:01 PM,,Private Pay,,,,,,,,,Memory Care,2025-08-07,11:42 AM
+Unspecified,11,Chelsea Retirement Community - AL,Joan,Barber,108777,DE,Deceased Date (Facility),,,TV226-A,2025-08-15,05:53 PM,,Private Pay,,,,,,,,,Memory Care,2025-08-15,09:02 PM
+Unspecified,11,Chelsea Retirement Community - AL,Joan,Barber,108777,DE,Deceased Date (Facility),,,TV226-A,2025-08-20,12:00 PM,,Private Pay,,,,,,,,,Memory Care,2025-08-19,03:22 PM
+Unspecified,11,Chelsea Retirement Community - AL,Vionne,Johnson,500440,DE,Deceased Date (Facility),,,GS651-A,2025-08-18,11:22 AM,,Private Pay,,,,,,,,,Assisted,2025-08-19,01:38 AM
+Unspecified,11,Chelsea Retirement Community - AL,Vionne,Johnson,500440,DE,Deceased Date (Facility),,,GS651-A,2025-08-25,12:00 PM,,Private Pay,,,,,,,,,Assisted,2025-08-26,10:15 AM
+Unspecified,11,Chelsea Retirement Community - AL,Helen,Becher,500443,RAA,Respite - Actual Admit/ReAdmit Date,,,GS651-A,2025-08-31,12:13 PM,,Private Pay,,,,,,,,,Assisted,2025-08-31,12:14 PM
+Unspecified,11,Chelsea Retirement Community - AL,Florence,Campbell,500401,RFL,Return from Leave/LOA,,TV117-A,TV117-A,2025-08-06,07:00 AM,Private Pay,Private Pay,,,,,,,,,Memory Care,2025-08-06,07:52 AM
+Unspecified,11,Chelsea Retirement Community - AL,Bradford,Stone,500442,RR,Room Reserve,,,GS655-A,2025-08-18,12:00 AM,,Private Pay,,,,,,,,,Assisted,2025-08-15,01:24 PM
+Unspecified,11,Chelsea Retirement Community - AL,Gail,Esty,500242,RR,Room Reserve,,,TV114-A,2025-08-14,12:00 PM,,Private Pay,,,,,,,,,Memory Care,2025-08-14,09:08 AM
+Unspecified,11,Chelsea Retirement Community - AL,Jack,Bittle,500229,RR,Room Reserve,,,TV342-A,2025-08-05,06:51 PM,,Private Pay,,,,,,,,,Memory Care,2025-08-06,12:03 PM
+Unspecified,11,Chelsea Retirement Community - AL,James,Poulter,500334,RR,Room Reserve,,,GS655-A,2025-08-09,12:00 PM,,Private Pay,,,,,,,,,Assisted,2025-08-04,02:52 PM
+Unspecified,11,Chelsea Retirement Community - AL,Joan,Barber,108777,RR,Room Reserve,,,TV226-A,2025-08-16,05:53 PM,,Private Pay,,,,,,,,,Memory Care,2025-08-19,10:58 AM
+Unspecified,11,Chelsea Retirement Community - AL,Vionne,Johnson,500440,RR,Room Reserve,,,GS651-A,2025-08-19,12:00 PM,,Private Pay,,,,,,,,,Assisted,2025-08-19,11:02 AM
+Unspecified,11,Chelsea Retirement Community - AL,Carl,Curtiss,500387,TI,Transfer In from Hospital,,GW626-A,GW626-A,2025-08-08,10:04 AM,Private Pay,Private Pay,,,,,,,,,Assisted,2025-08-08,10:04 AM
+Unspecified,11,Chelsea Retirement Community - AL,Elaine,Cotant,500441,TI,Transfer In from Hospital,,GS665-A,GS665-A,2025-08-11,11:40 PM,Private Pay,Private Pay,,,,,,,,,Assisted,2025-08-12,12:08 AM
+Unspecified,11,Chelsea Retirement Community - AL,Janice,Smith,500231,TI,Transfer In from Hospital,,TV126-A,TV126-A,2025-08-11,05:06 PM,Private Pay,Private Pay,,,,,,,,,Memory Care,2025-08-11,05:06 PM
+Unspecified,11,Chelsea Retirement Community - AL,Keith,Chizek,500199,TI,Transfer In from Hospital,,GE683-A,GE683-A,2025-08-15,11:28 AM,Private Pay,Private Pay,,,,,,,,,Assisted,2025-08-15,11:28 AM
+Unspecified,11,Chelsea Retirement Community - AL,Margaret,Waterman,500439,TI,Transfer In from Hospital,,GS662-A,GS662-A,2025-08-29,08:25 PM,Private Pay,Private Pay,,,,,,,,,Assisted,2025-08-29,08:26 PM
+Unspecified,11,Chelsea Retirement Community - AL,Norma,Kalisz,500354,TI,Transfer In from Hospital,,GW630-A,GW630-A,2025-08-06,04:14 PM,Private Pay,Private Pay,,,,,,,,,Assisted,2025-08-06,04:15 PM
+Unspecified,11,Chelsea Retirement Community - AL,Ruth,Evens,500285,TI,Transfer In from Hospital,,TV227-A,TV227-A,2025-08-09,02:31 PM,Private Pay,Private Pay,,,,,,,,,Memory Care,2025-08-09,02:43 PM
+Unspecified,11,Chelsea Retirement Community - AL,Vionne,Johnson,500440,TI,Transfer In from Hospital,,GS651-A,GS651-A,2025-08-14,03:57 PM,Private Pay,Private Pay,,,,,,,,,Assisted,2025-08-14,03:57 PM
+Unspecified,11,Chelsea Retirement Community - AL,Wanda,Walters,107958,TI,Transfer In from Hospital,,TV315-A,TV315-A,2025-08-12,11:57 AM,Private Pay,Private Pay,,,,,,,,,Memory Care,2025-08-12,12:57 PM
+Unspecified,11,Chelsea Retirement Community - AL,Wanda,Walters,107958,TI,Transfer In from Hospital,,TV315-A,TV315-A,2025-08-28,03:11 PM,Private Pay,Private Pay,,,,,,,,,Memory Care,2025-08-28,03:11 PM
+Unspecified,11,Chelsea Retirement Community - AL,Carl,Curtiss,500387,TO,Transfer Out to Hospital,,,GW626-A,2025-08-08,12:56 AM,,Private Pay,,,,,,,,,Assisted,2025-08-08,01:00 AM
+Unspecified,11,Chelsea Retirement Community - AL,Elaine,Cotant,500441,TO,Transfer Out to Hospital,,,GS665-A,2025-08-11,04:56 PM,,Private Pay,,,,,,,,,Assisted,2025-08-11,04:56 PM
+Unspecified,11,Chelsea Retirement Community - AL,Gary,Pope,500398,TO,Transfer Out to Hospital,,,GN609-A,2025-08-08,04:28 AM,,Private Pay,,,,,,,,,Assisted,2025-08-08,06:28 AM
+Unspecified,11,Chelsea Retirement Community - AL,Janice,Smith,500231,TO,Transfer Out to Hospital,,,TV126-A,2025-08-09,11:00 PM,,Private Pay,,,,,,,,,Memory Care,2025-08-09,11:10 PM
+Unspecified,11,Chelsea Retirement Community - AL,Margaret,Waterman,500439,TO,Transfer Out to Hospital,,,GS662-A,2025-08-29,04:26 PM,,Private Pay,,,,,,,,,Assisted,2025-08-29,04:26 PM
+Unspecified,11,Chelsea Retirement Community - AL,Norma,Kalisz,500354,TO,Transfer Out to Hospital,,,GW630-A,2025-08-02,09:20 AM,,Private Pay,,,,,,,,,Assisted,2025-08-02,09:20 AM
+Unspecified,11,Chelsea Retirement Community - AL,Ruth,Evens,500285,TO,Transfer Out to Hospital,,,TV227-A,2025-08-09,10:14 AM,,Private Pay,,,,,,,,,Memory Care,2025-08-09,10:15 AM
+Unspecified,11,Chelsea Retirement Community - AL,Vionne,Johnson,500440,TO,Transfer Out to Hospital,,,GS651-A,2025-08-09,08:46 PM,,Private Pay,,,,,,,,,Assisted,2025-08-09,08:47 PM
+Unspecified,11,Chelsea Retirement Community - AL,Wanda,Walters,107958,TO,Transfer Out to Hospital,,,TV315-A,2025-08-12,06:17 AM,,Private Pay,,,,,,,,,Memory Care,2025-08-12,06:19 AM
+Unspecified,11,Chelsea Retirement Community - AL,Wanda,Walters,107958,TO,Transfer Out to Hospital,,,TV315-A,2025-08-24,09:20 PM,,Private Pay,,,,,,,,,Memory Care,2025-08-24,09:28 PM
+Unspecified,12,Chelsea Retirement Community - IL,Margaret,Waterman,400050,DD,Discharge Date,,,RD902-A,2025-08-20,03:45 PM,,Private Pay,,,,,,,,,PC,2025-08-21,09:44 AM
+Unspecified,12,Chelsea Retirement Community - IL,Sally,Lamkin,108810,DD,Discharge Date,,,ED900-A,2025-08-05,03:00 PM,,Private Pay,,,,,,,,,PC,2025-08-06,02:24 PM
+Unspecified,12,Chelsea Retirement Community - IL,Ann,Barden,400231,LOA,Leave of Absence/LOA,,,DH314-B,2025-08-15,12:00 AM,,"Second Person - CRC ",,,,,,,,,DH,2025-08-15,03:24 PM
+Unspecified,12,Chelsea Retirement Community - IL,Ann,Kraft,107276,LOA,Leave of Absence/LOA,,,DH251-A,2025-08-13,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-15,03:26 PM
+Unspecified,12,Chelsea Retirement Community - IL,Ann,Rogers,108585,LOA,Leave of Absence/LOA,,,GW904-A,2025-08-04,12:00 AM,,Private Pay,,,,,,,,,PC,2025-08-05,12:18 PM
+Unspecified,12,Chelsea Retirement Community - IL,Brent,McCumons,108574,LOA,Leave of Absence/LOA,,,RD909-A,2025-08-16,12:00 AM,,Private Pay,,,,,,,,,PC,2025-08-18,01:57 PM
+Unspecified,12,Chelsea Retirement Community - IL,Brian,Kidston,108615,LOA,Leave of Absence/LOA,,,GW910-A,2025-08-27,12:00 AM,,Private Pay,,,,,,,,,PC,2025-08-29,12:26 PM
+Unspecified,12,Chelsea Retirement Community - IL,Camile,Hurley,400048,LOA,Leave of Absence/LOA,,,GW907-B,2025-08-25,12:00 AM,,"Second Person - CRC ",,,,,,,,,PC,2025-08-25,04:51 PM
+Unspecified,12,Chelsea Retirement Community - IL,Carolyn,Luciani,104519,LOA,Leave of Absence/LOA,,,DH560-A,2025-08-28,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-29,12:28 PM
+Unspecified,12,Chelsea Retirement Community - IL,Cindy,Reinhart,400215,LOA,Leave of Absence/LOA,,,DH414-B,2025-08-09,12:00 AM,,"Second Person - CRC ",,,,,,,,,DH,2025-08-15,03:20 PM
+Unspecified,12,Chelsea Retirement Community - IL,Donna,Boudreau,400098,LOA,Leave of Absence/LOA,,,RD905-A,2025-08-05,12:00 AM,,Private Pay,,,,,,,,,PC,2025-08-15,03:19 PM
+Unspecified,12,Chelsea Retirement Community - IL,Donna,Thompson,400151,LOA,Leave of Absence/LOA,,,GW906-B,2025-08-16,12:00 AM,,"Second Person - CRC ",,,,,,,,,PC,2025-08-18,01:55 PM
+Unspecified,12,Chelsea Retirement Community - IL,Frederick,Reinhart,400214,LOA,Leave of Absence/LOA,,,DH414-A,2025-08-09,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-15,03:21 PM
+Unspecified,12,Chelsea Retirement Community - IL,Frederick,Thompson,400150,LOA,Leave of Absence/LOA,,,GW906-A,2025-08-16,12:00 AM,,Private Pay,,,,,,,,,PC,2025-08-18,01:56 PM
+Unspecified,12,Chelsea Retirement Community - IL,Glenn,Gorman,400237,LOA,Leave of Absence/LOA,,,GA28-A,2025-08-08,12:00 AM,,Private Pay,,,,,,,,,GC,2025-08-15,02:47 PM
+Unspecified,12,Chelsea Retirement Community - IL,Glenn,Gorman,400237,LOA,Leave of Absence/LOA,,,GA28-A,2025-08-27,12:00 AM,,Private Pay,,,,,,,,,GC,2025-08-29,12:27 PM
+Unspecified,12,Chelsea Retirement Community - IL,Hernan,Drobny,400230,LOA,Leave of Absence/LOA,,,DH314-A,2025-08-05,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-15,03:22 PM
+Unspecified,12,Chelsea Retirement Community - IL,Jacqueline,Holdsworth,108843,LOA,Leave of Absence/LOA,,,GW901-A,2025-08-21,12:00 AM,,Private Pay,,,,,,,,,PC,2025-08-22,02:12 PM
+Unspecified,12,Chelsea Retirement Community - IL,Janet,Waldron,109127,LOA,Leave of Absence/LOA,,,ED908-B,2025-08-28,12:00 AM,,"Second Person - CRC ",,,,,,,,,PC,2025-08-29,12:28 PM
+Unspecified,12,Chelsea Retirement Community - IL,Jean,Sayre,107784,LOA,Leave of Absence/LOA,,,DH553-A,2025-08-18,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-18,01:58 PM
+Unspecified,12,Chelsea Retirement Community - IL,Kenneth,Ray,400101,LOA,Leave of Absence/LOA,,,DH463-A,2025-08-13,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-15,03:23 PM
+Unspecified,12,Chelsea Retirement Community - IL,Larry,Doroh,400175,LOA,Leave of Absence/LOA,,,DH505-A,2025-08-15,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-15,03:24 PM
+Unspecified,12,Chelsea Retirement Community - IL,Margaret,Kidston,108616,LOA,Leave of Absence/LOA,,,GW910-B,2025-08-27,12:00 AM,,"Second Person - CRC ",,,,,,,,,PC,2025-08-29,12:26 PM
+Unspecified,12,Chelsea Retirement Community - IL,Margaret,Van Patten,400236,LOA,Leave of Absence/LOA,,,GA12-B,2025-08-24,12:00 AM,,"Second Person - CRC ",,,,,,,,,GC,2025-08-25,04:50 PM
+Unspecified,12,Chelsea Retirement Community - IL,Marlene,McCumons,108575,LOA,Leave of Absence/LOA,,,RD909-B,2025-08-16,12:00 AM,,"Second Person - CRC ",,,,,,,,,PC,2025-08-18,01:57 PM
+Unspecified,12,Chelsea Retirement Community - IL,Mary,Doroh,400176,LOA,Leave of Absence/LOA,,,DH505-B,2025-08-15,12:00 AM,,"Second Person - CRC ",,,,,,,,,DH,2025-08-15,03:25 PM
+Unspecified,12,Chelsea Retirement Community - IL,Mary,Krieger,400195,LOA,Leave of Absence/LOA,,,DH374-A,2025-08-18,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-18,02:00 PM
+Unspecified,12,Chelsea Retirement Community - IL,Patricia,Gilmour,400085,LOA,Leave of Absence/LOA,,,DH377-A,2025-08-02,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-04,05:12 PM
+Unspecified,12,Chelsea Retirement Community - IL,Patricia,Gilmour,400085,LOA,Leave of Absence/LOA,,,DH377-A,2025-08-27,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-29,12:27 PM
+Unspecified,12,Chelsea Retirement Community - IL,Ronald,Hurley,400047,LOA,Leave of Absence/LOA,,,GW907-A,2025-08-25,12:00 AM,,Private Pay,,,,,,,,,PC,2025-08-25,04:51 PM
+Unspecified,12,Chelsea Retirement Community - IL,Ronald,Waldron,109126,LOA,Leave of Absence/LOA,,,ED908-A,2025-08-28,12:00 AM,,Private Pay,,,,,,,,,PC,2025-08-29,12:28 PM
+Unspecified,12,Chelsea Retirement Community - IL,Susan,Morton,400075,LOA,Leave of Absence/LOA,,,DH350-A,2025-08-14,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-15,03:23 PM
+Unspecified,12,Chelsea Retirement Community - IL,William,McCuaig,400145,LOA,Leave of Absence/LOA,,,DH362-A,2025-08-12,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-15,03:22 PM
+Unspecified,12,Chelsea Retirement Community - IL,William,Van Patten,400235,LOA,Leave of Absence/LOA,,,GA12-A,2025-08-24,12:00 AM,,Private Pay,,,,,,,,,GC,2025-08-25,04:50 PM
+Unspecified,12,Chelsea Retirement Community - IL,Gloria,Maurer,400092,RC,Room Change,,TC717-B,DH572-B,2025-08-01,10:01 AM,"Second Person - CRC ","Second Person - CRC ",,,,,,,,,DH,2025-08-05,02:38 PM
+Unspecified,12,Chelsea Retirement Community - IL,Raymond,Maurer,400091,RC,Room Change,,TC717-A,DH572-A,2025-08-01,10:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-05,08:42 AM
+Unspecified,12,Chelsea Retirement Community - IL,Ann,Barden,400231,RFL,Return from Leave/LOA,,DH314-B,DH314-B,2025-08-19,12:00 AM,"Second Person - CRC ","Second Person - CRC ",,,,,,,,,DH,2025-08-22,02:11 PM
+Unspecified,12,Chelsea Retirement Community - IL,Ann,Kraft,107276,RFL,Return from Leave/LOA,,DH251-A,DH251-A,2025-08-16,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-18,01:57 PM
+Unspecified,12,Chelsea Retirement Community - IL,Betty,Graham,400154,RFL,Return from Leave/LOA,,DH252-A,DH252-A,2025-08-01,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-04,05:07 PM
+Unspecified,12,Chelsea Retirement Community - IL,Brent,McCumons,108574,RFL,Return from Leave/LOA,,RD909-A,RD909-A,2025-08-23,12:00 AM,Private Pay,Private Pay,,,,,,,,,PC,2025-08-25,04:47 PM
+Unspecified,12,Chelsea Retirement Community - IL,Camile,Hurley,400048,RFL,Return from Leave/LOA,,GW907-B,GW907-B,2025-08-29,12:00 AM,"Second Person - CRC ","Second Person - CRC ",,,,,,,,,PC,2025-09-02,12:23 PM
+Unspecified,12,Chelsea Retirement Community - IL,Carolyn,Luciani,104519,RFL,Return from Leave/LOA,,DH560-A,DH560-A,2025-08-30,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-09-02,12:26 PM
+Unspecified,12,Chelsea Retirement Community - IL,Cindy,Reinhart,400215,RFL,Return from Leave/LOA,,DH414-B,DH414-B,2025-08-14,12:00 AM,"Second Person - CRC ","Second Person - CRC ",,,,,,,,,DH,2025-08-15,03:21 PM
+Unspecified,12,Chelsea Retirement Community - IL,Donna,Boudreau,400098,RFL,Return from Leave/LOA,,RD905-A,RD905-A,2025-08-12,12:00 AM,Private Pay,Private Pay,,,,,,,,,PC,2025-08-18,01:52 PM
+Unspecified,12,Chelsea Retirement Community - IL,Donna,Thompson,400151,RFL,Return from Leave/LOA,,GW906-B,GW906-B,2025-08-24,12:00 AM,"Second Person - CRC ","Second Person - CRC ",,,,,,,,,PC,2025-08-25,04:47 PM
+Unspecified,12,Chelsea Retirement Community - IL,Frederick,Reinhart,400214,RFL,Return from Leave/LOA,,DH414-A,DH414-A,2025-08-14,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-15,03:21 PM
+Unspecified,12,Chelsea Retirement Community - IL,Frederick,Thompson,400150,RFL,Return from Leave/LOA,,GW906-A,GW906-A,2025-08-24,12:00 AM,Private Pay,Private Pay,,,,,,,,,PC,2025-08-25,04:47 PM
+Unspecified,12,Chelsea Retirement Community - IL,Glenn,Gorman,400237,RFL,Return from Leave/LOA,,GA28-A,GA28-A,2025-08-10,12:00 AM,Private Pay,Private Pay,,,,,,,,,GC,2025-08-15,02:47 PM
+Unspecified,12,Chelsea Retirement Community - IL,Hernan,Drobny,400230,RFL,Return from Leave/LOA,,DH314-A,DH314-A,2025-08-21,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-22,02:09 PM
+Unspecified,12,Chelsea Retirement Community - IL,Jean,Sayre,107784,RFL,Return from Leave/LOA,,DH553-A,DH553-A,2025-08-23,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-25,04:49 PM
+Unspecified,12,Chelsea Retirement Community - IL,Joy,Large,400209,RFL,Return from Leave/LOA,,DH174-B,DH174-B,2025-08-10,12:00 AM,"Second Person - CRC ","Second Person - CRC ",,,,,,,,,DH,2025-08-15,03:18 PM
+Unspecified,12,Chelsea Retirement Community - IL,Kenneth,Ray,400101,RFL,Return from Leave/LOA,,DH463-A,DH463-A,2025-08-19,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-22,02:10 PM
+Unspecified,12,Chelsea Retirement Community - IL,Larry,Doroh,400175,RFL,Return from Leave/LOA,,DH505-A,DH505-A,2025-08-17,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-18,01:54 PM
+Unspecified,12,Chelsea Retirement Community - IL,Margaret,Van Patten,400236,RFL,Return from Leave/LOA,,GA12-B,GA12-B,2025-08-29,12:00 AM,"Second Person - CRC ","Second Person - CRC ",,,,,,,,,GC,2025-09-02,12:20 PM
+Unspecified,12,Chelsea Retirement Community - IL,Marlene,McCumons,108575,RFL,Return from Leave/LOA,,RD909-B,RD909-B,2025-08-23,12:00 AM,"Second Person - CRC ","Second Person - CRC ",,,,,,,,,PC,2025-08-25,04:49 PM
+Unspecified,12,Chelsea Retirement Community - IL,Mary,Doroh,400176,RFL,Return from Leave/LOA,,DH505-B,DH505-B,2025-08-17,12:00 AM,"Second Person - CRC ","Second Person - CRC ",,,,,,,,,DH,2025-08-18,01:54 PM
+Unspecified,12,Chelsea Retirement Community - IL,Mary,Krieger,400195,RFL,Return from Leave/LOA,,DH374-A,DH374-A,2025-08-31,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-09-02,12:18 PM
+Unspecified,12,Chelsea Retirement Community - IL,Patricia,Gilmour,400085,RFL,Return from Leave/LOA,,DH377-A,DH377-A,2025-08-18,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-22,02:08 PM
+Unspecified,12,Chelsea Retirement Community - IL,Ronald,Hurley,400047,RFL,Return from Leave/LOA,,GW907-A,GW907-A,2025-08-29,12:00 AM,Private Pay,Private Pay,,,,,,,,,PC,2025-09-02,12:23 PM
+Unspecified,12,Chelsea Retirement Community - IL,Susan,Morton,400075,RFL,Return from Leave/LOA,,DH350-A,DH350-A,2025-08-17,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-22,02:11 PM
+Unspecified,12,Chelsea Retirement Community - IL,Wayne,Large,400208,RFL,Return from Leave/LOA,,DH174-A,DH174-A,2025-08-10,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-15,03:18 PM
+Unspecified,12,Chelsea Retirement Community - IL,William,Van Patten,400235,RFL,Return from Leave/LOA,,GA12-A,GA12-A,2025-08-29,12:00 AM,Private Pay,Private Pay,,,,,,,,,GC,2025-09-02,12:21 PM
+Unspecified,12,Chelsea Retirement Community - IL,Alice,Smatsky,400227,TI,Transfer In from Hospital,,GA14-A,GA14-A,2025-08-19,12:00 AM,Private Pay,Private Pay,,,,,,,,,GC,2025-08-20,03:45 PM
+Unspecified,12,Chelsea Retirement Community - IL,Peggy,Hoaglin,400211,TI,Transfer In from Hospital,,DH460-A,DH460-A,2025-08-29,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-29,12:32 PM
+Unspecified,12,Chelsea Retirement Community - IL,William,Eisenbeiser,400192,TI,Transfer In from Hospital,,DH272-A,DH272-A,2025-08-22,12:00 AM,Private Pay,Private Pay,,,,,,,,,DH,2025-08-22,02:14 PM
+Unspecified,12,Chelsea Retirement Community - IL,Alice,Smatsky,400227,TO,Transfer Out to Hospital,,,GA14-A,2025-08-16,12:00 AM,,Private Pay,,,,,,,,,GC,2025-08-20,03:44 PM
+Unspecified,12,Chelsea Retirement Community - IL,Peggy,Hoaglin,400211,TO,Transfer Out to Hospital,,,DH460-A,2025-08-26,12:00 AM,,Private Pay,,,,,,,,,DH,2025-08-29,12:29 PM
+Unspecified,13,Cedars of Dexter,James,Kirk,301051,AA,Actual Admission,,,59-A,2025-08-22,12:00 AM,,Private Pay,,,,,,,,,COD,2025-08-14,03:24 PM
+Unspecified,13,Cedars of Dexter,Mabelle,Kirk,301052,AA,Actual Admission,,,59-B,2025-08-22,12:00 AM,,"Second Person - CRC ",,,,,,,,,COD,2025-08-14,03:38 PM
+Unspecified,13,Cedars of Dexter,Barbara,McKinley,301046,DD,Discharge Date,,,17-A,2025-08-27,12:01 AM,,Private Pay,,,,,,,,,COD,2025-08-29,04:02 PM
+Unspecified,13,Cedars of Dexter,Jean,White,301047,DD,Discharge Date,,,17-B,2025-08-27,12:01 AM,,"Second Person - CRC ",,,,,,,,,COD,2025-08-29,04:03 PM
+Unspecified,9,Porter Hills Village Health Center,Bonnie,Wilson,901534,AA,Actual Admission,,,211-P,2025-08-29,11:22 AM,,Hospice Private,,,,,,,,,North,2025-08-29,11:23 AM
+Unspecified,9,Porter Hills Village Health Center,Raymond,DeBoer,901532,AA,Actual Admission,,,264-P,2025-08-26,11:56 AM,,Hospice Private,,,,,,,,,East,2025-08-26,11:58 AM
+Unspecified,9,Porter Hills Village Health Center,Geoffrey,Laham,901528,DE,Deceased Date (Facility),Expired,,252-P,2025-08-06,05:25 AM,,Hospice Private,,,,,,,,,East,2025-08-06,05:26 AM
+Unspecified,9,Porter Hills Village Health Center,Katherine,Senagore,901497,DE,Deceased Date (Facility),Expired,,214-P,2025-08-27,05:55 AM,,Hospice Private,,,,,,,,,North,2025-08-27,10:16 AM
+Unspecified,9,Porter Hills Village Health Center,Raymond,DeBoer,901532,DE,Deceased Date (Facility),Expired,,264-P,2025-08-29,06:35 PM,,Hospice Private,,,,,,,,,East,2025-08-30,12:43 PM
+Unspecified,9,Porter Hills Village Health Center,Mary,Karcis,901303,PC,Payer Change,,265-P,265-P,2025-08-13,12:00 AM,Private Pay - PHV,Hospice Private,,,,,,,,,East,2025-08-25,11:48 AM

@@ -1,0 +1,5 @@
+{
+    "redshift_host":"acm-dwh-cluster.cvjgv4b7kzid.us-east-1.redshift.amazonaws.com",
+    "database":"uat",
+    "port":"5439"
+}

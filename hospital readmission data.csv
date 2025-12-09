@@ -1,0 +1,193 @@
+date,censusid,client_id,fac_id,residentnumber,firstname,lastname,action_code,actioncodedescription,entityname,levelofcare,facilityname,unitname,effectivedate,ineffectivedate,noofdaysstay,er_transfer,er_transfer_reason,er_transfer_outcome,purpose_of_stay
+2025-03-11,535831,2043912,2,200101,James,Vantil,PC,Payer Change,Green House Homes,SNF,Green House Homes Health Center,Green House 1,2025-03-11,9999-12-31,223,No,,,Chronic Long-Term
+2025-01-26,523098,1881921,9,901455,Gary,Leddick,RFL,Return from Leave/LOA,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-01-26,2025-05-23,117,No,,,Chronic Long-Term
+2025-02-22,528138,1201983,10,601210,Barbara,Warner,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-02-22,2025-02-23,1,No,,,Chronic Long-Term
+2025-04-23,538445,2057524,10,602501,David,Lixey,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-04-23,2025-05-18,25,No,,,Chronic Long-Term
+2025-04-18,537353,2223992,10,602749,Charles,Glover,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-04-18,2025-04-23,5,No,,,Post Acute
+2025-08-20,564030,955249,10,600960,Robert,McCleery,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 West,2025-08-20,9999-12-31,61,No,,,Chronic Long-Term
+2025-01-01,529867,1326539,10,601369,Anne,Doxtator,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-01-01,2025-02-01,31,No,,,Chronic Long-Term
+2025-04-01,550559,2140186,10,602619,Shirley,Underwood,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-04-01,2025-09-19,171,No,,,Chronic Long-Term
+2025-07-24,555987,2276496,10,602847,Jeffrey,St. Pierre,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-07-24,2025-08-01,8,No,,,Chronic Long-Term
+2025-07-16,554927,2304749,10,602887,Dana,Allan,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-07-16,2025-07-18,2,No,,,Post Acute
+2025-03-26,533618,816107,10,600801,Edythe,Tarno,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-03-26,2025-04-08,13,No,,,Post Acute
+2025-02-22,529197,1575041,9,901412,Sharon,Hudson,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-02-22,2025-04-01,38,No,,,Chronic Long-Term
+2025-03-27,533757,2189048,10,602707,Maryann,Folk,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-03-27,2025-04-03,7,No,,,Chronic Long-Term
+2025-06-29,551348,2291947,10,602869,Irene,Isom,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-06-29,2025-06-29,0,No,Other,ED Visit Only,Post Acute
+2025-01-28,523648,1754990,10,602002,Lloyd,Miller,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-01-28,2025-03-17,48,No,,,Post Acute
+2025-04-09,536217,2128853,9,901497,Katherine,Senagore,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-04-09,2025-08-27,140,No,,,Chronic Long-Term
+2025-09-11,564380,2353121,10,602963,Suzanne,Langen,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-09-11,2025-10-16,35,No,,,Post Acute
+2025-06-30,551490,1147685,2,200055,Gillian,Mckinstry,RFL,Return from Leave/LOA,Green House Homes,SNF,Green House Homes Health Center,Green House 1,2025-06-30,2025-07-13,13,No,,,Chronic Long-Term
+2025-07-29,556212,1249987,10,601268,Nancy,Stockwell,RH,Reserve Hospital,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-07-29,2025-08-01,3,No,"Abnormal Vital Signs (low/high BP, high respiratory rate)","Admitted, Inpatient",Chronic Long-Term
+2025-01-25,523088,1881921,9,901455,Gary,Leddick,LOA,Leave of Absence/LOA,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-01-25,2025-01-26,1,No,Other,,Chronic Long-Term
+2025-09-21,566227,2140186,10,602619,Shirley,Underwood,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-09-21,9999-12-31,29,No,,,Chronic Long-Term
+2025-07-29,556184,739037,9,901029,Glendon,Swanson,RFL,Return from Leave/LOA,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-07-29,9999-12-31,83,No,,,Chronic Long-Term
+2025-06-01,558717,2194354,9,901510,Steven,Hartley,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-06-01,2025-09-01,92,No,,,Chronic Long-Term
+2025-10-04,568407,2354434,10,602966,Linda,Sirls,RH,Reserve Hospital,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-10-04,2025-10-16,12,No,Other,"Admitted, Inpatient",Chronic Long-Term
+2025-05-04,541027,1947666,10,602295,Giannina,Reyes,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-05-04,2025-06-04,31,No,,,Chronic Long-Term
+2025-08-27,561417,2338112,10,602940,Dinah,Grissom,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-08-27,2025-09-25,29,No,,,Post Acute
+2025-01-27,523558,1754990,10,602002,Lloyd,Miller,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-01-27,2025-01-28,1,No,,,Chronic Long-Term
+2025-02-10,526087,2164775,10,602671,Charles,Teske,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-02-10,2025-02-11,1,No,,,Chronic Long-Term
+2025-05-16,545089,757437,9,901039,Allene,Long,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-05-16,9999-12-31,157,No,,,Chronic Long-Term
+2025-07-05,552567,1201983,10,601210,Barbara,Warner,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-07-05,9999-12-31,107,No,,,Chronic Long-Term
+2025-04-30,539779,2242791,10,602789,BRENDA,WHITEHEAD,RH,Reserve Hospital,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-04-30,2025-05-06,6,No,Nausea/vomiting,"Admitted, Inpatient",Chronic Long-Term
+2025-02-01,529877,1326539,10,601369,Anne,Doxtator,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-02-01,2025-04-01,59,No,,,Chronic Long-Term
+2025-07-25,555717,431280,10,600393,Vionne,Johnson,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-07-25,2025-07-28,3,No,,,Chronic Long-Term
+2025-07-25,556487,1615105,10,601774,William,Cable,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-07-25,2025-08-30,36,No,,,Chronic Long-Term
+2025-03-21,532659,2187103,10,602705,Richard,Marter,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-03-21,2025-04-01,11,No,,,Post Acute
+2025-01-07,520568,458478,10,600445,Gertrude,Troshak,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 North,2025-01-07,2025-01-09,2,No,,,Chronic Long-Term
+2025-08-01,556910,1249987,10,601268,Nancy,Stockwell,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-08-01,2025-08-26,25,No,,,Chronic Long-Term
+2025-05-21,543467,1634525,10,601817,Donald,Osugi,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-05-21,2025-05-22,1,No,,,Chronic Long-Term
+2025-05-01,543129,2194354,9,901510,Steven,Hartley,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-05-01,2025-06-01,31,No,,,Chronic Long-Term
+2025-08-01,556877,2286003,10,602863,Richard,Gobba,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-08-01,2025-08-09,8,No,,,Chronic Long-Term
+2025-09-15,565088,2348669,10,602960,Harold,Fisher,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-09-15,9999-12-31,35,No,,,Chronic Long-Term
+2025-04-20,537970,1201983,10,601210,Barbara,Warner,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-04-20,2025-04-21,1,No,,,Chronic Long-Term
+2025-03-01,529598,2057524,10,602501,David,Lixey,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-03-01,2025-03-21,20,No,,,Chronic Long-Term
+2025-07-14,553890,2282085,10,602857,Pedro,Tan,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-07-14,2025-08-07,24,No,,,Post Acute
+2025-03-13,531437,381110,10,108084,Lynn,Wagner,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 North,2025-03-13,2025-05-24,72,No,,,Chronic Long-Term
+2025-05-27,544727,1201983,10,601210,Barbara,Warner,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-05-27,2025-07-03,37,No,,,Chronic Long-Term
+2025-01-27,523278,1837869,10,602139,Edward,Zygowicz,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-01-27,2025-01-27,0,No,,,Post Acute
+2025-04-22,538269,2225110,10,602751,Celine,Beaulieu,RH,Reserve Hospital,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-04-22,2025-05-02,10,Yes,Other,"Admitted, Inpatient",Chronic Long-Term
+2025-04-24,538722,381756,10,108777,Joan,Barber,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-04-24,2025-05-08,14,No,,,Post Acute
+2025-02-01,530951,1057310,9,901266,Virgil,Vandersloot,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-02-01,2025-03-26,53,No,,,Chronic Long-Term
+2025-04-03,534999,1647296,10,601835,George,Miller,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-04-03,2025-04-17,14,No,,,Post Acute
+2025-01-02,519647,1947666,10,602295,Giannina,Reyes,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-01-02,2025-01-16,14,No,,,Post Acute
+2025-08-06,557469,2327097,10,602924,David,Tumey,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-08-06,2025-08-31,25,No,,,Post Acute
+2025-05-29,544959,1057310,9,901266,Virgil,Vandersloot,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-05-29,2025-10-19,143,No,,,Chronic Long-Term
+2025-05-31,545368,2249641,10,602799,Leona,Ransom,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-05-31,2025-07-16,46,No,,,Post Acute
+2025-03-21,535927,1297042,9,901356,Alco,Haga,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-03-21,2025-03-25,4,No,,,Chronic Long-Term
+2025-08-13,559007,2298613,10,602879,June,Havens,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-08-13,2025-08-16,3,No,,,Chronic Long-Term
+2025-04-21,538090,1201983,10,601210,Barbara,Warner,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-04-21,2025-05-26,35,No,,,Chronic Long-Term
+2025-05-01,552048,1935546,10,602276,Meredith,Grupe,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 North,2025-05-01,2025-08-01,92,No,,,Chronic Long-Term
+2025-08-20,560278,2277717,10,602851,Robert,Armstrong,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-08-20,2025-08-28,8,No,,,Chronic Long-Term
+2025-09-05,563727,1449907,2,200069,Fern,Brown,PC,Payer Change,Green House Homes,SNF,Green House Homes Health Center,Green House 2,2025-09-05,9999-12-31,45,No,,,Chronic Long-Term
+2025-03-04,531888,2111030,9,901494,William,Pettes,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-03-04,2025-06-01,89,No,,,Chronic Long-Term
+2025-01-28,529518,1792484,9,901444,Caroline,Johnson,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-01-28,2025-05-29,121,No,,,Chronic Long-Term
+2025-06-20,549257,896052,10,600887,Marilyn,Hennon,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-06-20,2025-07-16,26,No,,,Post Acute
+2025-05-28,544908,1981067,10,602349,Lois,Gardner,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-05-28,2025-06-05,8,No,,,Chronic Long-Term
+2025-02-23,528318,2187202,10,602706,Jeanne,Rowse,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-02-23,2025-03-18,23,No,,,Post Acute
+2025-06-02,545540,647969,10,600636,Deborah,Townsend,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-06-02,2025-06-28,26,No,,,Post Acute
+2025-01-01,519448,1278686,10,601303,Maxine,Moulton,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-01-01,2025-02-08,38,No,,,Chronic Long-Term
+2025-06-05,546320,1739622,10,601972,Abigail,Wilson,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-06-05,2025-07-17,42,No,,,Post Acute
+2025-05-01,540045,2236606,10,602773,Jo Ann,Hinesley,RH,Reserve Hospital,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-05-01,2025-05-12,11,No,Other,"Admitted, Inpatient",Chronic Long-Term
+2025-07-10,553269,2299596,10,602880,Carol,Deinzer,RR,Room Reserve,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-07-10,2025-07-12,2,No,,,Chronic Long-Term
+2025-04-28,539837,381876,10,108409,Helen,Brockmeier,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-04-28,2025-04-30,2,No,,,Chronic Long-Term
+2025-02-23,528291,1201983,10,601210,Barbara,Warner,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-02-23,2025-04-20,56,No,,,Chronic Long-Term
+2025-01-15,521408,2135429,10,602614,Suzanne,Koch,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-01-15,2025-03-25,69,No,,,Chronic Long-Term
+2025-07-03,552287,2288468,10,602866,Norah,Cranston,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-07-03,2025-07-03,0,No,,,Chronic Long-Term
+2025-01-06,525137,869350,10,600858,Marcene,Zick,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-01-06,2025-01-06,0,No,,,Chronic Long-Term
+2025-05-10,541807,1629181,10,601801,Marcia,Verhun,RR,Room Reserve,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 West,2025-05-10,2025-05-18,8,No,,,Chronic Long-Term
+2025-05-01,541227,1926699,9,901463,Miriam,Van Den Akker,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-05-01,2025-08-19,110,No,,,Chronic Long-Term
+2025-07-18,554937,2304749,10,602887,Dana,Allan,RH,Reserve Hospital,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-07-18,2025-07-19,1,No,Altered Mental Status,"Admitted, Inpatient",Chronic Long-Term
+2025-03-22,532897,832602,10,600820,Mona,Walz,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-03-22,2025-03-28,6,No,,,Post Acute
+2025-05-26,544347,1201983,10,601210,Barbara,Warner,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-05-26,2025-05-27,1,No,,,Chronic Long-Term
+2025-01-23,523325,1837869,10,602139,Edward,Zygowicz,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-01-23,2025-01-27,4,No,,,Chronic Long-Term
+2025-01-01,535847,1981067,10,602349,Lois,Gardner,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-01-01,2025-05-28,147,No,,,Chronic Long-Term
+2025-09-07,563399,668155,10,600659,Mary,Scott,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-09-07,2025-10-07,30,No,,,Post Acute
+2025-03-14,531857,2189778,10,602710,Jessica,Grim,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-03-14,2025-03-17,3,No,,,Chronic Long-Term
+2025-08-26,561457,2281070,10,602855,Gearldine,Blankenship,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-08-26,2025-08-29,3,No,,,Chronic Long-Term
+2025-04-23,538667,1377219,10,601432,Sam,Parise,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-04-23,2025-05-09,16,No,,,Chronic Long-Term
+2025-07-23,555319,2303601,10,602884,Fred,Kansier,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-07-23,2025-08-04,12,No,,,Chronic Long-Term
+2025-09-14,564779,1487548,10,601586,Mary,Meyer,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-09-14,2025-09-26,12,No,,,Chronic Long-Term
+2025-03-06,530290,1947666,10,602295,Giannina,Reyes,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-03-06,2025-04-01,26,No,,,Post Acute
+2025-06-15,559979,2281070,10,602855,Gearldine,Blankenship,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-06-15,2025-06-16,1,No,,,Post Acute
+2025-07-03,552348,1201983,10,601210,Barbara,Warner,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-07-03,2025-07-05,2,No,,,Chronic Long-Term
+2025-02-20,528008,2155932,10,602657,Marie,Vanschoten,RR,Room Reserve,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-02-20,2025-02-22,2,No,,,Chronic Long-Term
+2025-04-09,536120,1057310,9,901266,Virgil,Vandersloot,RFL,Return from Leave/LOA,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-04-09,2025-05-01,22,No,,,Chronic Long-Term
+2025-05-19,543078,2231791,10,602766,Cnarick,Ebrahimian,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-05-19,2025-06-11,23,No,,,Post Acute
+2025-07-22,555317,1615105,10,601774,William,Cable,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-07-22,2025-07-25,3,No,,,Chronic Long-Term
+2025-01-18,521779,2141176,10,602622,Ruth,Royer,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-01-18,2025-01-24,6,No,,,Post Acute
+2025-08-05,557567,2327097,10,602924,David,Tumey,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-08-05,2025-08-06,1,No,Other,ED Visit Only,Post Acute
+2025-04-23,538617,1057549,10,601049,Lawrence,Schramm,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-04-23,2025-04-26,3,No,,,Post Acute
+2025-05-18,542968,1629181,10,601801,Marcia,Verhun,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 West,2025-05-18,2025-07-13,56,No,,,Chronic Long-Term
+2025-02-14,526699,2176068,10,602691,Forest,Geesey,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-02-14,2025-03-21,35,No,,,Post Acute
+2025-08-18,560071,2277717,10,602851,Robert,Armstrong,RH,Reserve Hospital,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-08-18,2025-08-20,2,Yes,Other,"Admitted, Inpatient",Chronic Long-Term
+2025-08-01,556881,2313336,10,602900,Alice,Avedisian,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-08-01,2025-08-12,11,No,,,Post Acute
+2025-01-15,521437,1140079,10,601133,Carol,Schmucker,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 North,2025-01-15,2025-01-18,3,No,,,Chronic Long-Term
+2025-04-01,536072,1947666,10,602295,Giannina,Reyes,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-04-01,2025-04-01,0,No,,,Chronic Long-Term
+2025-07-17,554387,2277717,10,602851,Robert,Armstrong,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-07-17,2025-08-18,32,No,,,Chronic Long-Term
+2025-08-28,561607,2316860,10,602906,Nancy,Brower,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-08-28,2025-09-04,7,No,,,Chronic Long-Term
+2025-07-18,554629,1147685,2,200055,Gillian,Mckinstry,RFL,Return from Leave/LOA,Green House Homes,SNF,Green House Homes Health Center,Green House 1,2025-07-18,2025-07-19,1,No,,,Chronic Long-Term
+2025-01-27,523303,1837869,10,602139,Edward,Zygowicz,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-01-27,2025-03-01,33,No,,,Chronic Long-Term
+2025-07-01,560588,2203633,9,901513,Paulette,Provolt,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-07-01,2025-08-01,31,No,,,Chronic Long-Term
+2025-10-13,569741,2370783,10,602999,Elaine,Cotant,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-10-13,9999-12-31,7,No,,,Post Acute
+2025-02-27,529157,2038367,2,200100,Thomas,Grimes,PC,Payer Change,Green House Homes,SNF,Green House Homes Health Center,Green House 2,2025-02-27,2025-03-01,2,No,,,Chronic Long-Term
+2025-05-06,542657,1412172,10,601480,Janet,Davis,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-05-06,2025-05-15,9,No,,,Chronic Long-Term
+2025-04-30,539839,1935546,10,602276,Meredith,Grupe,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 North,2025-04-30,2025-05-01,1,No,,,Chronic Long-Term
+2025-03-14,536908,2204809,10,602730,David,Williams,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-03-14,2025-03-15,1,No,,,Chronic Long-Term
+2025-07-04,553009,874189,10,600861,Beulah,Lesser,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 West,2025-07-04,9999-12-31,108,No,,,Chronic Long-Term
+2025-06-22,549527,2242791,10,602789,BRENDA,WHITEHEAD,RH,Reserve Hospital,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-06-22,2025-07-02,10,Yes,Seizure,"Admitted, Inpatient",Chronic Long-Term
+2025-06-13,547720,431280,10,600393,Vionne,Johnson,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-06-13,2025-06-24,11,No,,,Post Acute
+2025-02-27,529137,2170038,10,602676,Kenneth,Christ,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-02-27,2025-03-05,6,No,,,Chronic Long-Term
+2025-09-06,563309,2341025,10,602947,Phyllis,Lemble,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-09-06,2025-09-12,6,No,,,Post Acute
+2025-07-30,556390,1775642,10,602046,William,Koch,RH,Reserve Hospital,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 West,2025-07-30,2025-07-31,1,No,Altered Mental Status,"Admitted, Inpatient",Chronic Long-Term
+2025-07-16,554320,2273082,10,602842,Larry,Martin,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-07-16,2025-07-18,2,No,,,Post Acute
+2025-09-03,562868,765026,9,901043,Darla,Maloney,RFL,Return from Leave/LOA,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-09-03,2025-09-30,27,No,,,Chronic Long-Term
+2025-02-24,528757,1576582,10,601711,Kathleen,Horn,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-02-24,2025-02-25,1,No,,,Chronic Long-Term
+2025-08-23,560748,2321996,10,602914,Linda,Straub,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-08-23,2025-09-11,19,No,,,Post Acute
+2025-05-15,542667,1412172,10,601480,Janet,Davis,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 West,2025-05-15,9999-12-31,158,No,,,Chronic Long-Term
+2025-07-09,552852,2281070,10,602855,Gearldine,Blankenship,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-07-09,2025-07-18,9,No,,,Post Acute
+2025-09-25,566928,2358023,10,602974,Gloria,Pietrewicz,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-09-25,2025-10-07,12,No,,,Post Acute
+2025-06-01,562500,2111030,9,901494,William,Pettes,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-06-01,2025-07-01,30,No,,,Chronic Long-Term
+2025-04-30,539809,2231092,10,602763,Karen,Simmons,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-04-30,2025-05-23,23,No,,,Post Acute
+2025-04-12,536617,1057549,10,601049,Lawrence,Schramm,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-04-12,2025-04-15,3,No,,,Post Acute
+2025-04-24,538657,1896037,10,602225,Timothy,Wade,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-04-24,2025-08-29,127,No,,,Chronic Long-Term
+2025-02-20,527827,2173680,10,602688,Charles,Eagen,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-02-20,2025-02-22,2,No,,,Chronic Long-Term
+2025-03-11,530558,1313978,10,601351,Marion,Griffiths,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-03-11,2025-03-25,14,No,,,Post Acute
+2025-07-04,552980,2183526,10,602700,Catherine,Cottrell,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-07-04,2025-07-07,3,No,,,Chronic Long-Term
+2025-09-08,563737,1243720,9,901331,Marilyn,English,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-09-08,9999-12-31,42,No,,,Chronic Long-Term
+2025-09-19,565897,2140186,10,602619,Shirley,Underwood,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-09-19,2025-09-21,2,No,,,Chronic Long-Term
+2025-04-13,536659,2214697,10,602739,Margaret,Trimble,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-04-13,2025-04-16,3,No,,,Post Acute
+2025-10-03,568078,2310572,10,602897,Martha,McNutt,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-10-03,2025-10-17,14,No,,,Chronic Long-Term
+2025-08-30,562008,1441278,10,601516,Bertie,Bonnell,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 West,2025-08-30,9999-12-31,51,No,,,Chronic Long-Term
+2025-06-09,546811,2271986,10,602840,Robert,Fraser,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-06-09,2025-06-20,11,No,,,Post Acute
+2025-10-10,569359,2375979,10,603006,Miriam,Warmingham,RH,Reserve Hospital,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-10-10,2025-10-14,4,No,Other,,Chronic Long-Term
+2025-10-13,569838,1575041,9,901412,Sharon,Hudson,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-10-13,9999-12-31,7,No,,,Chronic Long-Term
+2025-08-12,558767,2313336,10,602900,Alice,Avedisian,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-08-12,2025-08-20,8,No,,,Chronic Long-Term
+2025-10-07,569597,1688015,2,200075,Robert,Corl,PC,Payer Change,Green House Homes,SNF,Green House Homes Health Center,Green House 2,2025-10-07,9999-12-31,13,No,,,Chronic Long-Term
+2025-02-11,528767,2140186,10,602619,Shirley,Underwood,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-02-11,2025-02-14,3,No,,,Chronic Long-Term
+2025-01-01,529668,2058500,2,200102,Elaine,Lamphere,PC,Payer Change,Green House Homes,SNF,Green House Homes Health Center,Green House 2,2025-01-01,2025-04-01,90,No,,,Chronic Long-Term
+2025-06-23,550299,1638270,9,901420,Theodore,Fuger,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-06-23,2025-07-01,8,No,,,Chronic Long-Term
+2025-06-19,548977,2035714,10,602453,Frank,Papp,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-06-19,9999-12-31,123,No,,,Chronic Long-Term
+2025-08-30,562448,2310572,10,602897,Martha,McNutt,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-08-30,2025-09-01,2,No,,,Chronic Long-Term
+2025-01-01,523457,1629181,10,601801,Marcia,Verhun,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 West,2025-01-01,2025-05-10,129,No,,,Chronic Long-Term
+2025-06-20,560067,2281070,10,602855,Gearldine,Blankenship,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-06-20,2025-07-03,13,No,,,Post Acute
+2025-06-22,549509,1799856,10,602085,Cledith,Williams,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-06-22,2025-06-27,5,No,,,Chronic Long-Term
+2025-03-28,534009,2193614,10,602718,Stanley,Drewno,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-03-28,2025-04-03,6,No,,,Chronic Long-Term
+2025-08-12,558778,2298556,10,602878,Roberta,Smith,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-08-12,2025-09-12,31,No,,,Post Acute
+2025-10-02,567991,765026,9,901043,Darla,Maloney,RFL,Return from Leave/LOA,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-10-02,9999-12-31,18,No,,,Chronic Long-Term
+2025-08-10,558241,1947666,10,602295,Giannina,Reyes,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-08-10,2025-09-29,50,No,,,Chronic Long-Term
+2025-01-21,522341,901155,10,600894,Patricia,Seeger,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 North,2025-01-21,2025-02-12,22,No,,,Post Acute
+2025-08-13,561129,1165462,9,901303,Mary,Karcis,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-08-13,9999-12-31,68,No,,,Chronic Long-Term
+2025-02-11,526077,2173680,10,602688,Charles,Eagen,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-02-11,2025-02-15,4,No,,,Chronic Long-Term
+2025-09-19,566777,2345509,10,602954,Vale,Salkauskas,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-09-19,9999-12-31,31,No,,,Chronic Long-Term
+2025-04-30,539847,1589991,10,601732,Helen,Barnes,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-04-30,2025-05-06,6,No,,,Chronic Long-Term
+2025-02-12,525988,2171025,10,602680,Patricia,Knoll,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-02-12,2025-03-06,22,No,,,Post Acute
+2025-01-01,533389,2112640,2,200106,Linda,Wiersema,PC,Payer Change,Green House Homes,SNF,Green House Homes Health Center,Green House 1,2025-01-01,2025-05-01,120,No,,,Chronic Long-Term
+2025-02-12,529147,1752731,9,901437,Bernice,Lehman,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,North,2025-02-12,2025-02-20,8,No,,,Chronic Long-Term
+2025-09-03,562680,2089843,10,602555,Jessie,Siekmeier,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 South,2025-09-03,2025-09-04,1,No,Other,"Admitted, Status Uncertain",Chronic Long-Term
+2025-10-04,568399,2354107,10,602965,Rosemarie,Kushmaul,RH,Reserve Hospital,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-10-04,2025-10-07,3,No,Other,"Admitted, Inpatient",Chronic Long-Term
+2025-01-22,522487,2022955,10,602430,Gregory,Gillette,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-01-22,2025-01-22,0,No,,,Chronic Long-Term
+2025-02-12,526149,901155,10,600894,Patricia,Seeger,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 North,2025-02-12,2025-06-01,109,No,,,Chronic Long-Term
+2025-09-29,568107,1947666,10,602295,Giannina,Reyes,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-09-29,9999-12-31,21,No,,,Chronic Long-Term
+2025-06-11,550387,2203633,9,901513,Paulette,Provolt,PC,Payer Change,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-06-11,2025-07-01,20,No,,,Chronic Long-Term
+2025-07-07,552648,2298556,10,602878,Roberta,Smith,RA,ReAdmission,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-07-07,2025-08-07,31,No,,,Post Acute
+2025-02-21,529861,1304045,10,601332,Earl,Samuels,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-02-21,2025-02-22,1,No,,,Chronic Long-Term
+2025-05-30,545150,2249641,10,602799,Leona,Ransom,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-05-30,2025-05-31,1,No,Other,Other,Post Acute
+2025-08-01,567859,955249,10,600960,Robert,McCleery,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 West,2025-08-01,2025-08-20,19,No,,,Chronic Long-Term
+2025-10-02,567877,2356119,10,602969,Norma,Meacham,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-10-02,9999-12-31,18,No,,,Chronic Long-Term
+2025-09-26,567049,1487548,10,601586,Mary,Meyer,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-09-26,2025-09-28,2,No,,,Chronic Long-Term
+2025-09-06,563288,2311520,9,901529,Janice,Riedel,RFL,Return from Leave/LOA,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-09-06,2025-10-06,30,No,,,Chronic Long-Term
+2025-07-26,557628,155811,2,200009,Sandra,Grassa,PC,Payer Change,Green House Homes,SNF,Green House Homes Health Center,Green House 1,2025-07-26,9999-12-31,86,No,,,Chronic Long-Term
+2025-01-01,519399,2122232,10,602599,Timothy,Fero,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-01-01,2025-01-10,9,No,,,Chronic Long-Term
+2025-05-14,542250,2236606,10,602773,Jo Ann,Hinesley,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-05-14,2025-05-23,9,No,,,Post Acute
+2025-02-04,524587,1563944,10,601691,Mary,Lucas,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 North,2025-02-04,2025-02-10,6,No,,,Chronic Long-Term
+2025-02-01,550637,1965510,10,602322,Roger,DeVaughn,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K2 North,2025-02-01,2025-07-01,150,No,,,Chronic Long-Term
+2025-05-16,542647,2237786,10,602781,Vera,Mical,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1600,2025-05-16,2025-05-16,0,No,,,Chronic Long-Term
+2025-10-17,570557,1487548,10,601586,Mary,Meyer,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-10-17,9999-12-31,3,No,,,Chronic Long-Term
+2025-03-25,535707,2203528,10,602727,Mary,Green,RR,Room Reserve,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-03-25,2025-04-06,12,No,,,Chronic Long-Term
+2025-09-28,567257,1487548,10,601586,Mary,Meyer,RFL,Return from Leave/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-09-28,2025-10-17,19,No,,,Chronic Long-Term
+2025-03-27,533767,2140186,10,602619,Shirley,Underwood,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 North,2025-03-27,2025-04-01,5,No,,,Chronic Long-Term
+2025-05-31,545459,2258078,10,602812,Helen,Doane,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,1700,2025-05-31,2025-06-03,3,No,,,Chronic Long-Term
+2025-10-06,568767,2311520,9,901529,Janice,Riedel,RFL,Return from Leave/LOA,Porter Hills Village,SNF,Porter Hills Village Health Center,East,2025-10-06,2025-10-17,11,No,,,Chronic Long-Term
+2025-09-12,564500,1487548,10,601586,Mary,Meyer,LOA,Leave of Absence/LOA,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-09-12,2025-09-14,2,No,,,Chronic Long-Term
+2025-06-16,560058,2281070,10,602855,Gearldine,Blankenship,PC,Payer Change,Kresge,SNF,Kresge Healthcare & Rehabilitation Center,K1 South,2025-06-16,2025-06-20,4,No,,,Chronic Long-Term

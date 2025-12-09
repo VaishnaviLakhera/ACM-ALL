@@ -1,0 +1,71 @@
+{
+    "Springhill Forestview":{
+        "purpose": {
+            "transitioned":{"title":"Transitioned to High Risk in the Last 24 Hours",
+                            "count_title":"Count of Residents Transitioned to High Risk in the Last 24 Hours:",
+                            "body": "This is to notify that the listed Resident/Residents have moved to 'High Risk' in the last 24 hours.",
+                            "link": "https://us-east-1.quicksight.aws.amazon.com/sn/account/asbury-twt/dashboards/694459f9-26e7-46e6-97a1-8396f0d5a41c/views/710b9788-403d-4ee9-b6b1-ab5e1839c7ad"
+                            },
+            "all":          {"title":"All Risk Levels for the last 24 Hours",
+                            "count_title":"Count Of Residents For All Risk Level:",
+                            "body": "This is to notify the Risk Level Status of Resident/Residents for the last 24 hours.",
+                            "link": "https://us-east-1.quicksight.aws.amazon.com/sn/account/asbury-twt/dashboards/694459f9-26e7-46e6-97a1-8396f0d5a41c/views/76d32a59-2c6c-4355-9f06-0c5d1b263399"
+            }
+        }
+    },
+    "Asbury Methodist Village":{
+        "purpose": {
+            "transitioned":{"title":"Transitioned to High Risk in the Last 24 Hours",
+                            "count_title":"Count of Residents Transitioned to High Risk in the Last 24 Hours:",
+                            "body": "This is to notify that the listed Resident/Residents have moved to 'High Risk' in the last 24 hours.",
+                            "link": "https://us-east-1.quicksight.aws.amazon.com/sn/account/asbury-twt/dashboards/694459f9-26e7-46e6-97a1-8396f0d5a41c/views/2661d606-df35-404e-ad6e-f36032b9361d"
+                            },
+            "all":          {"title":"All Risk Levels for the last 24 Hours",
+                            "count_title":"Count Of Residents For All Risk Level:",
+                            "body": "This is to notify the Risk Level Status of Resident/Residents for the last 24 hours.",
+                            "link": "https://us-east-1.quicksight.aws.amazon.com/sn/account/asbury-twt/dashboards/694459f9-26e7-46e6-97a1-8396f0d5a41c/views/1989fdf5-0376-44e7-a228-4fb7c5171c0b"
+            }
+        }
+    },
+    "Normandie Ridge":{
+        "purpose": {
+            "transitioned":{"title":"Transitioned to High Risk in the Last 24 Hours",
+                            "count_title":"Count of Residents Transitioned to High Risk in the Last 24 Hours:",
+                            "body": "This is to notify that the listed Resident/Residents have moved to 'High Risk' in the last 24 hours.",
+                            "link": "https://us-east-1.quicksight.aws.amazon.com/sn/account/asbury-twt/dashboards/694459f9-26e7-46e6-97a1-8396f0d5a41c/views/1daf6174-9d78-49b6-8412-b5d933f5bcca"
+                            },
+            "all":          {"title":"All Risk Levels for the last 24 Hours",
+                            "count_title":"Count Of Residents For All Risk Level:",
+                            "body": "This is to notify the Risk Level Status of Resident/Residents for the last 24 hours.",
+                            "link": "https://us-east-1.quicksight.aws.amazon.com/sn/account/asbury-twt/dashboards/694459f9-26e7-46e6-97a1-8396f0d5a41c/views/15b2d2cf-cc72-4e96-91fd-351ff1224242" 
+            }
+        }
+    },
+    "Bethany Village":{
+        "purpose": {
+            "transitioned":{"title":"Transitioned to High Risk in the Last 24 Hours",
+            "count_title":"Count of Residents Transitioned to High Risk in the Last 24 Hours:",
+                            "body": "This is to notify that the listed Resident/Residents have moved to 'High Risk' in the last 24 hours.",
+                            "link": "https://us-east-1.quicksight.aws.amazon.com/sn/account/asbury-twt/dashboards/694459f9-26e7-46e6-97a1-8396f0d5a41c/views/916e5ad3-4b21-40ae-80a1-5e96a66b8994" 
+                            },
+            "all":          {"title":"All Risk Levels for the last 24 Hours",
+                            "count_title":"Count Of Residents For All Risk Level:",
+                            "body": "This is to notify the Risk Level Status of Resident/Residents for the last 24 hours.",
+                            "link": "https://us-east-1.quicksight.aws.amazon.com/sn/account/asbury-twt/dashboards/694459f9-26e7-46e6-97a1-8396f0d5a41c/views/9d36a999-9a29-4e84-883d-3812f95cdeec"
+            }
+        }}
+        ,
+     "Asbury Solomons":{
+        "purpose": {
+            "transitioned":{"title":"Transitioned to High Risk in the Last 24 Hours",
+                            "count_title":"Count of Residents Transitioned to High Risk in the Last 24 Hours:",
+                            "body": "This is to notify that the listed Resident/Residents have moved to 'High Risk' in the last 24 hours.",
+                            "link": "https://us-east-1.quicksight.aws.amazon.com/sn/account/asbury-twt/dashboards/694459f9-26e7-46e6-97a1-8396f0d5a41c/views/c3c51f93-7189-4cd9-9ab1-041593133fb1" 
+                            },
+            "all":          {"title":"All Risk Levels for the last 24 Hours",
+                            "count_title":"Count Of Residents For All Risk Level:",
+                            "body": "This is to notify the Risk Level Status of Resident/Residents for the last 24 hours.",
+                            "link": "https://us-east-1.quicksight.aws.amazon.com/sn/account/asbury-twt/dashboards/694459f9-26e7-46e6-97a1-8396f0d5a41c/views/0d7a9737-749e-472d-a421-b67dc3009294"
+            }
+        }}
+}

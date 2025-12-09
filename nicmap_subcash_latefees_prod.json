@@ -1,0 +1,20 @@
+{"nicmap":{
+    "sender":"dataservices@thrivewelltech.com",
+    "recipients":"SScaff@Asbury.org,jmorrison@asbury.org",
+    "bcc":["ln@thrivewelltech.com","jpaparizos@thrivewelltech.com"],
+    "subject": "PROD - Actual Rates file for",
+    "body":"",
+    "s3_bucket":"acm-fileshare-nicmap-subcash-latefees",
+    "nicmap_folder_key":"files/nicmap/"
+},
+"latefees-subcash":{
+    "sender":"dataservices@thrivewelltech.com",
+    "recipients":"jhershey@asbury.org",
+    "bcc":["ln@thrivewelltech.com","jpaparizos@thrivewelltech.com"],
+    "subject": "PROD - Sub Cash file for 2025-01-01 through",
+    "body":"",
+    "s3_bucket":"acm-fileshare-nicmap-subcash-latefees",
+    "subcash_folder_key":"files/subcash/",
+    "latefees_folder_key":"files/latefees/"
+}
+}

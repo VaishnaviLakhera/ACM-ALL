@@ -1,0 +1,1174 @@
+transaction_id,facility_name,levelofcare,last_name,first_name,patient_id,transaction_description,effectivedate,description,#_of_units,cheque_number,billed_amount,paid_amount,open_ar_latefees,billing_date,reveresed_transaction_flag
+2479469,Asbury Grace Park Assisted Living,AL,Fitzgerald,Adele,606830,Late Fee,10/3/2025,Finance Charge,1,,165.62,0,165.62,9/30/2025,
+1479261,Asbury Grace Park Assisted Living,AL,Freach,Susan,255793,Late Fee,3/3/2025,Finance Charge,1,,76.72,0,76.72,2/28/2025,
+1655447,Asbury Grace Park Assisted Living,AL,Freach,Susan,255793,Late Fee,4/3/2025,Finance Charge,1,,77.87,0,77.87,4/3/2025,
+1822897,Asbury Grace Park Assisted Living,AL,Freach,Susan,255793,Late Fee,5/3/2025,Finance Charge,1,,79.04,0,79.04,5/5/2025,
+1822902,Asbury Grace Park Assisted Living,AL,Hess,Edith,255840,Late Fee,5/3/2025,Finance Charge,1,,147.96,0,147.96,5/5/2025,
+2138102,Asbury Grace Park Assisted Living,AL,Hess,Edith,255840,Late Fee,8/3/2025,Finance Charge,1,,78.12,0,78.12,7/31/2025,
+2278275,Asbury Grace Park Assisted Living,AL,Hess,Edith,255840,Late Fee,9/3/2025,Finance Charge,1,,79.41,0,79.41,8/31/2025,
+2479462,Asbury Grace Park Assisted Living,AL,Hess,Edith,255840,Late Fee,10/3/2025,Finance Charge,1,,149.9,0,149.9,9/30/2025,
+1822901,Asbury Grace Park Assisted Living,AL,Logan,George,255822,Late Fee,5/3/2025,Finance Charge,1,,67.12,0,67.12,5/5/2025,9
+1998845,Asbury Grace Park Assisted Living,AL,Logan,George,255822,Late Fee,5/3/2025,Finance Charge,-1,,-67.12,0,-67.12,6/20/2025,9
+2479459,Asbury Grace Park Assisted Living,AL,Ogara,Marie,255814,Late Fee,10/3/2025,Finance Charge,1,,18.23,0,18.23,9/30/2025,
+2479470,Asbury Grace Park Assisted Living,AL,Walsh,Dolores,612506,Late Fee,10/3/2025,Finance Charge,1,,86.4,0,86.4,9/30/2025,
+1822657,Asbury Grace Park Residential Living,IL,Entress,Betty,255859,Late Fee,5/3/2025,Finance Charge,1,,35.9,0,35.9,4/30/2025,12
+1827404,Asbury Grace Park Residential Living,IL,Entress,Betty,255859,Late Fee,5/3/2025,Finance Charge,-1,,-35.9,0,-35.9,4/30/2025,12
+2063694,Asbury Ivy Gables Assisted Living,AL,Hopkins,Ruth,591961,Late Fee,7/3/2025,Finance Charge,1,,98.24,0,98.24,6/30/2025,
+2137841,Asbury Ivy Gables Assisted Living,AL,Hopkins,Ruth,591961,Late Fee,8/3/2025,Finance Charge,1,,199.44,0,199.44,7/31/2025,
+2063696,Asbury Ivy Gables Assisted Living,AL,Jackson,Barry,632997,Late Fee,7/3/2025,Finance Charge,1,,132.45,0,132.45,6/30/2025,
+2137842,Asbury Ivy Gables Assisted Living,AL,Jackson,Barry,632997,Late Fee,8/3/2025,Finance Charge,1,,271.82,0,271.82,7/31/2025,
+2278046,Asbury Ivy Gables Assisted Living,AL,Jackson,Barry,632997,Late Fee,9/3/2025,Finance Charge,1,,285,0,285,8/31/2025,
+2479256,Asbury Ivy Gables Assisted Living,AL,Jackson,Barry,632997,Late Fee,10/3/2025,Finance Charge,1,,346.8,0,346.8,9/30/2025,
+2479263,Asbury Ivy Gables Assisted Living,AL,McKeown,Nancy,800821,Late Fee,10/3/2025,Finance Charge,1,,133.91,0,133.91,9/30/2025,
+1822658,Asbury Ivy Gables Assisted Living,AL,Testa,Norma,255897,Late Fee,5/3/2025,Finance Charge,1,,139.19,0,139.19,5/5/2025,
+1900913,Asbury Ivy Gables Assisted Living,AL,Testa,Norma,255897,Late Fee,6/3/2025,Finance Charge,1,,2.09,0,2.09,6/3/2025,
+1338441,Asbury Methodist Village Assisted Living,AL,Buell,Vernice,77399,Late Fee,2/3/2025,Finance Charge,1,,169.78,0,169.78,1/31/2025,
+1479040,Asbury Methodist Village Assisted Living,AL,Buell,Vernice,77399,Late Fee,3/3/2025,Finance Charge,1,,325.92,0,325.92,2/28/2025,
+1338482,Asbury Methodist Village Assisted Living,AL,Burkhardt-Jordan,Carolyn,376553,Late Fee,2/3/2025,Finance Charge,1,,64.35,0,64.35,1/31/2025,
+1479094,Asbury Methodist Village Assisted Living,AL,Burkhardt-Jordan,Carolyn,376553,Late Fee,3/3/2025,Finance Charge,1,,0.96,0,0.96,2/28/2025,
+1900955,Asbury Methodist Village Assisted Living,AL,Corliss,Joseph,480052,Late Fee,6/3/2025,Finance Charge,1,,176.28,0,176.28,5/31/2025,
+2063612,Asbury Methodist Village Assisted Living,AL,Corliss,Joseph,480052,Late Fee,7/3/2025,Finance Charge,1,,157.24,0,157.24,6/30/2025,
+2137905,Asbury Methodist Village Assisted Living,AL,Corliss,Joseph,480052,Late Fee,8/3/2025,Finance Charge,1,,163.13,0,163.13,7/31/2025,
+1338467,Asbury Methodist Village Assisted Living,AL,d'Almeida,Donna,80081,Late Fee,2/3/2025,Finance Charge,1,,24.02,0,24.02,1/31/2025,90
+1454919,Asbury Methodist Village Assisted Living,AL,d'Almeida,Donna,80081,Late Fee,2/3/2025,Finance Charge,-1,,-24.02,0,-24.02,2/14/2025,90
+1338466,Asbury Methodist Village Assisted Living,AL,d'Almeida,Innocent,80071,Late Fee,2/3/2025,Finance Charge,1,,141.42,0,141.42,1/31/2025,91
+1454918,Asbury Methodist Village Assisted Living,AL,d'Almeida,Innocent,80071,Late Fee,2/3/2025,Finance Charge,-1,,-141.42,0,-141.42,2/14/2025,91
+2063608,Asbury Methodist Village Assisted Living,AL,d'Almeida,Innocent,80071,Late Fee,7/3/2025,Finance Charge,1,,6.78,0,6.78,6/30/2025,
+2278068,Asbury Methodist Village Assisted Living,AL,Deckelman,Mary Sue,102789,Late Fee,9/3/2025,Finance Charge,1,,162.29,0,162.29,8/31/2025,29
+2372331,Asbury Methodist Village Assisted Living,AL,Deckelman,Mary Sue,102789,Late Fee,9/3/2025,Finance Charge,-1,,-162.29,0,-162.29,9/8/2025,29
+1900944,Asbury Methodist Village Assisted Living,AL,Dickson,Mary,220935,Late Fee,6/3/2025,Finance Charge,1,,164.49,0,164.49,5/31/2025,
+2137911,Asbury Methodist Village Assisted Living,AL,Doyle,Dorothy,618377,Late Fee,8/3/2025,Finance Charge,1,,187.4,0,187.4,7/31/2025,31
+2382760,Asbury Methodist Village Assisted Living,AL,Doyle,Dorothy,618377,Late Fee,8/3/2025,Finance Charge,-1,,-187.4,0,-187.4,9/17/2025,31
+2137913,Asbury Methodist Village Assisted Living,AL,Doyle,John,618430,Late Fee,8/3/2025,Finance Charge,1,,61.05,0,61.05,7/31/2025,32
+2382761,Asbury Methodist Village Assisted Living,AL,Doyle,John,618430,Late Fee,8/3/2025,Finance Charge,-1,,-61.05,0,-61.05,9/17/2025,32
+2278053,Asbury Methodist Village Assisted Living,AL,Feinberg,Dorothy,77433,Late Fee,9/3/2025,Finance Charge,1,,0.58,0,0.58,8/31/2025,33
+2365085,Asbury Methodist Village Assisted Living,AL,Feinberg,Dorothy,77433,Late Fee,9/3/2025,Finance Charge,-1,,-0.58,0,-0.58,8/31/2025,33
+2063591,Asbury Methodist Village Assisted Living,AL,Feinberg,Joseph,77392,Late Fee,7/3/2025,Finance Charge,1,,162.4,0,162.4,6/30/2025,
+2137885,Asbury Methodist Village Assisted Living,AL,Feinberg,Joseph,77392,Late Fee,8/3/2025,Finance Charge,1,,247.23,0,247.23,7/31/2025,
+2278051,Asbury Methodist Village Assisted Living,AL,Feinberg,Joseph,77392,Late Fee,9/3/2025,Finance Charge,1,,328.98,0,328.98,8/31/2025,36
+2365084,Asbury Methodist Village Assisted Living,AL,Feinberg,Joseph,77392,Late Fee,9/3/2025,Finance Charge,-1,,-328.98,0,-328.98,8/31/2025,36
+1338464,Asbury Methodist Village Assisted Living,AL,Feit,Rosalind,80022,Late Fee,2/3/2025,Finance Charge,1,,16.46,0,16.46,1/31/2025,
+1822641,Asbury Methodist Village Assisted Living,AL,Feit,Rosalind,80022,Late Fee,5/3/2025,Finance Charge,1,,5.85,0,5.85,4/30/2025,
+2063607,Asbury Methodist Village Assisted Living,AL,Feit,Rosalind,80022,Late Fee,7/3/2025,Finance Charge,1,,5.85,0,5.85,6/30/2025,
+1479096,Asbury Methodist Village Assisted Living,AL,Findley,Elloree,412868,Late Fee,3/3/2025,Finance Charge,1,,33.71,0,33.71,2/28/2025,40
+1588932,Asbury Methodist Village Assisted Living,AL,Findley,Elloree,412868,Late Fee,3/3/2025,Finance Charge,-1,,-33.71,0,-33.71,3/19/2025,40
+2137889,Asbury Methodist Village Assisted Living,AL,Forbes,Gordon,77427,Late Fee,8/3/2025,Finance Charge,1,,173.45,0,173.45,7/31/2025,
+1338478,Asbury Methodist Village Assisted Living,AL,Friel,Veronica,351776,Late Fee,2/3/2025,Finance Charge,1,,150.2,0,150.2,1/31/2025,
+1338447,Asbury Methodist Village Assisted Living,AL,Gowetski,Richard,77418,Late Fee,2/3/2025,Finance Charge,1,,168.93,0,168.93,1/31/2025,43
+1729775,Asbury Methodist Village Assisted Living,AL,Gowetski,Richard,77418,Late Fee,2/3/2025,Finance Charge,-1,,-168.93,0,-168.93,4/16/2025,43
+1479042,Asbury Methodist Village Assisted Living,AL,Gowetski,Richard,77418,Late Fee,3/3/2025,Finance Charge,1,,171.46,0,171.46,2/28/2025,
+1655170,Asbury Methodist Village Assisted Living,AL,Gowetski,Richard,77418,Late Fee,4/3/2025,Finance Charge,1,,171.46,0,171.46,3/31/2025,
+1900949,Asbury Methodist Village Assisted Living,AL,Gustin,Evelyn,308122,Late Fee,6/3/2025,Finance Charge,1,,101.13,0,101.13,5/31/2025,
+2278070,Asbury Methodist Village Assisted Living,AL,Gustin,Evelyn,308122,Late Fee,9/3/2025,Finance Charge,1,,100.8,0,100.8,8/31/2025,
+1338471,Asbury Methodist Village Assisted Living,AL,Gustin,Ray,307928,Late Fee,2/3/2025,Finance Charge,1,,174.12,0,174.12,1/31/2025,
+1900947,Asbury Methodist Village Assisted Living,AL,Gustin,Ray,307928,Late Fee,6/3/2025,Finance Charge,1,,162.32,0,162.32,5/31/2025,
+2063609,Asbury Methodist Village Assisted Living,AL,Gustin,Ray,307928,Late Fee,7/3/2025,Finance Charge,1,,321.99,0,321.99,6/30/2025,
+2278069,Asbury Methodist Village Assisted Living,AL,Gustin,Ray,307928,Late Fee,9/3/2025,Finance Charge,1,,162.27,0,162.27,8/31/2025,
+1655171,Asbury Methodist Village Assisted Living,AL,Hallman,Carlee,77437,Late Fee,4/3/2025,Finance Charge,1,,81,0,81,3/31/2025,52
+1884261,Asbury Methodist Village Assisted Living,AL,Hallman,Carlee,77437,Late Fee,4/3/2025,Finance Charge,-1,,-81,0,-81,5/30/2025,52
+1338455,Asbury Methodist Village Assisted Living,AL,Hanes,Helen,77453,Late Fee,2/3/2025,Finance Charge,1,,102.3,0,102.3,1/31/2025,
+1479045,Asbury Methodist Village Assisted Living,AL,Hanes,Helen,77453,Late Fee,3/3/2025,Finance Charge,1,,113.91,0,113.91,2/28/2025,
+2278055,Asbury Methodist Village Assisted Living,AL,Hanes,Helen,77453,Late Fee,9/3/2025,Finance Charge,1,,53.42,0,53.42,8/31/2025,
+1900939,Asbury Methodist Village Assisted Living,AL,Jennings,Barbara,77441,Late Fee,6/3/2025,Finance Charge,1,,162.7,0,162.7,5/31/2025,56
+2003650,Asbury Methodist Village Assisted Living,AL,Jennings,Barbara,77441,Late Fee,6/3/2025,Finance Charge,-1,,-162.7,0,-162.7,6/4/2025,56
+1338430,Asbury Methodist Village Assisted Living,AL,Jervis,Nelson,77313,Late Fee,2/3/2025,Finance Charge,1,,4.22,0,4.22,1/31/2025,
+1338458,Asbury Methodist Village Assisted Living,AL,Jones,Ruth,77473,Late Fee,2/3/2025,Finance Charge,1,,254.64,0,254.64,1/31/2025,
+1338433,Asbury Methodist Village Assisted Living,AL,Joyce,Annemarie,77316,Late Fee,2/3/2025,Finance Charge,1,,81.27,0,81.27,1/31/2025,
+2278076,Asbury Methodist Village Assisted Living,AL,Kann,Frieda,502600,Late Fee,9/3/2025,Finance Charge,1,,198.9,0,198.9,8/31/2025,
+2479268,Asbury Methodist Village Assisted Living,AL,Kronfeld,Julia,479973,Late Fee,10/3/2025,Finance Charge,1,,169.65,0,169.65,9/30/2025,
+1900935,Asbury Methodist Village Assisted Living,AL,Lafleur,Dorothy,77391,Late Fee,6/3/2025,Finance Charge,1,,9.71,0,9.71,5/31/2025,
+2063590,Asbury Methodist Village Assisted Living,AL,Lafleur,Dorothy,77391,Late Fee,7/3/2025,Finance Charge,1,,8.5,0,8.5,6/30/2025,
+2137883,Asbury Methodist Village Assisted Living,AL,Lafleur,Dorothy,77391,Late Fee,8/3/2025,Finance Charge,1,,12.48,0,12.48,7/31/2025,
+2278049,Asbury Methodist Village Assisted Living,AL,Lafleur,Dorothy,77391,Late Fee,9/3/2025,Finance Charge,1,,16.53,0,16.53,8/31/2025,
+2479247,Asbury Methodist Village Assisted Living,AL,Lafleur,Dorothy,77391,Late Fee,10/3/2025,Finance Charge,1,,15.42,0,15.42,9/30/2025,
+2137901,Asbury Methodist Village Assisted Living,AL,Laprade,Robert,362375,Late Fee,8/3/2025,Finance Charge,1,,87.21,0,87.21,7/31/2025,
+1338476,Asbury Methodist Village Assisted Living,AL,Leo,Helen,349086,Late Fee,2/3/2025,Finance Charge,1,,124.25,0,124.25,1/31/2025,68
+1869603,Asbury Methodist Village Assisted Living,AL,Leo,Helen,349086,Late Fee,2/3/2025,Finance Charge,-1,,-124.25,0,-124.25,5/19/2025,68
+1479087,Asbury Methodist Village Assisted Living,AL,Leo,Helen,349086,Late Fee,3/3/2025,Finance Charge,1,,136.19,0,136.19,2/28/2025,69
+1869682,Asbury Methodist Village Assisted Living,AL,Leo,Helen,349086,Late Fee,3/3/2025,Finance Charge,-1,,-136.19,0,-136.19,5/19/2025,69
+1338463,Asbury Methodist Village Assisted Living,AL,Lesnick,Patricia,77484,Late Fee,2/3/2025,Finance Charge,1,,421.56,0,421.56,1/31/2025,
+1479063,Asbury Methodist Village Assisted Living,AL,Lesnick,Patricia,77484,Late Fee,3/3/2025,Finance Charge,1,,433.62,0,433.62,2/28/2025,
+1655176,Asbury Methodist Village Assisted Living,AL,Lesnick,Patricia,77484,Late Fee,4/3/2025,Finance Charge,1,,495.75,0,495.75,3/31/2025,
+1822640,Asbury Methodist Village Assisted Living,AL,Lesnick,Patricia,77484,Late Fee,5/3/2025,Finance Charge,1,,567.08,0,567.08,4/30/2025,
+1900941,Asbury Methodist Village Assisted Living,AL,Lesnick,Patricia,77484,Late Fee,6/3/2025,Finance Charge,1,,616.1,0,616.1,5/31/2025,
+2063606,Asbury Methodist Village Assisted Living,AL,Lesnick,Patricia,77484,Late Fee,7/3/2025,Finance Charge,1,,554.22,0,554.22,6/30/2025,
+2137896,Asbury Methodist Village Assisted Living,AL,Lesnick,Patricia,77484,Late Fee,8/3/2025,Finance Charge,1,,513.05,0,513.05,7/31/2025,
+2278063,Asbury Methodist Village Assisted Living,AL,Lesnick,Patricia,77484,Late Fee,9/3/2025,Finance Charge,1,,546.26,0,546.26,8/31/2025,
+2479259,Asbury Methodist Village Assisted Living,AL,Lesnick,Patricia,77484,Late Fee,10/3/2025,Finance Charge,1,,753.76,0,753.76,9/30/2025,
+1338439,Asbury Methodist Village Assisted Living,AL,Lowe,Kathleen,77394,Late Fee,2/3/2025,Finance Charge,1,,505.66,0,505.66,1/31/2025,
+1479038,Asbury Methodist Village Assisted Living,AL,Lowe,Kathleen,77394,Late Fee,3/3/2025,Finance Charge,1,,134.3,0,134.3,2/28/2025,
+2063593,Asbury Methodist Village Assisted Living,AL,Lowe,Kathleen,77394,Late Fee,7/3/2025,Finance Charge,1,,22.69,0,22.69,6/30/2025,
+1338437,Asbury Methodist Village Assisted Living,AL,Lowe,Thomas,77393,Late Fee,2/3/2025,Finance Charge,1,,46.5,0,46.5,1/31/2025,
+2063592,Asbury Methodist Village Assisted Living,AL,Lowe,Thomas,77393,Late Fee,7/3/2025,Finance Charge,1,,24.83,0,24.83,6/30/2025,
+1338451,Asbury Methodist Village Assisted Living,AL,McDonald,Vincent,77443,Late Fee,2/3/2025,Finance Charge,1,,150.2,0,150.2,1/31/2025,84
+1457025,Asbury Methodist Village Assisted Living,AL,McDonald,Vincent,77443,Late Fee,2/3/2025,Finance Charge,-1,,-150.2,0,-150.2,2/18/2025,84
+2479254,Asbury Methodist Village Assisted Living,AL,McDonald,Vincent,77443,Late Fee,10/3/2025,Finance Charge,1,,145.35,0,145.35,9/30/2025,
+1479065,Asbury Methodist Village Assisted Living,AL,Morrison,Nancy,80033,Late Fee,3/3/2025,Finance Charge,1,,136.08,0,136.08,2/28/2025,
+1655178,Asbury Methodist Village Assisted Living,AL,Morrison,Nancy,80033,Late Fee,4/3/2025,Finance Charge,1,,153.01,0,153.01,3/31/2025,
+2137899,Asbury Methodist Village Assisted Living,AL,Morrison,Nancy,80033,Late Fee,8/3/2025,Finance Charge,1,,150.66,0,150.66,7/31/2025,
+1479021,Asbury Methodist Village Assisted Living,AL,Warren,Marilyn,77371,Late Fee,3/3/2025,Finance Charge,1,,63.73,0,63.73,2/28/2025,89
+1860490,Asbury Methodist Village Assisted Living,AL,Warren,Marilyn,77371,Late Fee,3/3/2025,Finance Charge,-1,,-63.73,0,-63.73,5/8/2025,89
+1655344,Asbury Methodist Village Healthcare Center,SNF,Aghedo,Mary,93655,Late Fee,4/3/2025,Finance Charge,1,,19.26,0,19.26,3/31/2025,
+1901095,Asbury Methodist Village Healthcare Center,SNF,Aghedo,Mary,93655,Late Fee,6/3/2025,Finance Charge,1,,70.53,0,70.53,5/31/2025,
+1655377,Asbury Methodist Village Healthcare Center,SNF,Ahmed,Khalid,375166,Late Fee,4/3/2025,Finance Charge,1,,14.25,0,14.25,3/31/2025,95
+1750201,Asbury Methodist Village Healthcare Center,SNF,Ahmed,Khalid,375166,Late Fee,4/3/2025,Finance Charge,-1,,-14.25,0,-14.25,4/30/2025,95
+1338410,Asbury Methodist Village Healthcare Center,SNF,Alemayehu,Fisseha,81416,Late Fee,2/3/2025,Finance Charge,1,,86.73,0,86.73,1/31/2025,
+1478976,Asbury Methodist Village Healthcare Center,SNF,Alemayehu,Fisseha,81416,Late Fee,3/3/2025,Finance Charge,1,,88.03,0,88.03,2/28/2025,
+1655215,Asbury Methodist Village Healthcare Center,SNF,Alemayehu,Fisseha,81416,Late Fee,4/3/2025,Finance Charge,1,,89.35,0,89.35,3/31/2025,
+1822690,Asbury Methodist Village Healthcare Center,SNF,Alemayehu,Fisseha,81416,Late Fee,5/3/2025,Finance Charge,1,,90.69,0,90.69,4/30/2025,
+2063635,Asbury Methodist Village Healthcare Center,SNF,Allison,James,82588,Late Fee,7/3/2025,Finance Charge,1,,2.12,0,2.12,6/30/2025,
+2277872,Asbury Methodist Village Healthcare Center,SNF,Alotta,Alice,79258,Late Fee,9/3/2025,Finance Charge,1,,101.93,0,101.93,8/31/2025,
+2479007,Asbury Methodist Village Healthcare Center,SNF,Alotta,Alice,79258,Late Fee,10/3/2025,Finance Charge,1,,104.55,0,104.55,9/30/2025,
+2063705,Asbury Methodist Village Healthcare Center,SNF,Anderson,Alvin,645188,Late Fee,7/3/2025,Finance Charge,1,,0.51,0,0.51,6/30/2025,
+1338604,Asbury Methodist Village Healthcare Center,SNF,Andrews,Susan,141191,Late Fee,2/3/2025,Finance Charge,1,,2.4,0,2.4,1/31/2025,
+1655355,Asbury Methodist Village Healthcare Center,SNF,Andrews,Susan,141191,Late Fee,4/3/2025,Finance Charge,1,,2.44,0,2.44,3/31/2025,
+1901102,Asbury Methodist Village Healthcare Center,SNF,Andrews,Susan,141191,Late Fee,6/3/2025,Finance Charge,1,,2.47,0,2.47,5/31/2025,
+2137902,Asbury Methodist Village Healthcare Center,SNF,Andrews,Susan,141191,Late Fee,8/3/2025,Finance Charge,1,,2.51,0,2.51,7/31/2025,
+1338607,Asbury Methodist Village Healthcare Center,SNF,Bailey,Emory,148867,Late Fee,2/3/2025,Finance Charge,1,,0.56,0,0.56,1/31/2025,
+1479179,Asbury Methodist Village Healthcare Center,SNF,Bailey,Emory,148867,Late Fee,3/3/2025,Finance Charge,1,,0.56,0,0.56,2/28/2025,
+1655357,Asbury Methodist Village Healthcare Center,SNF,Bailey,Emory,148867,Late Fee,4/3/2025,Finance Charge,1,,0.57,0,0.57,3/31/2025,
+1901118,Asbury Methodist Village Healthcare Center,SNF,Barash,Joyce,356665,Late Fee,6/3/2025,Finance Charge,1,,37.3,0,37.3,5/31/2025,111
+2255579,Asbury Methodist Village Healthcare Center,SNF,Barash,Joyce,356665,Late Fee,6/3/2025,Finance Charge,-1,,-37.3,0,-37.3,8/25/2025,111
+2137917,Asbury Methodist Village Healthcare Center,SNF,Barash,Joyce,356665,Late Fee,8/3/2025,Finance Charge,1,,37.86,0,37.86,7/31/2025,112
+2256097,Asbury Methodist Village Healthcare Center,SNF,Barash,Joyce,356665,Late Fee,8/3/2025,Finance Charge,-1,,-37.86,0,-37.86,8/25/2025,112
+1338488,Asbury Methodist Village Healthcare Center,SNF,Batheja,Sheela,82346,Late Fee,2/3/2025,Finance Charge,1,,553.52,0,553.52,1/31/2025,
+1479097,Asbury Methodist Village Healthcare Center,SNF,Batheja,Sheela,82346,Late Fee,3/3/2025,Finance Charge,1,,561.82,0,561.82,2/28/2025,
+1655280,Asbury Methodist Village Healthcare Center,SNF,Batheja,Sheela,82346,Late Fee,4/3/2025,Finance Charge,1,,570.25,0,570.25,3/31/2025,
+1822750,Asbury Methodist Village Healthcare Center,SNF,Batheja,Sheela,82346,Late Fee,5/3/2025,Finance Charge,1,,1107.69,0,1107.69,4/30/2025,
+1338475,Asbury Methodist Village Healthcare Center,SNF,Bedane,Yeshitila,82326,Late Fee,2/3/2025,Finance Charge,1,,20.31,0,20.31,1/31/2025,
+1655275,Asbury Methodist Village Healthcare Center,SNF,Bedane,Yeshitila,82326,Late Fee,4/3/2025,Finance Charge,1,,0.3,0,0.3,3/31/2025,
+1901021,Asbury Methodist Village Healthcare Center,SNF,Bedane,Yeshitila,82326,Late Fee,6/3/2025,Finance Charge,1,,0.31,0,0.31,5/31/2025,119
+1996720,Asbury Methodist Village Healthcare Center,SNF,Bedane,Yeshitila,82326,Late Fee,6/3/2025,Finance Charge,-1,,-0.31,0,-0.31,6/19/2025,119
+1901133,Asbury Methodist Village Healthcare Center,SNF,Belle,Sara A,430825,Late Fee,6/3/2025,Finance Charge,1,,13.5,0,13.5,5/31/2025,
+2137927,Asbury Methodist Village Healthcare Center,SNF,Belle,Sara A,430825,Late Fee,8/3/2025,Finance Charge,1,,12.2,0,12.2,7/31/2025,
+2479300,Asbury Methodist Village Healthcare Center,SNF,Belle,Sara A,430825,Late Fee,10/3/2025,Finance Charge,1,,12.39,0,12.39,9/30/2025,
+1338500,Asbury Methodist Village Healthcare Center,SNF,Bendala,Narasimha,82387,Late Fee,2/3/2025,Finance Charge,1,,219.57,0,219.57,1/31/2025,
+1479109,Asbury Methodist Village Healthcare Center,SNF,Bendala,Narasimha,82387,Late Fee,3/3/2025,Finance Charge,1,,241.76,0,241.76,2/28/2025,
+1655297,Asbury Methodist Village Healthcare Center,SNF,Bendala,Narasimha,82387,Late Fee,4/3/2025,Finance Charge,1,,245.39,0,245.39,3/31/2025,
+1822754,Asbury Methodist Village Healthcare Center,SNF,Bendala,Narasimha,82387,Late Fee,5/3/2025,Finance Charge,1,,249.07,0,249.07,4/30/2025,
+1901040,Asbury Methodist Village Healthcare Center,SNF,Bendala,Narasimha,82387,Late Fee,6/3/2025,Finance Charge,1,,252.81,0,252.81,5/31/2025,
+1822781,Asbury Methodist Village Healthcare Center,SNF,Benevelli,Yong,82785,Late Fee,5/3/2025,Finance Charge,1,,2.13,0,2.13,4/30/2025,128
+1882501,Asbury Methodist Village Healthcare Center,SNF,Benevelli,Yong,82785,Late Fee,5/3/2025,Finance Charge,-1,,-2.13,0,-2.13,5/29/2025,128
+2278186,Asbury Methodist Village Healthcare Center,SNF,Bernard,Alicia,740443,Late Fee,9/3/2025,Finance Charge,1,,18.86,0,18.86,8/31/2025,
+1655374,Asbury Methodist Village Healthcare Center,SNF,Bjarno,Margaret,362999,Late Fee,4/3/2025,Finance Charge,1,,62.78,0,62.78,3/31/2025,130
+1883846,Asbury Methodist Village Healthcare Center,SNF,Bjarno,Margaret,362999,Late Fee,4/3/2025,Finance Charge,-1,,-62.78,0,-62.78,5/30/2025,130
+1479195,Asbury Methodist Village Healthcare Center,SNF,Bobbitt,Ricky,369612,Late Fee,3/3/2025,Finance Charge,1,,7.5,0,7.5,2/28/2025,
+1822821,Asbury Methodist Village Healthcare Center,SNF,Bobbitt,Ricky,369612,Late Fee,5/3/2025,Finance Charge,1,,7.61,0,7.61,4/30/2025,132
+1997302,Asbury Methodist Village Healthcare Center,SNF,Bobbitt,Ricky,369612,Late Fee,5/3/2025,Finance Charge,-1,,-7.61,0,-7.61,6/19/2025,132
+2479271,Asbury Methodist Village Healthcare Center,SNF,Bond,Patricia,187270,Late Fee,10/3/2025,Finance Charge,1,,11.4,0,11.4,9/30/2025,
+1822818,Asbury Methodist Village Healthcare Center,SNF,Bradley,Kitty,327838,Late Fee,5/3/2025,Finance Charge,1,,391.82,0,391.82,4/30/2025,134
+1996658,Asbury Methodist Village Healthcare Center,SNF,Bradley,Kitty,327838,Late Fee,5/3/2025,Finance Charge,-1,,-391.82,0,-391.82,6/19/2025,134
+1338630,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,2/3/2025,Finance Charge,1,,0.51,0,0.51,1/31/2025,135
+2125849,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,2/3/2025,Finance Charge,-1,,-0.51,0,-0.51,7/28/2025,135
+1479187,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,3/3/2025,Finance Charge,1,,0.52,0,0.52,2/28/2025,136
+2125670,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,3/3/2025,Finance Charge,-1,,-0.52,0,-0.52,7/28/2025,136
+1655366,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,4/3/2025,Finance Charge,1,,0.53,0,0.53,3/31/2025,137
+2125850,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,4/3/2025,Finance Charge,-1,,-0.53,0,-0.53,7/28/2025,137
+1822813,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,5/3/2025,Finance Charge,1,,0.53,0,0.53,4/30/2025,138
+2125968,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,5/3/2025,Finance Charge,-1,,-0.53,0,-0.53,7/28/2025,138
+1901111,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,6/3/2025,Finance Charge,1,,0.54,0,0.54,5/31/2025,139
+2125710,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,6/3/2025,Finance Charge,-1,,-0.54,0,-0.54,7/28/2025,139
+2063667,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,7/3/2025,Finance Charge,1,,0.55,0,0.55,6/30/2025,140
+2125629,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,7/3/2025,Finance Charge,-1,,-0.55,0,-0.55,7/28/2025,140
+2278111,Asbury Methodist Village Healthcare Center,SNF,Brady,Patricia,258197,Late Fee,9/3/2025,Finance Charge,1,,0.51,0,0.51,8/31/2025,
+2063633,Asbury Methodist Village Healthcare Center,SNF,Briggs,Barbara,82515,Late Fee,7/3/2025,Finance Charge,1,,62.85,0,62.85,6/30/2025,142
+2125946,Asbury Methodist Village Healthcare Center,SNF,Briggs,Barbara,82515,Late Fee,7/3/2025,Finance Charge,-1,,-62.85,0,-62.85,7/28/2025,142
+1822839,Asbury Methodist Village Healthcare Center,SNF,Brown,Clyde,530603,Late Fee,5/3/2025,Finance Charge,1,,0.56,0,0.56,4/30/2025,
+1901141,Asbury Methodist Village Healthcare Center,SNF,Brown,Clyde,530603,Late Fee,6/3/2025,Finance Charge,1,,0.56,0,0.56,5/31/2025,
+2063684,Asbury Methodist Village Healthcare Center,SNF,Brown,Clyde,530603,Late Fee,7/3/2025,Finance Charge,1,,0.57,0,0.57,6/30/2025,
+1338632,Asbury Methodist Village Healthcare Center,SNF,Cajigal,Corazon,291879,Late Fee,2/3/2025,Finance Charge,1,,2.12,0,2.12,1/31/2025,
+1338644,Asbury Methodist Village Healthcare Center,SNF,Cantero,Hortensia,315795,Late Fee,2/3/2025,Finance Charge,1,,6.81,0,6.81,1/31/2025,
+1655369,Asbury Methodist Village Healthcare Center,SNF,Cantero,Hortensia,315795,Late Fee,4/3/2025,Finance Charge,1,,0.1,0,0.1,3/31/2025,148
+1863828,Asbury Methodist Village Healthcare Center,SNF,Cantero,Hortensia,315795,Late Fee,4/3/2025,Finance Charge,-1,,-0.1,0,-0.1,5/13/2025,148
+2137914,Asbury Methodist Village Healthcare Center,SNF,Cantero,Hortensia,315795,Late Fee,8/3/2025,Finance Charge,1,,19.81,0,19.81,7/31/2025,149
+2256144,Asbury Methodist Village Healthcare Center,SNF,Cantero,Hortensia,315795,Late Fee,8/3/2025,Finance Charge,-1,,-19.81,0,-19.81,8/25/2025,149
+1338457,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,2/3/2025,Finance Charge,1,,21.64,0,21.64,1/31/2025,150
+2125688,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,2/3/2025,Finance Charge,-1,,-21.64,0,-21.64,7/28/2025,150
+1479073,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,3/3/2025,Finance Charge,1,,21.96,0,21.96,2/28/2025,151
+2125930,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,3/3/2025,Finance Charge,-1,,-21.96,0,-21.96,7/28/2025,151
+1655261,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,4/3/2025,Finance Charge,1,,22.29,0,22.29,3/31/2025,152
+2125899,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,4/3/2025,Finance Charge,-1,,-22.29,0,-22.29,7/28/2025,152
+1822724,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,5/3/2025,Finance Charge,1,,22.62,0,22.62,4/30/2025,153
+2125877,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,5/3/2025,Finance Charge,-1,,-22.62,0,-22.62,7/28/2025,153
+1901018,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,6/3/2025,Finance Charge,1,,22.96,0,22.96,5/31/2025,154
+2125869,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,6/3/2025,Finance Charge,-1,,-22.96,0,-22.96,7/28/2025,154
+2063621,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,7/3/2025,Finance Charge,1,,23.31,0,23.31,6/30/2025,155
+2125961,Asbury Methodist Village Healthcare Center,SNF,Cargill,Anthony,82302,Late Fee,7/3/2025,Finance Charge,-1,,-23.31,0,-23.31,7/28/2025,155
+1822836,Asbury Methodist Village Healthcare Center,SNF,Carmosino,Richard,512024,Late Fee,5/3/2025,Finance Charge,1,,0.41,0,0.41,4/30/2025,156
+2125878,Asbury Methodist Village Healthcare Center,SNF,Carmosino,Richard,512024,Late Fee,5/3/2025,Finance Charge,-1,,-0.41,0,-0.41,7/28/2025,156
+1901137,Asbury Methodist Village Healthcare Center,SNF,Carmosino,Richard,512024,Late Fee,6/3/2025,Finance Charge,1,,0.41,0,0.41,5/31/2025,157
+2125870,Asbury Methodist Village Healthcare Center,SNF,Carmosino,Richard,512024,Late Fee,6/3/2025,Finance Charge,-1,,-0.41,0,-0.41,7/28/2025,157
+2063682,Asbury Methodist Village Healthcare Center,SNF,Carmosino,Richard,512024,Late Fee,7/3/2025,Finance Charge,1,,0.42,0,0.42,6/30/2025,158
+2125962,Asbury Methodist Village Healthcare Center,SNF,Carmosino,Richard,512024,Late Fee,7/3/2025,Finance Charge,-1,,-0.42,0,-0.42,7/28/2025,158
+2278123,Asbury Methodist Village Healthcare Center,SNF,Carmosino,Richard,512024,Late Fee,9/3/2025,Finance Charge,1,,0.41,0,0.41,8/31/2025,
+2137979,Asbury Methodist Village Healthcare Center,SNF,Chamberlain,Jeanne,653632,Late Fee,8/3/2025,Finance Charge,1,,0.3,0,0.3,7/31/2025,
+2278164,Asbury Methodist Village Healthcare Center,SNF,Chamberlain,Jeanne,653632,Late Fee,9/3/2025,Finance Charge,1,,0.3,0,0.3,8/31/2025,
+2479319,Asbury Methodist Village Healthcare Center,SNF,Chamberlain,Jeanne,653632,Late Fee,10/3/2025,Finance Charge,1,,0.31,0,0.31,9/30/2025,
+2278125,Asbury Methodist Village Healthcare Center,SNF,Chander,Suresh,527291,Late Fee,9/3/2025,Finance Charge,1,,76.97,0,76.97,8/31/2025,163
+2390321,Asbury Methodist Village Healthcare Center,SNF,Chander,Suresh,527291,Late Fee,9/3/2025,Finance Charge,-1,,-76.97,0,-76.97,9/25/2025,163
+2479332,Asbury Methodist Village Healthcare Center,SNF,Chao,Robert,791924,Late Fee,10/3/2025,Finance Charge,1,,56.57,0,56.57,9/30/2025,
+2063649,Asbury Methodist Village Healthcare Center,SNF,Chideya,Cynthia,82760,Late Fee,7/3/2025,Finance Charge,1,,0.23,0,0.23,6/30/2025,165
+2125887,Asbury Methodist Village Healthcare Center,SNF,Chideya,Cynthia,82760,Late Fee,7/3/2025,Finance Charge,-1,,-0.23,0,-0.23,7/28/2025,165
+1338586,Asbury Methodist Village Healthcare Center,SNF,Chill,Barbara,110295,Late Fee,2/3/2025,Finance Charge,1,,97.92,0,97.92,1/31/2025,166
+1996659,Asbury Methodist Village Healthcare Center,SNF,Chill,Barbara,110295,Late Fee,2/3/2025,Finance Charge,-1,,-97.92,0,-97.92,6/19/2025,166
+1479173,Asbury Methodist Village Healthcare Center,SNF,Chill,Barbara,110295,Late Fee,3/3/2025,Finance Charge,1,,1.47,0,1.47,2/28/2025,167
+1996713,Asbury Methodist Village Healthcare Center,SNF,Chill,Barbara,110295,Late Fee,3/3/2025,Finance Charge,-1,,-1.47,0,-1.47,6/19/2025,167
+1655350,Asbury Methodist Village Healthcare Center,SNF,Chill,Barbara,110295,Late Fee,4/3/2025,Finance Charge,1,,1.49,0,1.49,3/31/2025,168
+1996923,Asbury Methodist Village Healthcare Center,SNF,Chill,Barbara,110295,Late Fee,4/3/2025,Finance Charge,-1,,-1.49,0,-1.49,6/19/2025,168
+1338490,Asbury Methodist Village Healthcare Center,SNF,Collins,Julie,82348,Late Fee,2/3/2025,Finance Charge,1,,60.63,0,60.63,1/31/2025,
+1479101,Asbury Methodist Village Healthcare Center,SNF,Collins,Julie,82348,Late Fee,3/3/2025,Finance Charge,1,,61.54,0,61.54,2/28/2025,
+1655282,Asbury Methodist Village Healthcare Center,SNF,Collins,Julie,82348,Late Fee,4/3/2025,Finance Charge,1,,62.46,0,62.46,3/31/2025,
+1338468,Asbury Methodist Village Healthcare Center,SNF,Combs,Mary,82309,Late Fee,2/3/2025,Finance Charge,1,,2.12,0,2.12,1/31/2025,172
+1996623,Asbury Methodist Village Healthcare Center,SNF,Combs,Mary,82309,Late Fee,2/3/2025,Finance Charge,-1,,-2.12,0,-2.12,6/19/2025,172
+1655263,Asbury Methodist Village Healthcare Center,SNF,Combs,Mary,82309,Late Fee,4/3/2025,Finance Charge,1,,2.15,0,2.15,3/31/2025,173
+1997312,Asbury Methodist Village Healthcare Center,SNF,Combs,Mary,82309,Late Fee,4/3/2025,Finance Charge,-1,,-2.15,0,-2.15,6/19/2025,173
+1901019,Asbury Methodist Village Healthcare Center,SNF,Combs,Mary,82309,Late Fee,6/3/2025,Finance Charge,1,,0.06,0,0.06,5/31/2025,174
+1996983,Asbury Methodist Village Healthcare Center,SNF,Combs,Mary,82309,Late Fee,6/3/2025,Finance Charge,-1,,-0.06,0,-0.06,6/19/2025,174
+1655372,Asbury Methodist Village Healthcare Center,SNF,Compton,Sharon,359891,Late Fee,4/3/2025,Finance Charge,1,,62.85,0,62.85,3/31/2025,
+1901119,Asbury Methodist Village Healthcare Center,SNF,Compton,Sharon,359891,Late Fee,6/3/2025,Finance Charge,1,,48.79,0,48.79,5/31/2025,
+2137918,Asbury Methodist Village Healthcare Center,SNF,Compton,Sharon,359891,Late Fee,8/3/2025,Finance Charge,1,,19.52,0,19.52,7/31/2025,
+1655363,Asbury Methodist Village Healthcare Center,SNF,Conner,Robert,217282,Late Fee,4/3/2025,Finance Charge,1,,212.66,0,212.66,3/31/2025,
+2479231,Asbury Methodist Village Healthcare Center,SNF,Contrera,Agueda,82233,Late Fee,10/3/2025,Finance Charge,1,,25.14,0,25.14,9/30/2025,
+1338496,Asbury Methodist Village Healthcare Center,SNF,Cox,Sallye,82371,Late Fee,2/3/2025,Finance Charge,1,,26.04,0,26.04,1/31/2025,
+1479106,Asbury Methodist Village Healthcare Center,SNF,Cox,Sallye,82371,Late Fee,3/3/2025,Finance Charge,1,,26.67,0,26.67,2/28/2025,
+1479197,Asbury Methodist Village Healthcare Center,SNF,Cox,Shirley,374564,Late Fee,3/3/2025,Finance Charge,1,,0.47,0,0.47,2/28/2025,
+1655376,Asbury Methodist Village Healthcare Center,SNF,Cox,Shirley,374564,Late Fee,4/3/2025,Finance Charge,1,,0.47,0,0.47,3/31/2025,
+1901126,Asbury Methodist Village Healthcare Center,SNF,Cray,John,404065,Late Fee,6/3/2025,Finance Charge,1,,0.41,0,0.41,5/31/2025,
+2063673,Asbury Methodist Village Healthcare Center,SNF,Cray,John,404065,Late Fee,7/3/2025,Finance Charge,1,,0.41,0,0.41,6/30/2025,
+1338612,Asbury Methodist Village Healthcare Center,SNF,Cuplin,Jane,206361,Late Fee,2/3/2025,Finance Charge,1,,2.96,0,2.96,1/31/2025,
+1479182,Asbury Methodist Village Healthcare Center,SNF,Cuplin,Jane,206361,Late Fee,3/3/2025,Finance Charge,1,,3.01,0,3.01,2/28/2025,
+1655360,Asbury Methodist Village Healthcare Center,SNF,Cuplin,Jane,206361,Late Fee,4/3/2025,Finance Charge,1,,3.05,0,3.05,3/31/2025,
+1822809,Asbury Methodist Village Healthcare Center,SNF,Cuplin,Jane,206361,Late Fee,5/3/2025,Finance Charge,1,,3.1,0,3.1,4/30/2025,
+1901106,Asbury Methodist Village Healthcare Center,SNF,Cuplin,Jane,206361,Late Fee,6/3/2025,Finance Charge,1,,3.14,0,3.14,5/31/2025,
+1863709,Asbury Methodist Village Healthcare Center,SNF,Curry,Herman,82393,Late Fee,10/3/2024,Finance Charge,-1,,-64.13,0,-64.13,5/13/2025,
+1338503,Asbury Methodist Village Healthcare Center,SNF,Curry,Herman,82393,Late Fee,2/3/2025,Finance Charge,1,,65.09,0,65.09,1/31/2025,192
+1863908,Asbury Methodist Village Healthcare Center,SNF,Curry,Herman,82393,Late Fee,2/3/2025,Finance Charge,-1,,-65.09,0,-65.09,5/13/2025,192
+1655299,Asbury Methodist Village Healthcare Center,SNF,Curry,Herman,82393,Late Fee,4/3/2025,Finance Charge,1,,1.94,0,1.94,3/31/2025,193
+1863699,Asbury Methodist Village Healthcare Center,SNF,Curry,Herman,82393,Late Fee,4/3/2025,Finance Charge,-1,,-1.94,0,-1.94,5/13/2025,193
+1338454,Asbury Methodist Village Healthcare Center,SNF,Curry,Leroy,82301,Late Fee,2/3/2025,Finance Charge,1,,45.48,0,45.48,1/31/2025,
+1655260,Asbury Methodist Village Healthcare Center,SNF,Curry,Leroy,82301,Late Fee,4/3/2025,Finance Charge,1,,46.16,0,46.16,3/31/2025,
+1901017,Asbury Methodist Village Healthcare Center,SNF,Curry,Leroy,82301,Late Fee,6/3/2025,Finance Charge,1,,46.85,0,46.85,5/31/2025,
+1338605,Asbury Methodist Village Healthcare Center,SNF,Czajkowski,Gregory,142123,Late Fee,2/3/2025,Finance Charge,1,,9.32,0,9.32,1/31/2025,197
+1454827,Asbury Methodist Village Healthcare Center,SNF,Czajkowski,Gregory,142123,Late Fee,2/3/2025,Finance Charge,-1,,-9.32,0,-9.32,2/14/2025,197
+2479003,Asbury Methodist Village Healthcare Center,SNF,d'Almeida,Innocent,78586,Late Fee,10/3/2025,Finance Charge,1,,15.27,0,15.27,9/30/2025,
+1822840,Asbury Methodist Village Healthcare Center,SNF,Dean,Lois,532740,Late Fee,5/3/2025,Finance Charge,1,,0.3,0,0.3,4/30/2025,200
+2126675,Asbury Methodist Village Healthcare Center,SNF,Dean,Lois,532740,Late Fee,5/3/2025,Finance Charge,-1,,-0.3,0,-0.3,7/29/2025,200
+1901142,Asbury Methodist Village Healthcare Center,SNF,Dean,Lois,532740,Late Fee,6/3/2025,Finance Charge,1,,0.6,0,0.6,5/31/2025,201
+2126685,Asbury Methodist Village Healthcare Center,SNF,Dean,Lois,532740,Late Fee,6/3/2025,Finance Charge,-1,,-0.6,0,-0.6,7/29/2025,201
+2063685,Asbury Methodist Village Healthcare Center,SNF,Dean,Lois,532740,Late Fee,7/3/2025,Finance Charge,1,,0.61,0,0.61,6/30/2025,202
+2126695,Asbury Methodist Village Healthcare Center,SNF,Dean,Lois,532740,Late Fee,7/3/2025,Finance Charge,-1,,-0.61,0,-0.61,7/29/2025,202
+2063663,Asbury Methodist Village Healthcare Center,SNF,Deckelman,Mary Sue,160769,Late Fee,7/3/2025,Finance Charge,1,,8.1,0,8.1,6/30/2025,
+2278105,Asbury Methodist Village Healthcare Center,SNF,Deckelman,Mary Sue,160769,Late Fee,9/3/2025,Finance Charge,1,,7.37,0,7.37,8/31/2025,
+1338414,Asbury Methodist Village Healthcare Center,SNF,Delacerda,Stephanie,82084,Late Fee,2/3/2025,Finance Charge,1,,30.35,0,30.35,1/31/2025,205
+2006913,Asbury Methodist Village Healthcare Center,SNF,Delacerda,Stephanie,82084,Late Fee,2/3/2025,Finance Charge,-1,,-30.35,0,-30.35,6/30/2025,205
+1479000,Asbury Methodist Village Healthcare Center,SNF,Delacerda,Stephanie,82084,Late Fee,3/3/2025,Finance Charge,1,,28.55,0,28.55,2/28/2025,206
+2006822,Asbury Methodist Village Healthcare Center,SNF,Delacerda,Stephanie,82084,Late Fee,3/3/2025,Finance Charge,-1,,-28.55,0,-28.55,6/30/2025,206
+1655217,Asbury Methodist Village Healthcare Center,SNF,Delacerda,Stephanie,82084,Late Fee,4/3/2025,Finance Charge,1,,26.73,0,26.73,3/31/2025,207
+2007136,Asbury Methodist Village Healthcare Center,SNF,Delacerda,Stephanie,82084,Late Fee,4/3/2025,Finance Charge,-1,,-26.73,0,-26.73,6/30/2025,207
+1822691,Asbury Methodist Village Healthcare Center,SNF,Delacerda,Stephanie,82084,Late Fee,5/3/2025,Finance Charge,1,,24.88,0,24.88,4/30/2025,208
+2007281,Asbury Methodist Village Healthcare Center,SNF,Delacerda,Stephanie,82084,Late Fee,5/3/2025,Finance Charge,-1,,-24.88,0,-24.88,6/30/2025,208
+1900973,Asbury Methodist Village Healthcare Center,SNF,Delacerda,Stephanie,82084,Late Fee,6/3/2025,Finance Charge,1,,23,0,23,5/31/2025,209
+2007036,Asbury Methodist Village Healthcare Center,SNF,Delacerda,Stephanie,82084,Late Fee,6/3/2025,Finance Charge,-1,,-23,0,-23,6/30/2025,209
+1479140,Asbury Methodist Village Healthcare Center,SNF,DeLorimier,Rosemary,82554,Late Fee,3/3/2025,Finance Charge,1,,0.04,0,0.04,2/28/2025,198
+1996924,Asbury Methodist Village Healthcare Center,SNF,DeLorimier,Rosemary,82554,Late Fee,3/3/2025,Finance Charge,-1,,-0.04,0,-0.04,6/19/2025,198
+1822774,Asbury Methodist Village Healthcare Center,SNF,DeLorimier,Rosemary,82554,Late Fee,5/3/2025,Finance Charge,1,,0.04,0,0.04,4/30/2025,199
+1996763,Asbury Methodist Village Healthcare Center,SNF,DeLorimier,Rosemary,82554,Late Fee,5/3/2025,Finance Charge,-1,,-0.04,0,-0.04,6/19/2025,199
+1338534,Asbury Methodist Village Healthcare Center,SNF,Denny,Virginia,82665,Late Fee,2/3/2025,Finance Charge,1,,38.56,0,38.56,1/31/2025,
+1655326,Asbury Methodist Village Healthcare Center,SNF,Denny,Virginia,82665,Late Fee,4/3/2025,Finance Charge,1,,39.13,0,39.13,3/31/2025,
+1338587,Asbury Methodist Village Healthcare Center,SNF,Denuto,Betty,112238,Late Fee,2/3/2025,Finance Charge,1,,3.09,0,3.09,1/31/2025,
+1479174,Asbury Methodist Village Healthcare Center,SNF,Denuto,Betty,112238,Late Fee,3/3/2025,Finance Charge,1,,0.05,0,0.05,2/28/2025,213
+1863889,Asbury Methodist Village Healthcare Center,SNF,Denuto,Betty,112238,Late Fee,3/3/2025,Finance Charge,-1,,-0.05,0,-0.05,5/13/2025,213
+1822833,Asbury Methodist Village Healthcare Center,SNF,Dharia,Minaxi,473968,Late Fee,5/3/2025,Finance Charge,1,,28.5,0,28.5,4/30/2025,214
+2126705,Asbury Methodist Village Healthcare Center,SNF,Dharia,Minaxi,473968,Late Fee,5/3/2025,Finance Charge,-1,,-28.5,0,-28.5,7/29/2025,214
+2063677,Asbury Methodist Village Healthcare Center,SNF,Dharia,Minaxi,473968,Late Fee,7/3/2025,Finance Charge,1,,0.43,0,0.43,6/30/2025,215
+2126706,Asbury Methodist Village Healthcare Center,SNF,Dharia,Minaxi,473968,Late Fee,7/3/2025,Finance Charge,-1,,-0.43,0,-0.43,7/29/2025,215
+1338568,Asbury Methodist Village Healthcare Center,SNF,Doody,William,93118,Late Fee,2/3/2025,Finance Charge,1,,8.89,0,8.89,1/31/2025,
+1655343,Asbury Methodist Village Healthcare Center,SNF,Doody,William,93118,Late Fee,4/3/2025,Finance Charge,1,,9.02,0,9.02,3/31/2025,217
+1863928,Asbury Methodist Village Healthcare Center,SNF,Doody,William,93118,Late Fee,4/3/2025,Finance Charge,-1,,-9.02,0,-9.02,5/13/2025,217
+1338554,Asbury Methodist Village Healthcare Center,SNF,Dorland,Patricia,82798,Late Fee,2/3/2025,Finance Charge,1,,31.68,0,31.68,1/31/2025,
+1479154,Asbury Methodist Village Healthcare Center,SNF,Dorland,Patricia,82798,Late Fee,3/3/2025,Finance Charge,1,,32.16,0,32.16,2/28/2025,
+1655332,Asbury Methodist Village Healthcare Center,SNF,Dorland,Patricia,82798,Late Fee,4/3/2025,Finance Charge,1,,32.64,0,32.64,3/31/2025,
+1822782,Asbury Methodist Village Healthcare Center,SNF,Dorland,Patricia,82798,Late Fee,5/3/2025,Finance Charge,1,,33.13,0,33.13,4/30/2025,
+1901076,Asbury Methodist Village Healthcare Center,SNF,Dorland,Patricia,82798,Late Fee,6/3/2025,Finance Charge,1,,33.62,0,33.62,5/31/2025,
+2063652,Asbury Methodist Village Healthcare Center,SNF,Dorland,Patricia,82798,Late Fee,7/3/2025,Finance Charge,1,,34.13,0,34.13,6/30/2025,
+2137884,Asbury Methodist Village Healthcare Center,SNF,Dorland,Patricia,82798,Late Fee,8/3/2025,Finance Charge,1,,34.64,0,34.64,7/31/2025,
+2278062,Asbury Methodist Village Healthcare Center,SNF,Dorland,Patricia,82798,Late Fee,9/3/2025,Finance Charge,1,,35.16,0,35.16,8/31/2025,
+2479253,Asbury Methodist Village Healthcare Center,SNF,Dorland,Patricia,82798,Late Fee,10/3/2025,Finance Charge,1,,35.69,0,35.69,9/30/2025,
+1900997,Asbury Methodist Village Healthcare Center,SNF,Dosik,Annette,82206,Late Fee,6/3/2025,Finance Charge,1,,487.93,0,487.93,5/31/2025,
+2063617,Asbury Methodist Village Healthcare Center,SNF,Dosik,Annette,82206,Late Fee,7/3/2025,Finance Charge,1,,725.62,0,725.62,6/30/2025,
+1479198,Asbury Methodist Village Healthcare Center,SNF,Duffney,Susan,379401,Late Fee,3/3/2025,Finance Charge,1,,0.9,0,0.9,2/28/2025,
+1655390,Asbury Methodist Village Healthcare Center,SNF,Errie,Richard,436231,Late Fee,4/3/2025,Finance Charge,1,,11.4,0,11.4,3/31/2025,
+1901134,Asbury Methodist Village Healthcare Center,SNF,Errie,Richard,436231,Late Fee,6/3/2025,Finance Charge,1,,57.17,0,57.17,5/31/2025,
+2278177,Asbury Methodist Village Healthcare Center,SNF,Etz,Nora,700935,Late Fee,9/3/2025,Finance Charge,1,,0.9,0,0.9,8/31/2025,
+2479324,Asbury Methodist Village Healthcare Center,SNF,Etz,Nora,700935,Late Fee,10/3/2025,Finance Charge,1,,0.91,0,0.91,9/30/2025,
+1338448,Asbury Methodist Village Healthcare Center,SNF,Evans,James,82296,Late Fee,2/3/2025,Finance Charge,1,,168.35,0,168.35,1/31/2025,
+1479067,Asbury Methodist Village Healthcare Center,SNF,Evans,James,82296,Late Fee,3/3/2025,Finance Charge,1,,170.87,0,170.87,2/28/2025,
+1655257,Asbury Methodist Village Healthcare Center,SNF,Evans,James,82296,Late Fee,4/3/2025,Finance Charge,1,,173.44,0,173.44,3/31/2025,
+1822721,Asbury Methodist Village Healthcare Center,SNF,Evans,James,82296,Late Fee,5/3/2025,Finance Charge,1,,176.04,0,176.04,4/30/2025,
+1901014,Asbury Methodist Village Healthcare Center,SNF,Evans,James,82296,Late Fee,6/3/2025,Finance Charge,1,,178.68,0,178.68,5/31/2025,
+1479165,Asbury Methodist Village Healthcare Center,SNF,Fairchild,Charles,82905,Late Fee,3/3/2025,Finance Charge,1,,54.28,0,54.28,2/28/2025,
+1655340,Asbury Methodist Village Healthcare Center,SNF,Fairchild,Charles,82905,Late Fee,4/3/2025,Finance Charge,1,,55.09,0,55.09,3/31/2025,
+1338409,Asbury Methodist Village Healthcare Center,SNF,Fisher,Milton,80985,Late Fee,2/3/2025,Finance Charge,1,,13.95,0,13.95,1/31/2025,
+1655214,Asbury Methodist Village Healthcare Center,SNF,Fisher,Milton,80985,Late Fee,4/3/2025,Finance Charge,1,,14.16,0,14.16,3/31/2025,
+1900962,Asbury Methodist Village Healthcare Center,SNF,Fisher,Milton,80985,Late Fee,6/3/2025,Finance Charge,1,,13.25,0,13.25,5/31/2025,
+2137852,Asbury Methodist Village Healthcare Center,SNF,Fisher,Milton,80985,Late Fee,8/3/2025,Finance Charge,1,,13.07,0,13.07,7/31/2025,
+1338393,Asbury Methodist Village Healthcare Center,SNF,Flanagan,Kathleen,80776,Late Fee,2/3/2025,Finance Charge,1,,48.48,0,48.48,1/31/2025,
+1478957,Asbury Methodist Village Healthcare Center,SNF,Flanagan,Kathleen,80776,Late Fee,3/3/2025,Finance Charge,1,,49.21,0,49.21,2/28/2025,
+1655198,Asbury Methodist Village Healthcare Center,SNF,Flanagan,Kathleen,80776,Late Fee,4/3/2025,Finance Charge,1,,49.95,0,49.95,3/31/2025,
+1822674,Asbury Methodist Village Healthcare Center,SNF,Flanagan,Kathleen,80776,Late Fee,5/3/2025,Finance Charge,1,,50.7,0,50.7,4/30/2025,
+1900956,Asbury Methodist Village Healthcare Center,SNF,Flanagan,Kathleen,80776,Late Fee,6/3/2025,Finance Charge,1,,51.46,0,51.46,5/31/2025,
+2063093,Asbury Methodist Village Healthcare Center,SNF,Flanagan,Kathleen,80776,Late Fee,7/3/2025,Finance Charge,1,,52.23,0,52.23,6/30/2025,
+2137833,Asbury Methodist Village Healthcare Center,SNF,Flanagan,Kathleen,80776,Late Fee,8/3/2025,Finance Charge,1,,53.01,0,53.01,7/31/2025,
+2277875,Asbury Methodist Village Healthcare Center,SNF,Flanagan,Kathleen,80776,Late Fee,9/3/2025,Finance Charge,1,,53.81,0,53.81,8/31/2025,
+2479211,Asbury Methodist Village Healthcare Center,SNF,Flanagan,Kathleen,80776,Late Fee,10/3/2025,Finance Charge,1,,54.61,0,54.61,9/30/2025,
+1655393,Asbury Methodist Village Healthcare Center,SNF,Fletemeyer,John,484086,Late Fee,4/3/2025,Finance Charge,1,,0.3,0,0.3,3/31/2025,
+2278185,Asbury Methodist Village Healthcare Center,SNF,Foley,William,730011,Late Fee,9/3/2025,Finance Charge,1,,0.41,0,0.41,8/31/2025,
+2479328,Asbury Methodist Village Healthcare Center,SNF,Foley,William,730011,Late Fee,10/3/2025,Finance Charge,1,,129.25,0,129.25,9/30/2025,
+1338477,Asbury Methodist Village Healthcare Center,SNF,Fowler,Clayton,82333,Late Fee,2/3/2025,Finance Charge,1,,8.07,0,8.07,1/31/2025,257
+1863959,Asbury Methodist Village Healthcare Center,SNF,Fowler,Clayton,82333,Late Fee,2/3/2025,Finance Charge,-1,,-8.07,0,-8.07,5/13/2025,257
+1479090,Asbury Methodist Village Healthcare Center,SNF,Fowler,Clayton,82333,Late Fee,3/3/2025,Finance Charge,1,,8.19,0,8.19,2/28/2025,258
+1863954,Asbury Methodist Village Healthcare Center,SNF,Fowler,Clayton,82333,Late Fee,3/3/2025,Finance Charge,-1,,-8.19,0,-8.19,5/13/2025,258
+1655276,Asbury Methodist Village Healthcare Center,SNF,Fowler,Clayton,82333,Late Fee,4/3/2025,Finance Charge,1,,1.26,0,1.26,3/31/2025,259
+1863968,Asbury Methodist Village Healthcare Center,SNF,Fowler,Clayton,82333,Late Fee,4/3/2025,Finance Charge,-1,,-1.26,0,-1.26,5/13/2025,259
+2063688,Asbury Methodist Village Healthcare Center,SNF,Freas,Helen,536711,Late Fee,7/3/2025,Finance Charge,1,,973.1,0,973.1,6/30/2025,
+1479188,Asbury Methodist Village Healthcare Center,SNF,Friel,Veronica,299885,Late Fee,3/3/2025,Finance Charge,1,,3.06,0,3.06,2/28/2025,
+1901112,Asbury Methodist Village Healthcare Center,SNF,Friel,Veronica,299885,Late Fee,6/3/2025,Finance Charge,1,,6.3,0,6.3,5/31/2025,
+2137910,Asbury Methodist Village Healthcare Center,SNF,Friel,Veronica,299885,Late Fee,8/3/2025,Finance Charge,1,,1.89,0,1.89,7/31/2025,
+2479285,Asbury Methodist Village Healthcare Center,SNF,Friel,Veronica,299885,Late Fee,10/3/2025,Finance Charge,1,,10.47,0,10.47,9/30/2025,
+2063692,Asbury Methodist Village Healthcare Center,SNF,Gardner,Philip,587949,Late Fee,7/3/2025,Finance Charge,1,,3,0,3,6/30/2025,
+2278137,Asbury Methodist Village Healthcare Center,SNF,Gardner,Philip,587949,Late Fee,9/3/2025,Finance Charge,1,,3.05,0,3.05,8/31/2025,
+1338491,Asbury Methodist Village Healthcare Center,SNF,Garnett,Mary,82349,Late Fee,2/3/2025,Finance Charge,1,,2.97,0,2.97,1/31/2025,
+1655283,Asbury Methodist Village Healthcare Center,SNF,Garnett,Mary,82349,Late Fee,4/3/2025,Finance Charge,1,,35.88,0,35.88,3/31/2025,
+1901035,Asbury Methodist Village Healthcare Center,SNF,Garnett,Mary,82349,Late Fee,6/3/2025,Finance Charge,1,,36.41,0,36.41,5/31/2025,
+2278034,Asbury Methodist Village Healthcare Center,SNF,Gerard,Arlene,82224,Late Fee,9/3/2025,Finance Charge,1,,0.81,0,0.81,8/31/2025,
+2479230,Asbury Methodist Village Healthcare Center,SNF,Gerard,Arlene,82224,Late Fee,10/3/2025,Finance Charge,1,,0.82,0,0.82,9/30/2025,
+1901105,Asbury Methodist Village Healthcare Center,SNF,Gherna,Robert,199234,Late Fee,6/3/2025,Finance Charge,1,,0.72,0,0.72,5/31/2025,272
+2126735,Asbury Methodist Village Healthcare Center,SNF,Gherna,Robert,199234,Late Fee,6/3/2025,Finance Charge,-1,,-0.72,0,-0.72,7/29/2025,272
+2479273,Asbury Methodist Village Healthcare Center,SNF,Gherna,Robert,199234,Late Fee,10/3/2025,Finance Charge,1,,5.12,0,5.12,9/30/2025,
+2137975,Asbury Methodist Village Healthcare Center,SNF,Gobin,Eunice,628881,Late Fee,8/3/2025,Finance Charge,1,,194.18,0,194.18,7/31/2025,
+2278156,Asbury Methodist Village Healthcare Center,SNF,Gobin,Eunice,628881,Late Fee,9/3/2025,Finance Charge,1,,194.24,0,194.24,8/31/2025,
+2479318,Asbury Methodist Village Healthcare Center,SNF,Gobin,Eunice,628881,Late Fee,10/3/2025,Finance Charge,1,,197.16,0,197.16,9/30/2025,
+1900943,Asbury Methodist Village Healthcare Center,SNF,Goldberg,Joan,78420,Late Fee,6/3/2025,Finance Charge,1,,2.35,0,2.35,5/31/2025,
+2137807,Asbury Methodist Village Healthcare Center,SNF,Goldberg,Joan,78420,Late Fee,8/3/2025,Finance Charge,1,,0.04,0,0.04,7/31/2025,
+2479000,Asbury Methodist Village Healthcare Center,SNF,Goldberg,Joan,78420,Late Fee,10/3/2025,Finance Charge,1,,0.04,0,0.04,9/30/2025,
+1338611,Asbury Methodist Village Healthcare Center,SNF,Gordon,Doris,191538,Late Fee,2/3/2025,Finance Charge,1,,10.73,0,10.73,1/31/2025,
+1338485,Asbury Methodist Village Healthcare Center,SNF,Gravely,Mabel,82342,Late Fee,2/3/2025,Finance Charge,1,,73.33,0,73.33,1/31/2025,
+1479093,Asbury Methodist Village Healthcare Center,SNF,Gravely,Mabel,82342,Late Fee,3/3/2025,Finance Charge,1,,74.43,0,74.43,2/28/2025,
+1655278,Asbury Methodist Village Healthcare Center,SNF,Gravely,Mabel,82342,Late Fee,4/3/2025,Finance Charge,1,,75.54,0,75.54,3/31/2025,
+1822728,Asbury Methodist Village Healthcare Center,SNF,Gravely,Mabel,82342,Late Fee,5/3/2025,Finance Charge,1,,76.68,0,76.68,4/30/2025,
+1901033,Asbury Methodist Village Healthcare Center,SNF,Gravely,Mabel,82342,Late Fee,6/3/2025,Finance Charge,1,,77.83,0,77.83,5/31/2025,
+1338341,Asbury Methodist Village Healthcare Center,SNF,Gregory,Sondra,79129,Late Fee,2/3/2025,Finance Charge,1,,699.97,0,699.97,1/31/2025,
+2063618,Asbury Methodist Village Healthcare Center,SNF,Gromadzki,Helen,82227,Late Fee,7/3/2025,Finance Charge,1,,5.17,0,5.17,6/30/2025,
+1338484,Asbury Methodist Village Healthcare Center,SNF,Ground,Edmund,82338,Late Fee,2/3/2025,Finance Charge,1,,298.4,0,298.4,1/31/2025,
+2137869,Asbury Methodist Village Healthcare Center,SNF,Ground,Edmund,82338,Late Fee,8/3/2025,Finance Charge,1,,313.71,0,313.71,7/31/2025,
+1338444,Asbury Methodist Village Healthcare Center,SNF,Guerrero,Darlene,82287,Late Fee,2/3/2025,Finance Charge,1,,13.13,0,13.13,1/31/2025,
+1479062,Asbury Methodist Village Healthcare Center,SNF,Guerrero,Darlene,82287,Late Fee,3/3/2025,Finance Charge,1,,13.33,0,13.33,2/28/2025,
+1655255,Asbury Methodist Village Healthcare Center,SNF,Guerrero,Darlene,82287,Late Fee,4/3/2025,Finance Charge,1,,13.53,0,13.53,3/31/2025,
+1822720,Asbury Methodist Village Healthcare Center,SNF,Guerrero,Darlene,82287,Late Fee,5/3/2025,Finance Charge,1,,13.73,0,13.73,4/30/2025,
+1901013,Asbury Methodist Village Healthcare Center,SNF,Guerrero,Darlene,82287,Late Fee,6/3/2025,Finance Charge,1,,13.94,0,13.94,5/31/2025,
+2278184,Asbury Methodist Village Healthcare Center,SNF,Gupta,Meera,718813,Late Fee,9/3/2025,Finance Charge,1,,78.56,0,78.56,8/31/2025,
+2479288,Asbury Methodist Village Healthcare Center,SNF,Hackey,Faye,340642,Late Fee,10/3/2025,Finance Charge,1,,247.5,0,247.5,9/30/2025,
+2278150,Asbury Methodist Village Healthcare Center,SNF,Hanssen,Leonard,617226,Late Fee,9/3/2025,Finance Charge,1,,28.28,0,28.28,8/31/2025,
+2278179,Asbury Methodist Village Healthcare Center,SNF,Hartranft,Donald,710731,Late Fee,9/3/2025,Finance Charge,1,,0.53,0,0.53,8/31/2025,
+2479326,Asbury Methodist Village Healthcare Center,SNF,Hartranft,Donald,710731,Late Fee,10/3/2025,Finance Charge,1,,0.01,0,0.01,9/30/2025,
+2137838,Asbury Methodist Village Healthcare Center,SNF,Harwood,Robert,80821,Late Fee,8/3/2025,Finance Charge,1,,9.45,0,9.45,7/31/2025,300
+2376212,Asbury Methodist Village Healthcare Center,SNF,Harwood,Robert,80821,Late Fee,8/3/2025,Finance Charge,-1,,-9.45,0,-9.45,9/12/2025,300
+2278018,Asbury Methodist Village Healthcare Center,SNF,Harwood,Robert,80821,Late Fee,9/3/2025,Finance Charge,1,,0.14,0,0.14,8/31/2025,301
+2379740,Asbury Methodist Village Healthcare Center,SNF,Harwood,Robert,80821,Late Fee,9/3/2025,Finance Charge,-1,,-0.14,0,-0.14,9/12/2025,301
+1478969,Asbury Methodist Village Healthcare Center,SNF,Hastings,Linda,80973,Late Fee,3/3/2025,Finance Charge,1,,3.15,0,3.15,2/28/2025,
+1822679,Asbury Methodist Village Healthcare Center,SNF,Hastings,Linda,80973,Late Fee,5/3/2025,Finance Charge,1,,3.2,0,3.2,4/30/2025,303
+1996753,Asbury Methodist Village Healthcare Center,SNF,Hastings,Linda,80973,Late Fee,5/3/2025,Finance Charge,-1,,-3.2,0,-3.2,6/19/2025,303
+2278039,Asbury Methodist Village Healthcare Center,SNF,Hensley,James,82366,Late Fee,9/3/2025,Finance Charge,1,,0.51,0,0.51,8/31/2025,
+2479237,Asbury Methodist Village Healthcare Center,SNF,Hensley,James,82366,Late Fee,10/3/2025,Finance Charge,1,,0.01,0,0.01,9/30/2025,
+1822825,Asbury Methodist Village Healthcare Center,SNF,Herbig,Arthur,408585,Late Fee,5/3/2025,Finance Charge,1,,226.63,0,226.63,4/30/2025,306
+2258876,Asbury Methodist Village Healthcare Center,SNF,Herbig,Arthur,408585,Late Fee,5/3/2025,Finance Charge,-1,,-226.63,0,-226.63,8/29/2025,306
+1901127,Asbury Methodist Village Healthcare Center,SNF,Herbig,Arthur,408585,Late Fee,6/3/2025,Finance Charge,1,,301.44,0,301.44,5/31/2025,307
+2258866,Asbury Methodist Village Healthcare Center,SNF,Herbig,Arthur,408585,Late Fee,6/3/2025,Finance Charge,-1,,-301.44,0,-301.44,8/29/2025,307
+2063674,Asbury Methodist Village Healthcare Center,SNF,Herbig,Arthur,408585,Late Fee,7/3/2025,Finance Charge,1,,312.25,0,312.25,6/30/2025,308
+2258896,Asbury Methodist Village Healthcare Center,SNF,Herbig,Arthur,408585,Late Fee,7/3/2025,Finance Charge,-1,,-312.25,0,-312.25,8/29/2025,308
+1997006,Asbury Methodist Village Healthcare Center,SNF,Howarth,Christine,133605,Late Fee,11/3/2024,Finance Charge,-1,,-61.2,0,-61.2,6/19/2025,
+1338592,Asbury Methodist Village Healthcare Center,SNF,Howarth,Christine,133605,Late Fee,2/3/2025,Finance Charge,1,,45.92,0,45.92,1/31/2025,310
+1996625,Asbury Methodist Village Healthcare Center,SNF,Howarth,Christine,133605,Late Fee,2/3/2025,Finance Charge,-1,,-45.92,0,-45.92,6/19/2025,310
+1655353,Asbury Methodist Village Healthcare Center,SNF,Howarth,Christine,133605,Late Fee,4/3/2025,Finance Charge,1,,31.61,0,31.61,3/31/2025,311
+1997342,Asbury Methodist Village Healthcare Center,SNF,Howarth,Christine,133605,Late Fee,4/3/2025,Finance Charge,-1,,-31.61,0,-31.61,6/19/2025,311
+1479134,Asbury Methodist Village Healthcare Center,SNF,Hughes,Frank,82489,Late Fee,3/3/2025,Finance Charge,1,,13.77,0,13.77,2/28/2025,
+1655307,Asbury Methodist Village Healthcare Center,SNF,Hughes,Frank,82489,Late Fee,4/3/2025,Finance Charge,1,,13.98,0,13.98,3/31/2025,313
+1863969,Asbury Methodist Village Healthcare Center,SNF,Hughes,Frank,82489,Late Fee,4/3/2025,Finance Charge,-1,,-13.98,0,-13.98,5/13/2025,313
+1822772,Asbury Methodist Village Healthcare Center,SNF,Hughes,Frank,82489,Late Fee,5/3/2025,Finance Charge,1,,14.19,0,14.19,4/30/2025,314
+1863669,Asbury Methodist Village Healthcare Center,SNF,Hughes,Frank,82489,Late Fee,5/3/2025,Finance Charge,-1,,-14.19,0,-14.19,5/13/2025,314
+2137932,Asbury Methodist Village Healthcare Center,SNF,Hunt,Leroy,521735,Late Fee,8/3/2025,Finance Charge,1,,11,0,11,7/31/2025,317
+2259997,Asbury Methodist Village Healthcare Center,SNF,Hunt,Leroy,521735,Late Fee,8/3/2025,Finance Charge,-1,,-11,0,-11,8/31/2025,317
+1822837,Asbury Methodist Village Healthcare Center,SNF,Hunter,Theresa,517481,Late Fee,5/3/2025,Finance Charge,1,,0.47,0,0.47,4/30/2025,
+1901139,Asbury Methodist Village Healthcare Center,SNF,Hunter,Theresa,517481,Late Fee,6/3/2025,Finance Charge,1,,3.48,0,3.48,5/31/2025,
+1338438,Asbury Methodist Village Healthcare Center,SNF,Jackson,Kathleen,82266,Late Fee,2/3/2025,Finance Charge,1,,67.93,0,67.93,1/31/2025,
+1479041,Asbury Methodist Village Healthcare Center,SNF,Jackson,Kathleen,82266,Late Fee,3/3/2025,Finance Charge,1,,68.95,0,68.95,2/28/2025,
+1655241,Asbury Methodist Village Healthcare Center,SNF,Jackson,Kathleen,82266,Late Fee,4/3/2025,Finance Charge,1,,69.99,0,69.99,3/31/2025,
+1822706,Asbury Methodist Village Healthcare Center,SNF,Jackson,Kathleen,82266,Late Fee,5/3/2025,Finance Charge,1,,71.04,0,71.04,4/30/2025,
+1900999,Asbury Methodist Village Healthcare Center,SNF,Jackson,Kathleen,82266,Late Fee,6/3/2025,Finance Charge,1,,72.1,0,72.1,5/31/2025,
+2063619,Asbury Methodist Village Healthcare Center,SNF,Jackson,Kathleen,82266,Late Fee,7/3/2025,Finance Charge,1,,73.18,0,73.18,6/30/2025,
+2137864,Asbury Methodist Village Healthcare Center,SNF,Jackson,Kathleen,82266,Late Fee,8/3/2025,Finance Charge,1,,74.28,0,74.28,7/31/2025,
+2278035,Asbury Methodist Village Healthcare Center,SNF,Jackson,Kathleen,82266,Late Fee,9/3/2025,Finance Charge,1,,75.4,0,75.4,8/31/2025,
+2479232,Asbury Methodist Village Healthcare Center,SNF,Jackson,Kathleen,82266,Late Fee,10/3/2025,Finance Charge,1,,76.53,0,76.53,9/30/2025,
+1479116,Asbury Methodist Village Healthcare Center,SNF,Jakubczak,Doris,82409,Late Fee,3/3/2025,Finance Charge,1,,1.5,0,1.5,2/28/2025,
+1338407,Asbury Methodist Village Healthcare Center,SNF,Jandres Martinez,Gloria,80963,Late Fee,2/3/2025,Finance Charge,1,,0.32,0,0.32,1/31/2025,
+1478967,Asbury Methodist Village Healthcare Center,SNF,Jandres Martinez,Gloria,80963,Late Fee,3/3/2025,Finance Charge,1,,0.33,0,0.33,2/28/2025,
+1655203,Asbury Methodist Village Healthcare Center,SNF,Jandres Martinez,Gloria,80963,Late Fee,4/3/2025,Finance Charge,1,,0.33,0,0.33,3/31/2025,
+1479200,Asbury Methodist Village Healthcare Center,SNF,Jenkins,Edith,409786,Late Fee,3/3/2025,Finance Charge,1,,0.3,0,0.3,2/28/2025,
+1822826,Asbury Methodist Village Healthcare Center,SNF,Jenkins,Edith,409786,Late Fee,5/3/2025,Finance Charge,1,,45.6,0,45.6,4/30/2025,332
+1996786,Asbury Methodist Village Healthcare Center,SNF,Jenkins,Edith,409786,Late Fee,5/3/2025,Finance Charge,-1,,-45.6,0,-45.6,6/19/2025,332
+1901136,Asbury Methodist Village Healthcare Center,SNF,Jerome,Stephany,473963,Late Fee,6/3/2025,Finance Charge,1,,16.05,0,16.05,5/31/2025,333
+2126725,Asbury Methodist Village Healthcare Center,SNF,Jerome,Stephany,473963,Late Fee,6/3/2025,Finance Charge,-1,,-16.05,0,-16.05,7/29/2025,333
+1338631,Asbury Methodist Village Healthcare Center,SNF,Johnson,Daniel,262340,Late Fee,2/3/2025,Finance Charge,1,,64.63,0,64.63,1/31/2025,
+1338440,Asbury Methodist Village Healthcare Center,SNF,Johnson,Wendell,82271,Late Fee,2/3/2025,Finance Charge,1,,3.08,0,3.08,1/31/2025,
+1479046,Asbury Methodist Village Healthcare Center,SNF,Johnson,Wendell,82271,Late Fee,3/3/2025,Finance Charge,1,,3.12,0,3.12,2/28/2025,
+1655243,Asbury Methodist Village Healthcare Center,SNF,Johnson,Wendell,82271,Late Fee,4/3/2025,Finance Charge,1,,3.17,0,3.17,3/31/2025,
+1822708,Asbury Methodist Village Healthcare Center,SNF,Johnson,Wendell,82271,Late Fee,5/3/2025,Finance Charge,1,,3.22,0,3.22,4/30/2025,
+1901001,Asbury Methodist Village Healthcare Center,SNF,Johnson,Wendell,82271,Late Fee,6/3/2025,Finance Charge,1,,3.27,0,3.27,5/31/2025,
+2063620,Asbury Methodist Village Healthcare Center,SNF,Johnson,Wendell,82271,Late Fee,7/3/2025,Finance Charge,1,,3.31,0,3.31,6/30/2025,
+2137866,Asbury Methodist Village Healthcare Center,SNF,Johnson,Wendell,82271,Late Fee,8/3/2025,Finance Charge,1,,3.36,0,3.36,7/31/2025,
+2278036,Asbury Methodist Village Healthcare Center,SNF,Johnson,Wendell,82271,Late Fee,9/3/2025,Finance Charge,1,,3.41,0,3.41,8/31/2025,
+2479233,Asbury Methodist Village Healthcare Center,SNF,Johnson,Wendell,82271,Late Fee,10/3/2025,Finance Charge,1,,3.47,0,3.47,9/30/2025,
+1655240,Asbury Methodist Village Healthcare Center,SNF,Johnson,William,82251,Late Fee,4/3/2025,Finance Charge,1,,0.41,0,0.41,3/31/2025,344
+1863711,Asbury Methodist Village Healthcare Center,SNF,Johnson,William,82251,Late Fee,4/3/2025,Finance Charge,-1,,-0.41,0,-0.41,5/13/2025,344
+2278050,Asbury Methodist Village Healthcare Center,SNF,Jones,Ruth,82699,Late Fee,9/3/2025,Finance Charge,1,,0.35,0,0.35,8/31/2025,
+1338424,Asbury Methodist Village Healthcare Center,SNF,Joyce,Annemarie,82179,Late Fee,2/3/2025,Finance Charge,1,,374.04,0,374.04,1/31/2025,
+1338487,Asbury Methodist Village Healthcare Center,SNF,Kabthyimer,Kassa,82344,Late Fee,2/3/2025,Finance Charge,1,,242.9,0,242.9,1/31/2025,
+1479095,Asbury Methodist Village Healthcare Center,SNF,Kabthyimer,Kassa,82344,Late Fee,3/3/2025,Finance Charge,1,,246.54,0,246.54,2/28/2025,
+1655279,Asbury Methodist Village Healthcare Center,SNF,Kabthyimer,Kassa,82344,Late Fee,4/3/2025,Finance Charge,1,,250.24,0,250.24,3/31/2025,
+1822729,Asbury Methodist Village Healthcare Center,SNF,Kabthyimer,Kassa,82344,Late Fee,5/3/2025,Finance Charge,1,,254,0,254,4/30/2025,
+1901034,Asbury Methodist Village Healthcare Center,SNF,Kabthyimer,Kassa,82344,Late Fee,6/3/2025,Finance Charge,1,,257.81,0,257.81,5/31/2025,
+2063690,Asbury Methodist Village Healthcare Center,SNF,Karam,Robert,558653,Late Fee,7/3/2025,Finance Charge,1,,51.3,0,51.3,6/30/2025,
+2278133,Asbury Methodist Village Healthcare Center,SNF,Karam,Robert,558653,Late Fee,9/3/2025,Finance Charge,1,,74.87,0,74.87,8/31/2025,
+1901093,Asbury Methodist Village Healthcare Center,SNF,Karns,Robert,82926,Late Fee,6/3/2025,Finance Charge,1,,97.73,0,97.73,5/31/2025,
+2137893,Asbury Methodist Village Healthcare Center,SNF,Karns,Robert,82926,Late Fee,8/3/2025,Finance Charge,1,,99.2,0,99.2,7/31/2025,
+2479265,Asbury Methodist Village Healthcare Center,SNF,Karns,Robert,82926,Late Fee,10/3/2025,Finance Charge,1,,100.69,0,100.69,9/30/2025,
+2063703,Asbury Methodist Village Healthcare Center,SNF,Kellar,Robert,622987,Late Fee,7/3/2025,Finance Charge,1,,0.81,0,0.81,6/30/2025,
+2278154,Asbury Methodist Village Healthcare Center,SNF,Kellar,Robert,622987,Late Fee,9/3/2025,Finance Charge,1,,951.44,0,951.44,8/31/2025,
+2479317,Asbury Methodist Village Healthcare Center,SNF,Kellar,Robert,622987,Late Fee,10/3/2025,Finance Charge,1,,975.88,0,975.88,9/30/2025,
+2063616,Asbury Methodist Village Healthcare Center,SNF,Kinsey,Marilyn,82188,Late Fee,7/3/2025,Finance Charge,1,,397.92,0,397.92,6/30/2025,
+1338421,Asbury Methodist Village Healthcare Center,SNF,Klein,Carol,82168,Late Fee,2/3/2025,Finance Charge,1,,1,0,1,1/31/2025,
+1479018,Asbury Methodist Village Healthcare Center,SNF,Klein,Carol,82168,Late Fee,3/3/2025,Finance Charge,1,,1.02,0,1.02,2/28/2025,
+1655222,Asbury Methodist Village Healthcare Center,SNF,Klein,Carol,82168,Late Fee,4/3/2025,Finance Charge,1,,1.03,0,1.03,3/31/2025,
+1822698,Asbury Methodist Village Healthcare Center,SNF,Klein,Carol,82168,Late Fee,5/3/2025,Finance Charge,1,,1.05,0,1.05,4/30/2025,
+1900981,Asbury Methodist Village Healthcare Center,SNF,Klein,Carol,82168,Late Fee,6/3/2025,Finance Charge,1,,1.06,0,1.06,5/31/2025,
+2063603,Asbury Methodist Village Healthcare Center,SNF,Klein,Carol,82168,Late Fee,7/3/2025,Finance Charge,1,,1.08,0,1.08,6/30/2025,
+2137857,Asbury Methodist Village Healthcare Center,SNF,Klein,Carol,82168,Late Fee,8/3/2025,Finance Charge,1,,1.1,0,1.1,7/31/2025,
+2278029,Asbury Methodist Village Healthcare Center,SNF,Klein,Carol,82168,Late Fee,9/3/2025,Finance Charge,1,,1.11,0,1.11,8/31/2025,
+2479222,Asbury Methodist Village Healthcare Center,SNF,Klein,Carol,82168,Late Fee,10/3/2025,Finance Charge,1,,1.13,0,1.13,9/30/2025,
+1338417,Asbury Methodist Village Healthcare Center,SNF,Knott,Paul,82124,Late Fee,2/3/2025,Finance Charge,1,,26.37,0,26.37,1/31/2025,
+1479002,Asbury Methodist Village Healthcare Center,SNF,Knott,Paul,82124,Late Fee,3/3/2025,Finance Charge,1,,26.77,0,26.77,2/28/2025,
+1479190,Asbury Methodist Village Healthcare Center,SNF,Kolodny,Michael,309764,Late Fee,3/3/2025,Finance Charge,1,,331.33,0,331.33,2/28/2025,
+1822815,Asbury Methodist Village Healthcare Center,SNF,Kolodny,Michael,309764,Late Fee,5/3/2025,Finance Charge,1,,901.13,0,901.13,4/30/2025,
+1338562,Asbury Methodist Village Healthcare Center,SNF,Komisar,Gail,82873,Late Fee,2/3/2025,Finance Charge,1,,463.5,0,463.5,1/31/2025,
+1479162,Asbury Methodist Village Healthcare Center,SNF,Komisar,Gail,82873,Late Fee,3/3/2025,Finance Charge,1,,470.45,0,470.45,2/28/2025,
+1479203,Asbury Methodist Village Healthcare Center,SNF,Konwea,Flora,416319,Late Fee,3/3/2025,Finance Charge,1,,0.47,0,0.47,2/28/2025,376
+1864008,Asbury Methodist Village Healthcare Center,SNF,Konwea,Flora,416319,Late Fee,3/3/2025,Finance Charge,-1,,-0.47,0,-0.47,5/13/2025,376
+1655385,Asbury Methodist Village Healthcare Center,SNF,Konwea,Flora,416319,Late Fee,4/3/2025,Finance Charge,1,,0.01,0,0.01,3/31/2025,377
+1864018,Asbury Methodist Village Healthcare Center,SNF,Konwea,Flora,416319,Late Fee,4/3/2025,Finance Charge,-1,,-0.01,0,-0.01,5/13/2025,377
+2063681,Asbury Methodist Village Healthcare Center,SNF,Kronfeld,Julia,493846,Late Fee,7/3/2025,Finance Charge,1,,4.28,0,4.28,6/30/2025,
+2278122,Asbury Methodist Village Healthcare Center,SNF,Kronfeld,Julia,493846,Late Fee,9/3/2025,Finance Charge,1,,0.96,0,0.96,8/31/2025,
+1338623,Asbury Methodist Village Healthcare Center,SNF,Kumbula,Tendayi,210668,Late Fee,2/3/2025,Finance Charge,1,,78.21,0,78.21,1/31/2025,
+1655361,Asbury Methodist Village Healthcare Center,SNF,Kumbula,Tendayi,210668,Late Fee,4/3/2025,Finance Charge,1,,79.39,0,79.39,3/31/2025,
+1901107,Asbury Methodist Village Healthcare Center,SNF,Kumbula,Tendayi,210668,Late Fee,6/3/2025,Finance Charge,1,,80.58,0,80.58,5/31/2025,
+1479201,Asbury Methodist Village Healthcare Center,SNF,Kweller,Esher,413913,Late Fee,3/3/2025,Finance Charge,1,,0.62,0,0.62,2/28/2025,383
+1863979,Asbury Methodist Village Healthcare Center,SNF,Kweller,Esher,413913,Late Fee,3/3/2025,Finance Charge,-1,,-0.62,0,-0.62,5/13/2025,383
+1655383,Asbury Methodist Village Healthcare Center,SNF,Kweller,Esher,413913,Late Fee,4/3/2025,Finance Charge,1,,0.01,0,0.01,3/31/2025,384
+1864009,Asbury Methodist Village Healthcare Center,SNF,Kweller,Esher,413913,Late Fee,4/3/2025,Finance Charge,-1,,-0.01,0,-0.01,5/13/2025,384
+1338531,Asbury Methodist Village Healthcare Center,SNF,Lacy,Nancy,82600,Late Fee,2/3/2025,Finance Charge,1,,27,0,27,1/31/2025,
+1655312,Asbury Methodist Village Healthcare Center,SNF,Lacy,Nancy,82600,Late Fee,4/3/2025,Finance Charge,1,,24.4,0,24.4,3/31/2025,
+1901059,Asbury Methodist Village Healthcare Center,SNF,Lacy,Nancy,82600,Late Fee,6/3/2025,Finance Charge,1,,18.77,0,18.77,5/31/2025,
+1884045,Asbury Methodist Village Healthcare Center,SNF,Lahey,John,82119,Late Fee,10/3/2024,Finance Charge,-1,,-11.68,0,-11.68,5/30/2025,
+1338427,Asbury Methodist Village Healthcare Center,SNF,Lamoreux,Mary,82186,Late Fee,2/3/2025,Finance Charge,1,,2.66,0,2.66,1/31/2025,389
+1863739,Asbury Methodist Village Healthcare Center,SNF,Lamoreux,Mary,82186,Late Fee,2/3/2025,Finance Charge,-1,,-2.66,0,-2.66,5/13/2025,389
+1655235,Asbury Methodist Village Healthcare Center,SNF,Lamoreux,Mary,82186,Late Fee,4/3/2025,Finance Charge,1,,0.04,0,0.04,3/31/2025,390
+1863957,Asbury Methodist Village Healthcare Center,SNF,Lamoreux,Mary,82186,Late Fee,4/3/2025,Finance Charge,-1,,-0.04,0,-0.04,5/13/2025,390
+2063660,Asbury Methodist Village Healthcare Center,SNF,Laprade,Robert,94753,Late Fee,7/3/2025,Finance Charge,1,,7.2,0,7.2,6/30/2025,
+2137895,Asbury Methodist Village Healthcare Center,SNF,Laprade,Robert,94753,Late Fee,8/3/2025,Finance Charge,1,,17.21,0,17.21,7/31/2025,
+1338583,Asbury Methodist Village Healthcare Center,SNF,Le,Dien,100801,Late Fee,2/3/2025,Finance Charge,1,,0.05,0,0.05,1/31/2025,402
+1863989,Asbury Methodist Village Healthcare Center,SNF,Le,Dien,100801,Late Fee,2/3/2025,Finance Charge,-1,,-0.05,0,-0.05,5/13/2025,402
+1338608,Asbury Methodist Village Healthcare Center,SNF,Lee,Jong,161180,Late Fee,2/3/2025,Finance Charge,1,,67.95,0,67.95,1/31/2025,
+1655358,Asbury Methodist Village Healthcare Center,SNF,Lee,Jong,161180,Late Fee,4/3/2025,Finance Charge,1,,53.97,0,53.97,3/31/2025,
+1901104,Asbury Methodist Village Healthcare Center,SNF,Lee,Jong,161180,Late Fee,6/3/2025,Finance Charge,1,,39.78,0,39.78,5/31/2025,
+2137904,Asbury Methodist Village Healthcare Center,SNF,Lee,Jong,161180,Late Fee,8/3/2025,Finance Charge,1,,25.38,0,25.38,7/31/2025,
+1655386,Asbury Methodist Village Healthcare Center,SNF,Levandoski,Emily,421311,Late Fee,4/3/2025,Finance Charge,1,,31.43,0,31.43,3/31/2025,397
+1997327,Asbury Methodist Village Healthcare Center,SNF,Levandoski,Emily,421311,Late Fee,4/3/2025,Finance Charge,-1,,-31.43,0,-31.43,6/19/2025,397
+1901130,Asbury Methodist Village Healthcare Center,SNF,Levandoski,Emily,421311,Late Fee,6/3/2025,Finance Charge,1,,31.9,0,31.9,5/31/2025,398
+1996603,Asbury Methodist Village Healthcare Center,SNF,Levandoski,Emily,421311,Late Fee,6/3/2025,Finance Charge,-1,,-31.9,0,-31.9,6/19/2025,398
+1822786,Asbury Methodist Village Healthcare Center,SNF,Levy,Anneli,82854,Late Fee,5/3/2025,Finance Charge,1,,67.17,0,67.17,4/30/2025,
+2063706,Asbury Methodist Village Healthcare Center,SNF,Lewis,Joanna,656390,Late Fee,7/3/2025,Finance Charge,1,,0.41,0,0.41,6/30/2025,
+2137980,Asbury Methodist Village Healthcare Center,SNF,Lewis,Joanna,656390,Late Fee,8/3/2025,Finance Charge,1,,0.41,0,0.41,7/31/2025,
+1338589,Asbury Methodist Village Healthcare Center,SNF,Lissner,Christophe,119596,Late Fee,2/3/2025,Finance Charge,1,,16.95,0,16.95,1/31/2025,
+1479176,Asbury Methodist Village Healthcare Center,SNF,Lissner,Christophe,119596,Late Fee,3/3/2025,Finance Charge,1,,17.21,0,17.21,2/28/2025,
+1655352,Asbury Methodist Village Healthcare Center,SNF,Lissner,Christophe,119596,Late Fee,4/3/2025,Finance Charge,1,,17.47,0,17.47,3/31/2025,
+2063670,Asbury Methodist Village Healthcare Center,SNF,Lostumbo,Mary Liz,338340,Late Fee,7/3/2025,Finance Charge,1,,1.2,0,1.2,6/30/2025,406
+2113580,Asbury Methodist Village Healthcare Center,SNF,Lostumbo,Mary Liz,338340,Late Fee,7/3/2025,Finance Charge,-1,,-1.2,0,-1.2,7/14/2025,406
+2063632,Asbury Methodist Village Healthcare Center,SNF,Lowe,Kathleen,82507,Late Fee,7/3/2025,Finance Charge,1,,8.15,0,8.15,6/30/2025,
+2137876,Asbury Methodist Village Healthcare Center,SNF,Lowe,Kathleen,82507,Late Fee,8/3/2025,Finance Charge,1,,256.6,0,256.6,7/31/2025,
+2137877,Asbury Methodist Village Healthcare Center,SNF,Lowe,Thomas,82543,Late Fee,8/3/2025,Finance Charge,1,,344.72,0,344.72,7/31/2025,
+1479192,Asbury Methodist Village Healthcare Center,SNF,Lunsford,Isabelle,320736,Late Fee,3/3/2025,Finance Charge,1,,3,0,3,2/28/2025,410
+1863980,Asbury Methodist Village Healthcare Center,SNF,Lunsford,Isabelle,320736,Late Fee,3/3/2025,Finance Charge,-1,,-3,0,-3,5/13/2025,410
+1863892,Asbury Methodist Village Healthcare Center,SNF,Madjedi,Elaheh,82200,Late Fee,9/3/2024,Finance Charge,-1,,-39,0,-39,5/13/2025,
+1863973,Asbury Methodist Village Healthcare Center,SNF,Madjedi,Elaheh,82200,Late Fee,10/3/2024,Finance Charge,-1,,-0.59,0,-0.59,5/13/2025,
+1863921,Asbury Methodist Village Healthcare Center,SNF,Madjedi,Elaheh,82200,Late Fee,11/3/2024,Finance Charge,-1,,-0.59,0,-0.59,5/13/2025,
+1338429,Asbury Methodist Village Healthcare Center,SNF,Madjedi,Elaheh,82200,Late Fee,2/3/2025,Finance Charge,1,,0.6,0,0.6,1/31/2025,414
+1863872,Asbury Methodist Village Healthcare Center,SNF,Madjedi,Elaheh,82200,Late Fee,2/3/2025,Finance Charge,-1,,-0.6,0,-0.6,5/13/2025,414
+1479025,Asbury Methodist Village Healthcare Center,SNF,Madjedi,Elaheh,82200,Late Fee,3/3/2025,Finance Charge,1,,0.61,0,0.61,2/28/2025,415
+1863852,Asbury Methodist Village Healthcare Center,SNF,Madjedi,Elaheh,82200,Late Fee,3/3/2025,Finance Charge,-1,,-0.61,0,-0.61,5/13/2025,415
+1655237,Asbury Methodist Village Healthcare Center,SNF,Madjedi,Elaheh,82200,Late Fee,4/3/2025,Finance Charge,1,,0.62,0,0.62,3/31/2025,416
+1863931,Asbury Methodist Village Healthcare Center,SNF,Madjedi,Elaheh,82200,Late Fee,4/3/2025,Finance Charge,-1,,-0.62,0,-0.62,5/13/2025,416
+1338413,Asbury Methodist Village Healthcare Center,SNF,Maines,Henry,82040,Late Fee,2/3/2025,Finance Charge,1,,12,0,12,1/31/2025,
+1478999,Asbury Methodist Village Healthcare Center,SNF,Maines,Henry,82040,Late Fee,3/3/2025,Finance Charge,1,,12.18,0,12.18,2/28/2025,
+1655380,Asbury Methodist Village Healthcare Center,SNF,Manco,Marcia,387082,Late Fee,4/3/2025,Finance Charge,1,,31.43,0,31.43,3/31/2025,
+1901125,Asbury Methodist Village Healthcare Center,SNF,Manco,Marcia,387082,Late Fee,6/3/2025,Finance Charge,1,,0.47,0,0.47,5/31/2025,
+2137923,Asbury Methodist Village Healthcare Center,SNF,Manco,Marcia,387082,Late Fee,8/3/2025,Finance Charge,1,,0.48,0,0.48,7/31/2025,
+2479296,Asbury Methodist Village Healthcare Center,SNF,Manco,Marcia,387082,Late Fee,10/3/2025,Finance Charge,1,,0.49,0,0.49,9/30/2025,
+1901147,Asbury Methodist Village Healthcare Center,SNF,Martin,Alex,566109,Late Fee,6/3/2025,Finance Charge,1,,0.47,0,0.47,5/31/2025,
+1901061,Asbury Methodist Village Healthcare Center,SNF,Martin,Kristine,82663,Late Fee,6/3/2025,Finance Charge,1,,0.73,0,0.73,5/31/2025,424
+2126745,Asbury Methodist Village Healthcare Center,SNF,Martin,Kristine,82663,Late Fee,6/3/2025,Finance Charge,-1,,-0.73,0,-0.73,7/29/2025,424
+1338401,Asbury Methodist Village Healthcare Center,SNF,Matthews,Alice,80847,Late Fee,2/3/2025,Finance Charge,1,,32,0,32,1/31/2025,
+1478964,Asbury Methodist Village Healthcare Center,SNF,Matthews,Alice,80847,Late Fee,3/3/2025,Finance Charge,1,,32.48,0,32.48,2/28/2025,
+1655201,Asbury Methodist Village Healthcare Center,SNF,Matthews,Alice,80847,Late Fee,4/3/2025,Finance Charge,1,,32.96,0,32.96,3/31/2025,
+1822677,Asbury Methodist Village Healthcare Center,SNF,Matthews,Alice,80847,Late Fee,5/3/2025,Finance Charge,1,,33.46,0,33.46,4/30/2025,
+1900960,Asbury Methodist Village Healthcare Center,SNF,Matthews,Alice,80847,Late Fee,6/3/2025,Finance Charge,1,,33.96,0,33.96,5/31/2025,
+1822811,Asbury Methodist Village Healthcare Center,SNF,McCallum,Carole,254103,Late Fee,5/3/2025,Finance Charge,1,,2.48,0,2.48,4/30/2025,
+1901110,Asbury Methodist Village Healthcare Center,SNF,McCallum,Carole,254103,Late Fee,6/3/2025,Finance Charge,1,,2.51,0,2.51,5/31/2025,
+2063666,Asbury Methodist Village Healthcare Center,SNF,McCallum,Carole,254103,Late Fee,7/3/2025,Finance Charge,1,,2.55,0,2.55,6/30/2025,
+2137909,Asbury Methodist Village Healthcare Center,SNF,McCallum,Carole,254103,Late Fee,8/3/2025,Finance Charge,1,,2.59,0,2.59,7/31/2025,
+2278110,Asbury Methodist Village Healthcare Center,SNF,McCallum,Carole,254103,Late Fee,9/3/2025,Finance Charge,1,,2.63,0,2.63,8/31/2025,
+2479282,Asbury Methodist Village Healthcare Center,SNF,McCallum,Carole,254103,Late Fee,10/3/2025,Finance Charge,1,,2.67,0,2.67,9/30/2025,
+1334311,Asbury Methodist Village Healthcare Center,SNF,Mcguire,Elizabeth,82267,Late Fee,9/3/2024,Finance Charge,-1,,-93.16,0,-93.16,1/29/2025,
+1334321,Asbury Methodist Village Healthcare Center,SNF,Mcguire,Elizabeth,82267,Late Fee,10/3/2024,Finance Charge,-1,,-94.55,0,-94.55,1/29/2025,
+1479043,Asbury Methodist Village Healthcare Center,SNF,Mcguire,Elizabeth,82267,Late Fee,3/3/2025,Finance Charge,1,,91.8,0,91.8,2/28/2025,441
+1997356,Asbury Methodist Village Healthcare Center,SNF,Mcguire,Elizabeth,82267,Late Fee,3/3/2025,Finance Charge,-1,,-91.8,0,-91.8,6/19/2025,441
+2138023,Asbury Methodist Village Healthcare Center,SNF,McLane,Louise,678519,Late Fee,8/3/2025,Finance Charge,1,,0.87,0,0.87,7/31/2025,
+2278169,Asbury Methodist Village Healthcare Center,SNF,McLane,Louise,678519,Late Fee,9/3/2025,Finance Charge,1,,0.88,0,0.88,8/31/2025,
+2479320,Asbury Methodist Village Healthcare Center,SNF,McLane,Louise,678519,Late Fee,10/3/2025,Finance Charge,1,,0.9,0,0.9,9/30/2025,
+1901148,Asbury Methodist Village Healthcare Center,SNF,Meddaugh,Leona,571717,Late Fee,6/3/2025,Finance Charge,1,,34.57,0,34.57,5/31/2025,
+2137939,Asbury Methodist Village Healthcare Center,SNF,Meddaugh,Leona,571717,Late Fee,8/3/2025,Finance Charge,1,,50.8,0,50.8,7/31/2025,
+2479312,Asbury Methodist Village Healthcare Center,SNF,Meddaugh,Leona,571717,Late Fee,10/3/2025,Finance Charge,1,,51.56,0,51.56,9/30/2025,
+1655335,Asbury Methodist Village Healthcare Center,SNF,Middleton,Nancy,82849,Late Fee,4/3/2025,Finance Charge,1,,2.07,0,2.07,3/31/2025,445
+1997295,Asbury Methodist Village Healthcare Center,SNF,Middleton,Nancy,82849,Late Fee,4/3/2025,Finance Charge,-1,,-2.07,0,-2.07,6/19/2025,445
+1338446,Asbury Methodist Village Healthcare Center,SNF,Mills,Deanna,82292,Late Fee,2/3/2025,Finance Charge,1,,43.35,0,43.35,1/31/2025,
+1479064,Asbury Methodist Village Healthcare Center,SNF,Mills,Deanna,82292,Late Fee,3/3/2025,Finance Charge,1,,3.82,0,3.82,2/28/2025,
+1655256,Asbury Methodist Village Healthcare Center,SNF,Mills,Deanna,82292,Late Fee,4/3/2025,Finance Charge,1,,3.88,0,3.88,3/31/2025,
+1655382,Asbury Methodist Village Healthcare Center,SNF,Millunzi,Carol,411021,Late Fee,4/3/2025,Finance Charge,1,,9.43,0,9.43,3/31/2025,
+1901128,Asbury Methodist Village Healthcare Center,SNF,Millunzi,Carol,411021,Late Fee,6/3/2025,Finance Charge,1,,9.57,0,9.57,5/31/2025,450
+2126756,Asbury Methodist Village Healthcare Center,SNF,Millunzi,Carol,411021,Late Fee,6/3/2025,Finance Charge,-1,,-9.57,0,-9.57,7/29/2025,450
+1338492,Asbury Methodist Village Healthcare Center,SNF,Moholt,Mark,82352,Late Fee,2/3/2025,Finance Charge,1,,12.82,0,12.82,1/31/2025,
+1479102,Asbury Methodist Village Healthcare Center,SNF,Moholt,Mark,82352,Late Fee,3/3/2025,Finance Charge,1,,13.01,0,13.01,2/28/2025,
+1655392,Asbury Methodist Village Healthcare Center,SNF,Moholt,Peter,465764,Late Fee,4/3/2025,Finance Charge,1,,0.41,0,0.41,3/31/2025,
+1338443,Asbury Methodist Village Healthcare Center,SNF,Moller,Ruben,82286,Late Fee,2/3/2025,Finance Charge,1,,16.24,0,16.24,1/31/2025,
+1479060,Asbury Methodist Village Healthcare Center,SNF,Moller,Ruben,82286,Late Fee,3/3/2025,Finance Charge,1,,16.49,0,16.49,2/28/2025,
+1655254,Asbury Methodist Village Healthcare Center,SNF,Moller,Ruben,82286,Late Fee,4/3/2025,Finance Charge,1,,16.73,0,16.73,3/31/2025,
+1822709,Asbury Methodist Village Healthcare Center,SNF,Moller,Ruben,82286,Late Fee,5/3/2025,Finance Charge,1,,16.99,0,16.99,4/30/2025,
+1901002,Asbury Methodist Village Healthcare Center,SNF,Moller,Ruben,82286,Late Fee,6/3/2025,Finance Charge,1,,17.24,0,17.24,5/31/2025,
+1338422,Asbury Methodist Village Healthcare Center,SNF,Monroe,John,82170,Late Fee,2/3/2025,Finance Charge,1,,6.32,0,6.32,1/31/2025,
+1479020,Asbury Methodist Village Healthcare Center,SNF,Monroe,John,82170,Late Fee,3/3/2025,Finance Charge,1,,6.41,0,6.41,2/28/2025,
+1655223,Asbury Methodist Village Healthcare Center,SNF,Monroe,John,82170,Late Fee,4/3/2025,Finance Charge,1,,6.51,0,6.51,3/31/2025,
+1822699,Asbury Methodist Village Healthcare Center,SNF,Monroe,John,82170,Late Fee,5/3/2025,Finance Charge,1,,6.61,0,6.61,4/30/2025,
+1900993,Asbury Methodist Village Healthcare Center,SNF,Monroe,John,82170,Late Fee,6/3/2025,Finance Charge,1,,6.7,0,6.7,5/31/2025,
+1901146,Asbury Methodist Village Healthcare Center,SNF,Moran Jr,Eugene,547937,Late Fee,6/3/2025,Finance Charge,1,,40.85,0,40.85,5/31/2025,464
+2261188,Asbury Methodist Village Healthcare Center,SNF,Moran Jr,Eugene,547937,Late Fee,6/3/2025,Finance Charge,-1,,-40.85,0,-40.85,8/31/2025,464
+2278175,Asbury Methodist Village Healthcare Center,SNF,Morley,Claire,695135,Late Fee,9/3/2025,Finance Charge,1,,52.37,0,52.37,8/31/2025,
+2278173,Asbury Methodist Village Healthcare Center,SNF,Morley,Daniel,685924,Late Fee,9/3/2025,Finance Charge,1,,123.49,0,123.49,8/31/2025,
+1655381,Asbury Methodist Village Healthcare Center,SNF,Morris,Michael,405133,Late Fee,4/3/2025,Finance Charge,1,,43.35,0,43.35,3/31/2025,
+2479306,Asbury Methodist Village Healthcare Center,SNF,Nardo,Victor,490347,Late Fee,10/3/2025,Finance Charge,1,,0.3,0,0.3,9/30/2025,
+1655362,Asbury Methodist Village Healthcare Center,SNF,Nelson,Ethelene,210846,Late Fee,4/3/2025,Finance Charge,1,,8.55,0,8.55,3/31/2025,
+1901108,Asbury Methodist Village Healthcare Center,SNF,Nelson,Ethelene,210846,Late Fee,6/3/2025,Finance Charge,1,,8.68,0,8.68,5/31/2025,
+2137906,Asbury Methodist Village Healthcare Center,SNF,Nelson,Ethelene,210846,Late Fee,8/3/2025,Finance Charge,1,,8.81,0,8.81,7/31/2025,
+2479275,Asbury Methodist Village Healthcare Center,SNF,Nelson,Ethelene,210846,Late Fee,10/3/2025,Finance Charge,1,,8.94,0,8.94,9/30/2025,
+2278142,Asbury Methodist Village Healthcare Center,SNF,Newgen,Randy,603266,Late Fee,9/3/2025,Finance Charge,1,,31.35,0,31.35,8/31/2025,
+1479172,Asbury Methodist Village Healthcare Center,SNF,Nordahl,Francis,107128,Late Fee,3/3/2025,Finance Charge,1,,3.06,0,3.06,2/28/2025,
+1479178,Asbury Methodist Village Healthcare Center,SNF,Olisa,Ifeyinua,143230,Late Fee,3/3/2025,Finance Charge,1,,2.04,0,2.04,2/28/2025,
+1655356,Asbury Methodist Village Healthcare Center,SNF,Olisa,Ifeyinua,143230,Late Fee,4/3/2025,Finance Charge,1,,2.07,0,2.07,3/31/2025,
+1901103,Asbury Methodist Village Healthcare Center,SNF,Olisa,Ifeyinua,143230,Late Fee,6/3/2025,Finance Charge,1,,2.1,0,2.1,5/31/2025,
+2063662,Asbury Methodist Village Healthcare Center,SNF,Olisa,Ifeyinua,143230,Late Fee,7/3/2025,Finance Charge,1,,2.14,0,2.14,6/30/2025,
+2137903,Asbury Methodist Village Healthcare Center,SNF,Olisa,Ifeyinua,143230,Late Fee,8/3/2025,Finance Charge,1,,2.17,0,2.17,7/31/2025,
+2278103,Asbury Methodist Village Healthcare Center,SNF,Olisa,Ifeyinua,143230,Late Fee,9/3/2025,Finance Charge,1,,2.2,0,2.2,8/31/2025,
+2479269,Asbury Methodist Village Healthcare Center,SNF,Olisa,Ifeyinua,143230,Late Fee,10/3/2025,Finance Charge,1,,2.23,0,2.23,9/30/2025,
+2137951,Asbury Methodist Village Healthcare Center,SNF,Orndorff,Sarah,577810,Late Fee,8/3/2025,Finance Charge,1,,270.46,0,270.46,7/31/2025,
+2278135,Asbury Methodist Village Healthcare Center,SNF,Orndorff,Sarah,577810,Late Fee,9/3/2025,Finance Charge,1,,199.51,0,199.51,8/31/2025,
+1338627,Asbury Methodist Village Healthcare Center,SNF,Osorio,Lillian,230425,Late Fee,2/3/2025,Finance Charge,1,,26.71,0,26.71,1/31/2025,
+1655200,Asbury Methodist Village Healthcare Center,SNF,Outram,Carol,80818,Late Fee,4/3/2025,Finance Charge,1,,193.27,0,193.27,3/31/2025,
+1900959,Asbury Methodist Village Healthcare Center,SNF,Outram,Carol,80818,Late Fee,6/3/2025,Finance Charge,1,,123.65,0,123.65,5/31/2025,
+1338610,Asbury Methodist Village Healthcare Center,SNF,Park,Grace,189626,Late Fee,2/3/2025,Finance Charge,1,,79.73,0,79.73,1/31/2025,
+1479181,Asbury Methodist Village Healthcare Center,SNF,Park,Grace,189626,Late Fee,3/3/2025,Finance Charge,1,,80.93,0,80.93,2/28/2025,
+1479105,Asbury Methodist Village Healthcare Center,SNF,Patel,Kapilaben,82369,Late Fee,3/3/2025,Finance Charge,1,,37.4,0,37.4,2/28/2025,
+1822752,Asbury Methodist Village Healthcare Center,SNF,Patel,Kapilaben,82369,Late Fee,5/3/2025,Finance Charge,1,,37.96,0,37.96,4/30/2025,
+1479152,Asbury Methodist Village Healthcare Center,SNF,Penton,Babette,82796,Late Fee,3/3/2025,Finance Charge,1,,0.38,0,0.38,2/28/2025,
+1338502,Asbury Methodist Village Healthcare Center,SNF,Persick,Kenneth,82391,Late Fee,2/3/2025,Finance Charge,1,,6.5,0,6.5,1/31/2025,
+1479111,Asbury Methodist Village Healthcare Center,SNF,Persick,Kenneth,82391,Late Fee,3/3/2025,Finance Charge,1,,6.6,0,6.6,2/28/2025,
+1900961,Asbury Methodist Village Healthcare Center,SNF,Pesseh,Isaac,80956,Late Fee,6/3/2025,Finance Charge,1,,190.94,0,190.94,5/31/2025,
+1479191,Asbury Methodist Village Healthcare Center,SNF,Peterson,Barbara,320405,Late Fee,3/3/2025,Finance Charge,1,,259.13,0,259.13,2/28/2025,
+1655370,Asbury Methodist Village Healthcare Center,SNF,Peterson,Barbara,320405,Late Fee,4/3/2025,Finance Charge,1,,263.01,0,263.01,3/31/2025,
+1822831,Asbury Methodist Village Healthcare Center,SNF,Pezzano,Philip,450453,Late Fee,5/3/2025,Finance Charge,1,,419.69,0,419.69,4/30/2025,
+2063676,Asbury Methodist Village Healthcare Center,SNF,Pezzano,Philip,450453,Late Fee,7/3/2025,Finance Charge,1,,1035.48,0,1035.48,6/30/2025,
+1338387,Asbury Methodist Village Healthcare Center,SNF,Phillips,Mary,80760,Late Fee,2/3/2025,Finance Charge,1,,18.82,0,18.82,1/31/2025,
+1478883,Asbury Methodist Village Healthcare Center,SNF,Phillips,Mary,80760,Late Fee,3/3/2025,Finance Charge,1,,19.1,0,19.1,2/28/2025,
+1655196,Asbury Methodist Village Healthcare Center,SNF,Phillips,Mary,80760,Late Fee,4/3/2025,Finance Charge,1,,19.39,0,19.39,3/31/2025,
+1822673,Asbury Methodist Village Healthcare Center,SNF,Phillips,Mary,80760,Late Fee,5/3/2025,Finance Charge,1,,19.68,0,19.68,4/30/2025,
+2063092,Asbury Methodist Village Healthcare Center,SNF,Phillips,Mary,80760,Late Fee,7/3/2025,Finance Charge,1,,19.98,0,19.98,6/30/2025,
+2137831,Asbury Methodist Village Healthcare Center,SNF,Phillips,Mary,80760,Late Fee,8/3/2025,Finance Charge,1,,20.28,0,20.28,7/31/2025,
+2479209,Asbury Methodist Village Healthcare Center,SNF,Phillips,Mary,80760,Late Fee,10/3/2025,Finance Charge,1,,20.58,0,20.58,9/30/2025,
+1655294,Asbury Methodist Village Healthcare Center,SNF,Polk,Robert,82359,Late Fee,4/3/2025,Finance Charge,1,,1.41,0,1.41,3/31/2025,
+2278145,Asbury Methodist Village Healthcare Center,SNF,Pricer,Geraldine,603482,Late Fee,9/3/2025,Finance Charge,1,,45.64,0,45.64,8/31/2025,
+2063687,Asbury Methodist Village Healthcare Center,SNF,Rader,Delight,534913,Late Fee,7/3/2025,Finance Charge,1,,0.9,0,0.9,6/30/2025,508
+2126785,Asbury Methodist Village Healthcare Center,SNF,Rader,Delight,534913,Late Fee,7/3/2025,Finance Charge,-1,,-0.9,0,-0.9,7/29/2025,508
+1338569,Asbury Methodist Village Healthcare Center,SNF,Ribner,Paul,94650,Late Fee,2/3/2025,Finance Charge,1,,41.82,0,41.82,1/31/2025,
+1901096,Asbury Methodist Village Healthcare Center,SNF,Ribner,Paul,94650,Late Fee,6/3/2025,Finance Charge,1,,16.79,0,16.79,5/31/2025,
+1338647,Asbury Methodist Village Healthcare Center,SNF,Richardson,Suzanne,370321,Late Fee,2/3/2025,Finance Charge,1,,0.6,0,0.6,1/31/2025,511
+1972153,Asbury Methodist Village Healthcare Center,SNF,Richardson,Suzanne,370321,Late Fee,2/3/2025,Finance Charge,-1,,-0.6,0,-0.6,5/31/2025,511
+1901121,Asbury Methodist Village Healthcare Center,SNF,Richardson,Suzanne,370321,Late Fee,6/3/2025,Finance Charge,1,,0.01,0,0.01,5/31/2025,512
+1972163,Asbury Methodist Village Healthcare Center,SNF,Richardson,Suzanne,370321,Late Fee,6/3/2025,Finance Charge,-1,,-0.01,0,-0.01,5/31/2025,512
+1338450,Asbury Methodist Village Healthcare Center,SNF,Rizzo,Sangsom,82297,Late Fee,2/3/2025,Finance Charge,1,,43.22,0,43.22,1/31/2025,
+1479069,Asbury Methodist Village Healthcare Center,SNF,Rizzo,Sangsom,82297,Late Fee,3/3/2025,Finance Charge,1,,43.86,0,43.86,2/28/2025,
+1655258,Asbury Methodist Village Healthcare Center,SNF,Rizzo,Sangsom,82297,Late Fee,4/3/2025,Finance Charge,1,,44.52,0,44.52,3/31/2025,
+1822722,Asbury Methodist Village Healthcare Center,SNF,Rizzo,Sangsom,82297,Late Fee,5/3/2025,Finance Charge,1,,45.19,0,45.19,4/30/2025,
+1901015,Asbury Methodist Village Healthcare Center,SNF,Rizzo,Sangsom,82297,Late Fee,6/3/2025,Finance Charge,1,,45.87,0,45.87,5/31/2025,
+1338494,Asbury Methodist Village Healthcare Center,SNF,Robbins III,Millard,82368,Late Fee,2/3/2025,Finance Charge,1,,173.4,0,173.4,1/31/2025,
+1479104,Asbury Methodist Village Healthcare Center,SNF,Robbins III,Millard,82368,Late Fee,3/3/2025,Finance Charge,1,,176,0,176,2/28/2025,
+1655295,Asbury Methodist Village Healthcare Center,SNF,Robbins III,Millard,82368,Late Fee,4/3/2025,Finance Charge,1,,178.64,0,178.64,3/31/2025,
+1822751,Asbury Methodist Village Healthcare Center,SNF,Robbins III,Millard,82368,Late Fee,5/3/2025,Finance Charge,1,,126.24,0,126.24,4/30/2025,
+1901037,Asbury Methodist Village Healthcare Center,SNF,Robbins III,Millard,82368,Late Fee,6/3/2025,Finance Charge,1,,128.13,0,128.13,5/31/2025,
+2278160,Asbury Methodist Village Healthcare Center,SNF,Rodriguez,Caridad,640269,Late Fee,9/3/2025,Finance Charge,1,,68.46,0,68.46,8/31/2025,
+1338609,Asbury Methodist Village Healthcare Center,SNF,Roe,Maria,187322,Late Fee,2/3/2025,Finance Charge,1,,18.36,0,18.36,1/31/2025,
+1479180,Asbury Methodist Village Healthcare Center,SNF,Roe,Maria,187322,Late Fee,3/3/2025,Finance Charge,1,,18.64,0,18.64,2/28/2025,
+2063689,Asbury Methodist Village Healthcare Center,SNF,Rolston Mosso,Beverly,545490,Late Fee,7/3/2025,Finance Charge,1,,41.39,0,41.39,6/30/2025,
+2278131,Asbury Methodist Village Healthcare Center,SNF,Rolston Mosso,Beverly,545490,Late Fee,9/3/2025,Finance Charge,1,,101.26,0,101.26,8/31/2025,
+1655384,Asbury Methodist Village Healthcare Center,SNF,Roseboro,Juanita,414277,Late Fee,4/3/2025,Finance Charge,1,,0.9,0,0.9,3/31/2025,
+1822828,Asbury Methodist Village Healthcare Center,SNF,Roseboro,Juanita,414277,Late Fee,5/3/2025,Finance Charge,1,,0.91,0,0.91,4/30/2025,
+1901129,Asbury Methodist Village Healthcare Center,SNF,Roseboro,Juanita,414277,Late Fee,6/3/2025,Finance Charge,1,,0.93,0,0.93,5/31/2025,
+2063675,Asbury Methodist Village Healthcare Center,SNF,Roseboro,Juanita,414277,Late Fee,7/3/2025,Finance Charge,1,,0.94,0,0.94,6/30/2025,
+2137926,Asbury Methodist Village Healthcare Center,SNF,Roseboro,Juanita,414277,Late Fee,8/3/2025,Finance Charge,1,,15.8,0,15.8,7/31/2025,
+2479298,Asbury Methodist Village Healthcare Center,SNF,Roseboro,Juanita,414277,Late Fee,10/3/2025,Finance Charge,1,,16.03,0,16.03,9/30/2025,
+1901114,Asbury Methodist Village Healthcare Center,SNF,Rosenberg,Violet,319486,Late Fee,6/3/2025,Finance Charge,1,,264.47,0,264.47,5/31/2025,
+2063697,Asbury Methodist Village Healthcare Center,SNF,Rosenblum,Mitchell,604270,Late Fee,7/3/2025,Finance Charge,1,,1.41,0,1.41,6/30/2025,
+2137972,Asbury Methodist Village Healthcare Center,SNF,Rosenblum,Mitchell,604270,Late Fee,8/3/2025,Finance Charge,1,,0.68,0,0.68,7/31/2025,
+1338646,Asbury Methodist Village Healthcare Center,SNF,Sabin,Maura,334385,Late Fee,2/3/2025,Finance Charge,1,,116.37,0,116.37,1/31/2025,
+1655371,Asbury Methodist Village Healthcare Center,SNF,Sabin,Maura,334385,Late Fee,4/3/2025,Finance Charge,1,,118.12,0,118.12,3/31/2025,
+1822819,Asbury Methodist Village Healthcare Center,SNF,Sabin,Maura,334385,Late Fee,5/3/2025,Finance Charge,1,,119.89,0,119.89,4/30/2025,
+1901117,Asbury Methodist Village Healthcare Center,SNF,Sabin,Maura,334385,Late Fee,6/3/2025,Finance Charge,1,,121.69,0,121.69,5/31/2025,
+1338339,Asbury Methodist Village Healthcare Center,SNF,Savel,Catherine,78608,Late Fee,2/3/2025,Finance Charge,1,,1.56,0,1.56,1/31/2025,
+1478880,Asbury Methodist Village Healthcare Center,SNF,Savel,Catherine,78608,Late Fee,3/3/2025,Finance Charge,1,,1.59,0,1.59,2/28/2025,
+1338504,Asbury Methodist Village Healthcare Center,SNF,Scherr,Edmund,82397,Late Fee,2/3/2025,Finance Charge,1,,134.06,0,134.06,1/31/2025,
+1338648,Asbury Methodist Village Healthcare Center,SNF,Shokouhibeh,Abdollah,381026,Late Fee,2/3/2025,Finance Charge,1,,8.25,0,8.25,1/31/2025,544
+2261298,Asbury Methodist Village Healthcare Center,SNF,Shokouhibeh,Abdollah,381026,Late Fee,2/3/2025,Finance Charge,-1,,-8.25,0,-8.25,8/31/2025,544
+1655378,Asbury Methodist Village Healthcare Center,SNF,Shokouhibeh,Abdollah,381026,Late Fee,4/3/2025,Finance Charge,1,,29.15,0,29.15,3/31/2025,545
+2260596,Asbury Methodist Village Healthcare Center,SNF,Shokouhibeh,Abdollah,381026,Late Fee,4/3/2025,Finance Charge,-1,,-29.15,0,-29.15,8/31/2025,545
+1901122,Asbury Methodist Village Healthcare Center,SNF,Shokouhibeh,Abdollah,381026,Late Fee,6/3/2025,Finance Charge,1,,29.59,0,29.59,5/31/2025,546
+2260387,Asbury Methodist Village Healthcare Center,SNF,Shokouhibeh,Abdollah,381026,Late Fee,6/3/2025,Finance Charge,-1,,-29.59,0,-29.59,8/31/2025,546
+1655329,Asbury Methodist Village Healthcare Center,SNF,Shore,Ann,82684,Late Fee,4/3/2025,Finance Charge,1,,144.11,0,144.11,3/31/2025,547
+1882267,Asbury Methodist Village Healthcare Center,SNF,Shore,Ann,82684,Late Fee,4/3/2025,Finance Charge,-1,,-144.11,0,-144.11,5/29/2025,547
+1901149,Asbury Methodist Village Healthcare Center,SNF,Smith,Lola,601368,Late Fee,6/3/2025,Finance Charge,1,,247.5,0,247.5,5/31/2025,
+1338418,Asbury Methodist Village Healthcare Center,SNF,Staton,Marilyn,82125,Late Fee,2/3/2025,Finance Charge,1,,57.59,0,57.59,1/31/2025,
+1338625,Asbury Methodist Village Healthcare Center,SNF,Stenson,Gloria,213193,Late Fee,2/3/2025,Finance Charge,1,,24.48,0,24.48,1/31/2025,
+1338570,Asbury Methodist Village Healthcare Center,SNF,Stiffler,Cynthia,94865,Late Fee,2/3/2025,Finance Charge,1,,27.54,0,27.54,1/31/2025,551
+1996986,Asbury Methodist Village Healthcare Center,SNF,Stiffler,Cynthia,94865,Late Fee,2/3/2025,Finance Charge,-1,,-27.54,0,-27.54,6/19/2025,551
+1655346,Asbury Methodist Village Healthcare Center,SNF,Stiffler,Cynthia,94865,Late Fee,4/3/2025,Finance Charge,1,,27.95,0,27.95,3/31/2025,552
+1996949,Asbury Methodist Village Healthcare Center,SNF,Stiffler,Cynthia,94865,Late Fee,4/3/2025,Finance Charge,-1,,-27.95,0,-27.95,6/19/2025,552
+1901150,Asbury Methodist Village Healthcare Center,SNF,Stroh,Katricia,619512,Late Fee,6/3/2025,Finance Charge,1,,0.93,0,0.93,5/31/2025,
+2063701,Asbury Methodist Village Healthcare Center,SNF,Stroh,Katricia,619512,Late Fee,7/3/2025,Finance Charge,1,,0.94,0,0.94,6/30/2025,
+2278153,Asbury Methodist Village Healthcare Center,SNF,Stroh,Katricia,619512,Late Fee,9/3/2025,Finance Charge,1,,2.46,0,2.46,8/31/2025,
+1655388,Asbury Methodist Village Healthcare Center,SNF,Sussman,Ann,423662,Late Fee,4/3/2025,Finance Charge,1,,37.71,0,37.71,3/31/2025,556
+1972143,Asbury Methodist Village Healthcare Center,SNF,Sussman,Ann,423662,Late Fee,4/3/2025,Finance Charge,-1,,-37.71,0,-37.71,5/31/2025,556
+1901132,Asbury Methodist Village Healthcare Center,SNF,Sussman,Ann,423662,Late Fee,6/3/2025,Finance Charge,1,,0.57,0,0.57,5/31/2025,557
+1972136,Asbury Methodist Village Healthcare Center,SNF,Sussman,Ann,423662,Late Fee,6/3/2025,Finance Charge,-1,,-0.57,0,-0.57,5/31/2025,557
+1338566,Asbury Methodist Village Healthcare Center,SNF,Tallia,Nadine,82964,Late Fee,2/3/2025,Finance Charge,1,,3.02,0,3.02,1/31/2025,
+1338524,Asbury Methodist Village Healthcare Center,SNF,Taylor JR,Charles,82456,Late Fee,2/3/2025,Finance Charge,1,,3.73,0,3.73,1/31/2025,
+1655305,Asbury Methodist Village Healthcare Center,SNF,Taylor JR,Charles,82456,Late Fee,4/3/2025,Finance Charge,1,,3.78,0,3.78,3/31/2025,560
+1972173,Asbury Methodist Village Healthcare Center,SNF,Taylor JR,Charles,82456,Late Fee,4/3/2025,Finance Charge,-1,,-3.78,0,-3.78,5/31/2025,560
+1577135,Asbury Methodist Village Healthcare Center,SNF,Theis,Robert,80659,Late Fee,10/3/2024,Finance Charge,-1,,-1.88,0,-1.88,3/10/2025,
+1577125,Asbury Methodist Village Healthcare Center,SNF,Theis,Robert,80659,Late Fee,11/3/2024,Finance Charge,-1,,-1.91,0,-1.91,3/10/2025,
+1655387,Asbury Methodist Village Healthcare Center,SNF,Thomas,Roberta,422361,Late Fee,4/3/2025,Finance Charge,1,,28.28,0,28.28,3/31/2025,
+1901131,Asbury Methodist Village Healthcare Center,SNF,Thomas,Roberta,422361,Late Fee,6/3/2025,Finance Charge,1,,6.71,0,6.71,5/31/2025,
+2063630,Asbury Methodist Village Healthcare Center,SNF,Thompson,Diana,82447,Late Fee,7/3/2025,Finance Charge,1,,288.21,0,288.21,6/30/2025,565
+2240466,Asbury Methodist Village Healthcare Center,SNF,Thompson,Diana,82447,Late Fee,7/3/2025,Finance Charge,-1,,-288.21,0,-288.21,8/13/2025,565
+2063653,Asbury Methodist Village Healthcare Center,SNF,Trafton,David,82811,Late Fee,7/3/2025,Finance Charge,1,,27.18,0,27.18,6/30/2025,
+2278064,Asbury Methodist Village Healthcare Center,SNF,Trafton,David,82811,Late Fee,9/3/2025,Finance Charge,1,,27.59,0,27.59,8/31/2025,
+1338603,Asbury Methodist Village Healthcare Center,SNF,Turcotte,Arthur,139527,Late Fee,2/3/2025,Finance Charge,1,,75.66,0,75.66,1/31/2025,
+1479177,Asbury Methodist Village Healthcare Center,SNF,Turcotte,Arthur,139527,Late Fee,3/3/2025,Finance Charge,1,,76.79,0,76.79,2/28/2025,
+1655354,Asbury Methodist Village Healthcare Center,SNF,Turcotte,Arthur,139527,Late Fee,4/3/2025,Finance Charge,1,,77.95,0,77.95,3/31/2025,
+1822806,Asbury Methodist Village Healthcare Center,SNF,Turcotte,Arthur,139527,Late Fee,5/3/2025,Finance Charge,1,,79.12,0,79.12,4/30/2025,
+1901101,Asbury Methodist Village Healthcare Center,SNF,Turcotte,Arthur,139527,Late Fee,6/3/2025,Finance Charge,1,,80.3,0,80.3,5/31/2025,
+1822755,Asbury Methodist Village Healthcare Center,SNF,Tustian,Richard,82394,Late Fee,5/3/2025,Finance Charge,1,,0.02,0,0.02,4/30/2025,573
+1996995,Asbury Methodist Village Healthcare Center,SNF,Tustian,Richard,82394,Late Fee,5/3/2025,Finance Charge,-1,,-0.02,0,-0.02,6/19/2025,573
+1655308,Asbury Methodist Village Healthcare Center,SNF,Vaishnav,Marianne,82550,Late Fee,4/3/2025,Finance Charge,1,,21,0,21,3/31/2025,574
+1972174,Asbury Methodist Village Healthcare Center,SNF,Vaishnav,Marianne,82550,Late Fee,4/3/2025,Finance Charge,-1,,-21,0,-21,5/31/2025,574
+1655373,Asbury Methodist Village Healthcare Center,SNF,Velasquez,Graciela,362805,Late Fee,4/3/2025,Finance Charge,1,,27.79,0,27.79,3/31/2025,
+1901120,Asbury Methodist Village Healthcare Center,SNF,Velasquez,Graciela,362805,Late Fee,6/3/2025,Finance Charge,1,,28.2,0,28.2,5/31/2025,
+2137919,Asbury Methodist Village Healthcare Center,SNF,Velasquez,Graciela,362805,Late Fee,8/3/2025,Finance Charge,1,,28.63,0,28.63,7/31/2025,
+2479290,Asbury Methodist Village Healthcare Center,SNF,Velasquez,Graciela,362805,Late Fee,10/3/2025,Finance Charge,1,,29.06,0,29.06,9/30/2025,
+2137908,Asbury Methodist Village Healthcare Center,SNF,Vohra,Inder,251238,Late Fee,8/3/2025,Finance Charge,1,,5.7,0,5.7,7/31/2025,
+2479280,Asbury Methodist Village Healthcare Center,SNF,Vohra,Inder,251238,Late Fee,10/3/2025,Finance Charge,1,,5.79,0,5.79,9/30/2025,
+2063624,Asbury Methodist Village Healthcare Center,SNF,Wassell,John,82350,Late Fee,7/3/2025,Finance Charge,1,,241.04,0,241.04,6/30/2025,
+1655339,Asbury Methodist Village Healthcare Center,SNF,Wells,Linda,82890,Late Fee,4/3/2025,Finance Charge,1,,495.57,0,495.57,3/31/2025,
+1822789,Asbury Methodist Village Healthcare Center,SNF,Wells,Linda,82890,Late Fee,5/3/2025,Finance Charge,1,,687.5,0,687.5,4/30/2025,
+1822692,Asbury Methodist Village Healthcare Center,SNF,White,Margaret,82115,Late Fee,5/3/2025,Finance Charge,1,,581.31,0,581.31,4/30/2025,
+2063598,Asbury Methodist Village Healthcare Center,SNF,White,Margaret,82115,Late Fee,7/3/2025,Finance Charge,1,,286.52,0,286.52,6/30/2025,
+2479216,Asbury Methodist Village Healthcare Center,SNF,White,Margaret,82115,Late Fee,10/3/2025,Finance Charge,1,,582.26,0,582.26,9/30/2025,
+2063658,Asbury Methodist Village Healthcare Center,SNF,Wilkerson,Barbara,82887,Late Fee,7/3/2025,Finance Charge,1,,286.52,0,286.52,6/30/2025,587
+2240467,Asbury Methodist Village Healthcare Center,SNF,Wilkerson,Barbara,82887,Late Fee,7/3/2025,Finance Charge,-1,,-286.52,0,-286.52,8/13/2025,587
+1338507,Asbury Methodist Village Healthcare Center,SNF,Wingfield,Margaret,82417,Late Fee,2/3/2025,Finance Charge,1,,3.57,0,3.57,1/31/2025,588
+1576283,Asbury Methodist Village Healthcare Center,SNF,Wingfield,Margaret,82417,Late Fee,2/3/2025,Finance Charge,-1,,-3.57,0,-3.57,3/7/2025,588
+1822830,Asbury Methodist Village Healthcare Center,SNF,Yamazaki,Shigeko,423750,Late Fee,5/3/2025,Finance Charge,1,,1.77,0,1.77,4/30/2025,
+1338579,Asbury Methodist Village Residential Living,IL,Andrews,Susan,81615,Late Fee,2/3/2025,Finance Charge,1,,246.07,0,246.07,1/31/2025,
+1479011,Asbury Methodist Village Residential Living,IL,Andrews,Susan,81615,Late Fee,3/3/2025,Finance Charge,1,,312.17,0,312.17,2/28/2025,
+1655232,Asbury Methodist Village Residential Living,IL,Andrews,Susan,81615,Late Fee,4/3/2025,Finance Charge,1,,379.26,0,379.26,3/31/2025,
+1822717,Asbury Methodist Village Residential Living,IL,Andrews,Susan,81615,Late Fee,5/3/2025,Finance Charge,1,,114.5,0,114.5,4/30/2025,
+1901006,Asbury Methodist Village Residential Living,IL,Andrews,Susan,81615,Late Fee,6/3/2025,Finance Charge,1,,163.98,0,163.98,5/31/2025,
+2137999,Asbury Methodist Village Residential Living,IL,Arche,Scott,737257,Late Fee,8/3/2025,Finance Charge,1,,39.1,0,39.1,7/31/2025,596
+2238500,Asbury Methodist Village Residential Living,IL,Arche,Scott,737257,Late Fee,8/3/2025,Finance Charge,-1,,-39.1,0,-39.1,8/11/2025,596
+1338615,Asbury Methodist Village Residential Living,IL,Bradford,Mary,81871,Late Fee,2/3/2025,Finance Charge,1,,58.13,0,58.13,1/31/2025,
+1479028,Asbury Methodist Village Residential Living,IL,Brown,Catherine,81789,Late Fee,3/3/2025,Finance Charge,1,,0.53,0,0.53,2/28/2025,
+1479030,Asbury Methodist Village Residential Living,IL,Brown,William,81826,Late Fee,3/3/2025,Finance Charge,1,,48.13,0,48.13,2/28/2025,
+1338522,Asbury Methodist Village Residential Living,IL,Burt,Joy,77904,Late Fee,2/3/2025,Finance Charge,1,,3.57,0,3.57,1/31/2025,
+2063734,Asbury Methodist Village Residential Living,IL,Burt,Joy,77904,Late Fee,7/3/2025,Finance Charge,1,,3.65,0,3.65,6/30/2025,
+2063733,Asbury Methodist Village Residential Living,IL,Burt,Marvin,77892,Late Fee,7/3/2025,Finance Charge,1,,58.61,0,58.61,6/30/2025,
+1338549,Asbury Methodist Village Residential Living,IL,Cascone,Judith,78130,Late Fee,2/3/2025,Finance Charge,1,,66.18,0,66.18,1/31/2025,603
+1743148,Asbury Methodist Village Residential Living,IL,Cascone,Judith,78130,Late Fee,2/3/2025,Finance Charge,-1,,-66.18,0,-66.18,4/29/2025,603
+1478987,Asbury Methodist Village Residential Living,IL,Cascone,Judith,78130,Late Fee,3/3/2025,Finance Charge,1,,69.83,0,69.83,2/28/2025,
+2278113,Asbury Methodist Village Residential Living,IL,Cascone,Judith,78130,Late Fee,9/3/2025,Finance Charge,1,,64.09,0,64.09,8/31/2025,605
+2389021,Asbury Methodist Village Residential Living,IL,Cascone,Judith,78130,Late Fee,9/3/2025,Finance Charge,-1,,-64.09,0,-64.09,9/24/2025,605
+2479336,Asbury Methodist Village Residential Living,IL,Chamberlain,Jeanne,77612,Late Fee,10/3/2025,Finance Charge,1,,48.55,0,48.55,9/30/2025,
+1338596,Asbury Methodist Village Residential Living,IL,Conley,Myrtle,81753,Late Fee,2/3/2025,Finance Charge,1,,66.7,0,66.7,1/31/2025,
+1479027,Asbury Methodist Village Residential Living,IL,Conley,Myrtle,81753,Late Fee,3/3/2025,Finance Charge,1,,68.4,0,68.4,2/28/2025,
+1822730,Asbury Methodist Village Residential Living,IL,Conley,Myrtle,81753,Late Fee,5/3/2025,Finance Charge,1,,67.33,0,67.33,4/30/2025,
+1901024,Asbury Methodist Village Residential Living,IL,Conley,Myrtle,81753,Late Fee,6/3/2025,Finance Charge,1,,135.41,0,135.41,5/31/2025,
+2278144,Asbury Methodist Village Residential Living,IL,Conley,Myrtle,81753,Late Fee,9/3/2025,Finance Charge,1,,67.29,0,67.29,8/31/2025,
+1338663,Asbury Methodist Village Residential Living,IL,Connell,John,385106,Late Fee,2/3/2025,Finance Charge,1,,62.95,0,62.95,1/31/2025,612
+1473984,Asbury Methodist Village Residential Living,IL,Connell,John,385106,Late Fee,2/3/2025,Finance Charge,-1,,-62.95,0,-62.95,2/25/2025,612
+2278132,Asbury Methodist Village Residential Living,IL,Crum,David,81569,Late Fee,9/3/2025,Finance Charge,1,,13.59,0,13.59,8/31/2025,613
+2372486,Asbury Methodist Village Residential Living,IL,Crum,David,81569,Late Fee,9/3/2025,Finance Charge,-1,,-13.59,0,-13.59,9/1/2025,613
+2278172,Asbury Methodist Village Residential Living,IL,Dammen,David,82003,Late Fee,9/3/2025,Finance Charge,1,,57.59,0,57.59,8/31/2025,614
+2372593,Asbury Methodist Village Residential Living,IL,Dammen,David,82003,Late Fee,9/3/2025,Finance Charge,-1,,-57.59,0,-57.59,9/1/2025,614
+2278168,Asbury Methodist Village Residential Living,IL,Dammen,Patricia,81969,Late Fee,9/3/2025,Finance Charge,1,,0.53,0,0.53,8/31/2025,615
+2372591,Asbury Methodist Village Residential Living,IL,Dammen,Patricia,81969,Late Fee,9/3/2025,Finance Charge,-1,,-0.53,0,-0.53,9/1/2025,615
+1478991,Asbury Methodist Village Residential Living,IL,Dick,Judith,78252,Late Fee,3/3/2025,Finance Charge,1,,68.57,0,68.57,2/28/2025,
+2063726,Asbury Methodist Village Residential Living,IL,Dixon,Helen,77602,Late Fee,7/3/2025,Finance Charge,1,,42.5,0,42.5,6/30/2025,617
+2112391,Asbury Methodist Village Residential Living,IL,Dixon,Helen,77602,Late Fee,7/3/2025,Finance Charge,-1,,-42.5,0,-42.5,7/11/2025,617
+2278098,Asbury Methodist Village Residential Living,IL,Dixon,Helen,77602,Late Fee,9/3/2025,Finance Charge,1,,44.51,0,44.51,8/31/2025,618
+2372482,Asbury Methodist Village Residential Living,IL,Dixon,Helen,77602,Late Fee,9/3/2025,Finance Charge,-1,,-44.51,0,-44.51,9/1/2025,618
+2278109,Asbury Methodist Village Residential Living,IL,Donkersloot,Jacob,78077,Late Fee,9/3/2025,Finance Charge,1,,46.48,0,46.48,8/31/2025,619
+2380641,Asbury Methodist Village Residential Living,IL,Donkersloot,Jacob,78077,Late Fee,9/3/2025,Finance Charge,-1,,-46.48,0,-46.48,9/15/2025,619
+1479077,Asbury Methodist Village Residential Living,IL,Elliott,Rex Thomas,174887,Late Fee,3/3/2025,Finance Charge,1,,62.74,0,62.74,2/28/2025,
+1338639,Asbury Methodist Village Residential Living,IL,Fairchild,Charles,81980,Late Fee,2/3/2025,Finance Charge,1,,74.83,0,74.83,1/31/2025,
+1479052,Asbury Methodist Village Residential Living,IL,Fairchild,Charles,81980,Late Fee,3/3/2025,Finance Charge,1,,71.31,0,71.31,2/28/2025,
+1338653,Asbury Methodist Village Residential Living,IL,Fairchild,Karen,82053,Late Fee,2/3/2025,Finance Charge,1,,20.76,0,20.76,1/31/2025,
+1479054,Asbury Methodist Village Residential Living,IL,Fairchild,Karen,82053,Late Fee,3/3/2025,Finance Charge,1,,40.33,0,40.33,2/28/2025,
+1822745,Asbury Methodist Village Residential Living,IL,Fairchild,Karen,82053,Late Fee,5/3/2025,Finance Charge,1,,75.17,0,75.17,4/30/2025,
+2063743,Asbury Methodist Village Residential Living,IL,Fairchild,Karen,82053,Late Fee,7/3/2025,Finance Charge,1,,75.03,0,75.03,6/30/2025,
+2278112,Asbury Methodist Village Residential Living,IL,Farrelly,Edward,78092,Late Fee,9/3/2025,Finance Charge,1,,1.43,0,1.43,8/31/2025,627
+2372484,Asbury Methodist Village Residential Living,IL,Farrelly,Edward,78092,Late Fee,9/3/2025,Finance Charge,-1,,-1.43,0,-1.43,9/1/2025,627
+2278152,Asbury Methodist Village Residential Living,IL,Ferraro,Helen,81811,Late Fee,9/3/2025,Finance Charge,1,,27.62,0,27.62,8/31/2025,628
+2372489,Asbury Methodist Village Residential Living,IL,Ferraro,Helen,81811,Late Fee,9/3/2025,Finance Charge,-1,,-27.62,0,-27.62,9/1/2025,628
+2278130,Asbury Methodist Village Residential Living,IL,Fisher,Joanne,80439,Late Fee,9/3/2025,Finance Charge,1,,69.47,0,69.47,8/31/2025,629
+2372485,Asbury Methodist Village Residential Living,IL,Fisher,Joanne,80439,Late Fee,9/3/2025,Finance Charge,-1,,-69.47,0,-69.47,9/1/2025,629
+2278143,Asbury Methodist Village Residential Living,IL,Fisher,Thomas,81631,Late Fee,9/3/2025,Finance Charge,1,,65.29,0,65.29,8/31/2025,630
+2372488,Asbury Methodist Village Residential Living,IL,Fisher,Thomas,81631,Late Fee,9/3/2025,Finance Charge,-1,,-65.29,0,-65.29,9/1/2025,630
+2137995,Asbury Methodist Village Residential Living,IL,Floge,Liliane,656726,Late Fee,8/3/2025,Finance Charge,1,,66.93,0,66.93,7/31/2025,
+2278183,Asbury Methodist Village Residential Living,IL,Foster,Dennis,699726,Late Fee,9/3/2025,Finance Charge,1,,1.43,0,1.43,8/31/2025,632
+2372596,Asbury Methodist Village Residential Living,IL,Foster,Dennis,699726,Late Fee,9/3/2025,Finance Charge,-1,,-1.43,0,-1.43,9/1/2025,632
+1822718,Asbury Methodist Village Residential Living,IL,Frost,Roberta,81692,Late Fee,5/3/2025,Finance Charge,1,,46.47,0,46.47,4/30/2025,
+1655252,Asbury Methodist Village Residential Living,IL,Gadek,Stelle,81787,Late Fee,4/3/2025,Finance Charge,1,,39.01,0,39.01,3/31/2025,
+1479079,Asbury Methodist Village Residential Living,IL,Gearing,Juanita,341006,Late Fee,3/3/2025,Finance Charge,1,,174.6,0,174.6,2/28/2025,
+1479029,Asbury Methodist Village Residential Living,IL,Gierke,Gerda,81799,Late Fee,3/3/2025,Finance Charge,1,,27.95,0,27.95,2/28/2025,636
+1583101,Asbury Methodist Village Residential Living,IL,Gierke,Gerda,81799,Late Fee,3/3/2025,Finance Charge,-1,,-27.95,0,-27.95,3/14/2025,636
+1338332,Asbury Methodist Village Residential Living,IL,Goldberg,Joan,77572,Late Fee,2/3/2025,Finance Charge,1,,72.75,0,72.75,1/31/2025,
+1478953,Asbury Methodist Village Residential Living,IL,Goldberg,Joan,77572,Late Fee,3/3/2025,Finance Charge,1,,76.21,0,76.21,2/28/2025,
+1655204,Asbury Methodist Village Residential Living,IL,Goldberg,Joan,77572,Late Fee,4/3/2025,Finance Charge,1,,79.62,0,79.62,3/31/2025,
+1900963,Asbury Methodist Village Residential Living,IL,Goldberg,Joan,77572,Late Fee,6/3/2025,Finance Charge,1,,86.43,0,86.43,5/31/2025,640
+2027953,Asbury Methodist Village Residential Living,IL,Goldberg,Joan,77572,Late Fee,6/3/2025,Finance Charge,-1,,-86.43,0,-86.43,6/30/2025,640
+2278095,Asbury Methodist Village Residential Living,IL,Goldberg,Joan,77572,Late Fee,9/3/2025,Finance Charge,1,,47.64,0,47.64,8/31/2025,641
+2372598,Asbury Methodist Village Residential Living,IL,Goldberg,Joan,77572,Late Fee,9/3/2025,Finance Charge,-1,,-47.64,0,-47.64,9/1/2025,641
+2137994,Asbury Methodist Village Residential Living,IL,Graham,Mary Rose,628669,Late Fee,8/3/2025,Finance Charge,1,,42.09,0,42.09,7/31/2025,642
+2389011,Asbury Methodist Village Residential Living,IL,Graham,Mary Rose,628669,Late Fee,8/3/2025,Finance Charge,-1,,-42.09,0,-42.09,9/24/2025,642
+2278180,Asbury Methodist Village Residential Living,IL,Graham,Mary Rose,628669,Late Fee,9/3/2025,Finance Charge,1,,0.63,0,0.63,8/31/2025,643
+2372594,Asbury Methodist Village Residential Living,IL,Graham,Mary Rose,628669,Late Fee,9/3/2025,Finance Charge,-1,,-0.63,0,-0.63,9/1/2025,643
+1479081,Asbury Methodist Village Residential Living,IL,Hafner,Sara,444489,Late Fee,3/3/2025,Finance Charge,1,,10.94,0,10.94,2/28/2025,
+1822749,Asbury Methodist Village Residential Living,IL,Hafner,Sara,444489,Late Fee,5/3/2025,Finance Charge,1,,16.81,0,16.81,4/30/2025,
+1479082,Asbury Methodist Village Residential Living,IL,Hafner,William,444520,Late Fee,3/3/2025,Finance Charge,1,,56.79,0,56.79,2/28/2025,
+1478996,Asbury Methodist Village Residential Living,IL,Harbison,Barbara,81570,Late Fee,3/3/2025,Finance Charge,1,,62.7,0,62.7,2/28/2025,647
+1579425,Asbury Methodist Village Residential Living,IL,Harbison,Barbara,81570,Late Fee,3/3/2025,Finance Charge,-1,,-62.7,0,-62.7,3/11/2025,647
+2278167,Asbury Methodist Village Residential Living,IL,Harris,Delmer,81959,Late Fee,9/3/2025,Finance Charge,1,,57.15,0,57.15,8/31/2025,648
+2372590,Asbury Methodist Village Residential Living,IL,Harris,Delmer,81959,Late Fee,9/3/2025,Finance Charge,-1,,-57.15,0,-57.15,9/1/2025,648
+1338619,Asbury Methodist Village Residential Living,IL,Hauber,John,81928,Late Fee,2/3/2025,Finance Charge,1,,47.47,0,47.47,1/31/2025,649
+1454809,Asbury Methodist Village Residential Living,IL,Hauber,John,81928,Late Fee,2/3/2025,Finance Charge,-1,,-47.47,0,-47.47,2/14/2025,649
+1655273,Asbury Methodist Village Residential Living,IL,Hawkins,Phelps,296382,Late Fee,4/3/2025,Finance Charge,1,,46.21,0,46.21,3/31/2025,
+1822747,Asbury Methodist Village Residential Living,IL,Hawkins,Phelps,296382,Late Fee,5/3/2025,Finance Charge,1,,58.39,0,58.39,4/30/2025,
+2278171,Asbury Methodist Village Residential Living,IL,Hensinger,Mary Ann,81977,Late Fee,9/3/2025,Finance Charge,1,,31.63,0,31.63,8/31/2025,652
+2372592,Asbury Methodist Village Residential Living,IL,Hensinger,Mary Ann,81977,Late Fee,9/3/2025,Finance Charge,-1,,-31.63,0,-31.63,9/1/2025,652
+2137967,Asbury Methodist Village Residential Living,IL,Hirata,Kathleen,81653,Late Fee,8/3/2025,Finance Charge,1,,68.09,0,68.09,7/31/2025,
+2278094,Asbury Methodist Village Residential Living,IL,Hudson,Frances,77480,Late Fee,9/3/2025,Finance Charge,1,,63.23,0,63.23,8/31/2025,654
+2372597,Asbury Methodist Village Residential Living,IL,Hudson,Frances,77480,Late Fee,9/3/2025,Finance Charge,-1,,-63.23,0,-63.23,9/1/2025,654
+1479049,Asbury Methodist Village Residential Living,IL,Jacobs,Lynn,81938,Late Fee,3/3/2025,Finance Charge,1,,4.18,0,4.18,2/28/2025,655
+1580837,Asbury Methodist Village Residential Living,IL,Jacobs,Lynn,81938,Late Fee,3/3/2025,Finance Charge,-1,,-4.18,0,-4.18,3/12/2025,655
+2063721,Asbury Methodist Village Residential Living,IL,Johnson,Agnes,77535,Late Fee,7/3/2025,Finance Charge,1,,46.71,0,46.71,6/30/2025,
+2479329,Asbury Methodist Village Residential Living,IL,Johnson,Agnes,77535,Late Fee,10/3/2025,Finance Charge,1,,46.69,0,46.69,9/30/2025,
+1338640,Asbury Methodist Village Residential Living,IL,Kann,Frieda,81994,Late Fee,2/3/2025,Finance Charge,1,,50.63,0,50.63,1/31/2025,658
+1454810,Asbury Methodist Village Residential Living,IL,Kann,Frieda,81994,Late Fee,2/3/2025,Finance Charge,-1,,-50.63,0,-50.63,2/14/2025,658
+1338620,Asbury Methodist Village Residential Living,IL,Keselenko,Marian,81929,Late Fee,2/3/2025,Finance Charge,1,,64.22,0,64.22,1/31/2025,659
+1577336,Asbury Methodist Village Residential Living,IL,Keselenko,Marian,81929,Late Fee,2/3/2025,Finance Charge,-1,,-64.22,0,-64.22,3/10/2025,659
+1822739,Asbury Methodist Village Residential Living,IL,Kinoshita,Sumie,81916,Late Fee,5/3/2025,Finance Charge,1,,47.93,0,47.93,4/30/2025,
+1901032,Asbury Methodist Village Residential Living,IL,Kinoshita,Sumie,81916,Late Fee,6/3/2025,Finance Charge,1,,67.39,0,67.39,5/31/2025,
+1900967,Asbury Methodist Village Residential Living,IL,Klimp,Jack,77673,Late Fee,6/3/2025,Finance Charge,1,,65.6,0,65.6,5/31/2025,
+2137945,Asbury Methodist Village Residential Living,IL,Kuehnle,Doris,77902,Late Fee,8/3/2025,Finance Charge,1,,69.97,0,69.97,7/31/2025,
+1479012,Asbury Methodist Village Residential Living,IL,Lauber,Amy,81637,Late Fee,3/3/2025,Finance Charge,1,,27.67,0,27.67,2/28/2025,
+1655233,Asbury Methodist Village Residential Living,IL,Lauber,Amy,81637,Late Fee,4/3/2025,Finance Charge,1,,19.14,0,19.14,3/31/2025,
+1338546,Asbury Methodist Village Residential Living,IL,Lostumbo,Francis,78019,Late Fee,2/3/2025,Finance Charge,1,,53.63,0,53.63,1/31/2025,
+1338547,Asbury Methodist Village Residential Living,IL,Lostumbo,Mary Liz,78036,Late Fee,2/3/2025,Finance Charge,1,,2.83,0,2.83,1/31/2025,
+1338578,Asbury Methodist Village Residential Living,IL,Lyon,Arlene,81610,Late Fee,2/3/2025,Finance Charge,1,,66.19,0,66.19,1/31/2025,
+2278136,Asbury Methodist Village Residential Living,IL,Manger-Tilney,Rosemarie,81597,Late Fee,9/3/2025,Finance Charge,1,,0.52,0,0.52,8/31/2025,669
+2372487,Asbury Methodist Village Residential Living,IL,Manger-Tilney,Rosemarie,81597,Late Fee,9/3/2025,Finance Charge,-1,,-0.52,0,-0.52,9/1/2025,669
+1900988,Asbury Methodist Village Residential Living,IL,Margolis,M Elliot,78053,Late Fee,6/3/2025,Finance Charge,1,,44.57,0,44.57,5/31/2025,
+2278182,Asbury Methodist Village Residential Living,IL,Matterson,Charles,649492,Late Fee,9/3/2025,Finance Charge,1,,1.02,0,1.02,8/31/2025,671
+2372595,Asbury Methodist Village Residential Living,IL,Matterson,Charles,649492,Late Fee,9/3/2025,Finance Charge,-1,,-1.02,0,-1.02,9/1/2025,671
+1338658,Asbury Methodist Village Residential Living,IL,May,Ellen,301444,Late Fee,2/3/2025,Finance Charge,1,,54.11,0,54.11,1/31/2025,672
+1478022,Asbury Methodist Village Residential Living,IL,May,Ellen,301444,Late Fee,2/3/2025,Finance Charge,-1,,-54.11,0,-54.11,2/28/2025,672
+1338515,Asbury Methodist Village Residential Living,IL,McCue,Carol,77675,Late Fee,2/3/2025,Finance Charge,1,,97.74,0,97.74,1/31/2025,
+1655207,Asbury Methodist Village Residential Living,IL,McCue,Carol,77675,Late Fee,4/3/2025,Finance Charge,1,,49.26,0,49.26,3/31/2025,
+1822680,Asbury Methodist Village Residential Living,IL,McCue,Carol,77675,Late Fee,5/3/2025,Finance Charge,1,,100.24,0,100.24,4/30/2025,
+2063729,Asbury Methodist Village Residential Living,IL,McCue,Carol,77675,Late Fee,7/3/2025,Finance Charge,1,,50.88,0,50.88,6/30/2025,
+2137942,Asbury Methodist Village Residential Living,IL,McCue,Carol,77675,Late Fee,8/3/2025,Finance Charge,1,,101.07,0,101.07,7/31/2025,
+2479341,Asbury Methodist Village Residential Living,IL,McCue,Carol,77675,Late Fee,10/3/2025,Finance Charge,1,,51.1,0,51.1,9/30/2025,
+2278100,Asbury Methodist Village Residential Living,IL,McKee,Richard,77619,Late Fee,9/3/2025,Finance Charge,1,,1.02,0,1.02,8/31/2025,679
+2372483,Asbury Methodist Village Residential Living,IL,McKee,Richard,77619,Late Fee,9/3/2025,Finance Charge,-1,,-1.02,0,-1.02,9/1/2025,679
+2479350,Asbury Methodist Village Residential Living,IL,Nardo,Victor,80320,Late Fee,10/3/2025,Finance Charge,1,,47.36,0,47.36,9/30/2025,
+1320608,Asbury Methodist Village Residential Living,IL,Norris,Karen,95831,Late Fee,10/3/2024,Finance Charge,-1,,-92.19,0,-92.19,1/16/2025,
+1320617,Asbury Methodist Village Residential Living,IL,Norris,Karen,95831,Late Fee,11/3/2024,Finance Charge,-1,,-55.77,0,-55.77,1/16/2025,
+1822731,Asbury Methodist Village Residential Living,IL,O'Reilly,Natalie,81780,Late Fee,5/3/2025,Finance Charge,1,,74.68,0,74.68,4/30/2025,683
+1880778,Asbury Methodist Village Residential Living,IL,O'Reilly,Natalie,81780,Late Fee,5/3/2025,Finance Charge,-1,,-74.68,0,-74.68,5/27/2025,683
+2479355,Asbury Methodist Village Residential Living,IL,O'Reilly,Natalie,81780,Late Fee,10/3/2025,Finance Charge,1,,72.71,0,72.71,9/30/2025,
+1822668,Asbury Methodist Village Residential Living,IL,Patrinos,Aristides,77580,Late Fee,5/3/2025,Finance Charge,1,,1.58,0,1.58,4/30/2025,
+1900964,Asbury Methodist Village Residential Living,IL,Patrinos,Aristides,77580,Late Fee,6/3/2025,Finance Charge,1,,0.55,0,0.55,5/31/2025,
+1338552,Asbury Methodist Village Residential Living,IL,Patterson,Ophelia,78223,Late Fee,2/3/2025,Finance Charge,1,,78.02,0,78.02,1/31/2025,
+1478990,Asbury Methodist Village Residential Living,IL,Patterson,Ophelia,78223,Late Fee,3/3/2025,Finance Charge,1,,156.77,0,156.77,2/28/2025,
+1478950,Asbury Methodist Village Residential Living,IL,Price,Constance,77505,Late Fee,3/3/2025,Finance Charge,1,,122.76,0,122.76,2/28/2025,689
+1591287,Asbury Methodist Village Residential Living,IL,Price,Constance,77505,Late Fee,3/3/2025,Finance Charge,-1,,-122.76,0,-122.76,3/21/2025,689
+1338551,Asbury Methodist Village Residential Living,IL,Pruitt,Paul,78213,Late Fee,2/3/2025,Finance Charge,1,,23.38,0,23.38,1/31/2025,
+1478989,Asbury Methodist Village Residential Living,IL,Pruitt,Paul,78213,Late Fee,3/3/2025,Finance Charge,1,,42.43,0,42.43,2/28/2025,
+1822712,Asbury Methodist Village Residential Living,IL,Pruitt,Paul,78213,Late Fee,5/3/2025,Finance Charge,1,,18.7,0,18.7,4/30/2025,
+1900992,Asbury Methodist Village Residential Living,IL,Pruitt,Paul,78213,Late Fee,6/3/2025,Finance Charge,1,,11.7,0,11.7,5/31/2025,
+2137949,Asbury Methodist Village Residential Living,IL,Pruitt,Paul,78213,Late Fee,8/3/2025,Finance Charge,1,,19.77,0,19.77,7/31/2025,
+2278121,Asbury Methodist Village Residential Living,IL,Pruitt,Paul,78213,Late Fee,9/3/2025,Finance Charge,1,,37.91,0,37.91,8/31/2025,
+2137983,Asbury Methodist Village Residential Living,IL,Shea,Janet,81885,Late Fee,8/3/2025,Finance Charge,1,,14.56,0,14.56,7/31/2025,
+2137985,Asbury Methodist Village Residential Living,IL,Shea,Michael,81896,Late Fee,8/3/2025,Finance Charge,1,,77.99,0,77.99,7/31/2025,
+2479364,Asbury Methodist Village Residential Living,IL,Veazey,Lena Rose,81869,Late Fee,10/3/2025,Finance Charge,1,,47.47,0,47.47,9/30/2025,
+1338330,Asbury Methodist Village Residential Living,IL,West,Joseph,77523,Late Fee,2/3/2025,Finance Charge,1,,284.75,0,284.75,1/31/2025,
+1478952,Asbury Methodist Village Residential Living,IL,West,Joseph,77523,Late Fee,3/3/2025,Finance Charge,1,,287.26,0,287.26,2/28/2025,
+1655013,Asbury Methodist Village Residential Living,IL,West,Joseph,77523,Late Fee,4/3/2025,Finance Charge,1,,364.82,0,364.82,3/31/2025,
+1822666,Asbury Methodist Village Residential Living,IL,West,Joseph,77523,Late Fee,5/3/2025,Finance Charge,1,,238.53,0,238.53,4/30/2025,
+1900921,Asbury Methodist Village Residential Living,IL,West,Joseph,77523,Late Fee,6/3/2025,Finance Charge,1,,240.36,0,240.36,5/31/2025,
+2063716,Asbury Methodist Village Residential Living,IL,West,Joseph,77523,Late Fee,7/3/2025,Finance Charge,1,,242.21,0,242.21,6/30/2025,
+2137847,Asbury Methodist Village Residential Living,IL,West,Joseph,77523,Late Fee,8/3/2025,Finance Charge,1,,319.09,0,319.09,7/31/2025,
+1478951,Asbury Methodist Village Residential Living,IL,West,Shirley,77515,Late Fee,3/3/2025,Finance Charge,1,,0.05,0,0.05,2/28/2025,
+1655012,Asbury Methodist Village Residential Living,IL,West,Shirley,77515,Late Fee,4/3/2025,Finance Charge,1,,0.46,0,0.46,3/31/2025,
+1822665,Asbury Methodist Village Residential Living,IL,West,Shirley,77515,Late Fee,5/3/2025,Finance Charge,1,,0.47,0,0.47,4/30/2025,
+1900920,Asbury Methodist Village Residential Living,IL,West,Shirley,77515,Late Fee,6/3/2025,Finance Charge,1,,0.48,0,0.48,5/31/2025,
+2063711,Asbury Methodist Village Residential Living,IL,West,Shirley,77515,Late Fee,7/3/2025,Finance Charge,1,,0.48,0,0.48,6/30/2025,
+2137846,Asbury Methodist Village Residential Living,IL,West,Shirley,77515,Late Fee,8/3/2025,Finance Charge,1,,0.91,0,0.91,7/31/2025,
+2137950,Asbury Methodist Village Residential Living,IL,Wrathall,Jean,78217,Late Fee,8/3/2025,Finance Charge,1,,72.15,0,72.15,7/31/2025,712
+2242233,Asbury Methodist Village Residential Living,IL,Wrathall,Jean,78217,Late Fee,8/3/2025,Finance Charge,-1,,-72.15,0,-72.15,8/15/2025,712
+2278075,Asbury Solomons Assisted Living,AL,Milor,Barbara,63472,Late Fee,9/3/2025,Finance Charge,1,,279.21,0,279.21,8/31/2025,
+2137845,Asbury Solomons Assisted Living,AL,Randall,Judith,507713,Late Fee,8/3/2025,Finance Charge,1,,155.76,0,155.76,7/31/2025,
+2479286,Asbury Solomons Assisted Living,AL,Randall,Judith,507713,Late Fee,10/3/2025,Finance Charge,1,,142.37,0,142.37,9/30/2025,
+1900916,Asbury Solomons Assisted Living,AL,Roy,Anna,986,Late Fee,6/3/2025,Finance Charge,1,,463.53,0,463.53,5/31/2025,
+2063702,Asbury Solomons Assisted Living,AL,Roy,Anna,986,Late Fee,7/3/2025,Finance Charge,1,,313.9,0,313.9,6/30/2025,
+2137843,Asbury Solomons Assisted Living,AL,Roy,Anna,986,Late Fee,8/3/2025,Finance Charge,1,,474.17,0,474.17,7/31/2025,
+2278071,Asbury Solomons Assisted Living,AL,Roy,Anna,986,Late Fee,9/3/2025,Finance Charge,1,,637.49,0,637.49,8/31/2025,
+2479277,Asbury Solomons Assisted Living,AL,Roy,Anna,986,Late Fee,10/3/2025,Finance Charge,1,,797.69,0,797.69,9/30/2025,
+2137856,Asbury Solomons Healthcare Center,SNF,America,Joseph,576508,Late Fee,8/3/2025,Finance Charge,1,,30.17,0,30.17,7/31/2025,
+2479219,Asbury Solomons Healthcare Center,SNF,America,Joseph,576508,Late Fee,10/3/2025,Finance Charge,1,,15.45,0,15.45,9/30/2025,
+2137859,Asbury Solomons Healthcare Center,SNF,Barnes,Wilson,585453,Late Fee,8/3/2025,Finance Charge,1,,94.28,0,94.28,7/31/2025,
+2137863,Asbury Solomons Healthcare Center,SNF,Belford,Susan,618560,Late Fee,8/3/2025,Finance Charge,1,,1.26,0,1.26,7/31/2025,
+2479217,Asbury Solomons Healthcare Center,SNF,Conley,Jeanne,550414,Late Fee,10/3/2025,Finance Charge,1,,22,0,22,9/30/2025,
+2137832,Asbury Solomons Healthcare Center,SNF,Elwell,Mary Ellen,143,Late Fee,8/3/2025,Finance Charge,1,,29.57,0,29.57,7/31/2025,
+2137853,Asbury Solomons Healthcare Center,SNF,Flesner,Lois,325642,Late Fee,8/3/2025,Finance Charge,1,,0.2,0,0.2,7/31/2025,
+2063587,Asbury Solomons Healthcare Center,SNF,Hawkins,Herman,381257,Late Fee,7/3/2025,Finance Charge,1,,3.14,0,3.14,6/30/2025,
+2278022,Asbury Solomons Healthcare Center,SNF,Hawkins,Herman,381257,Late Fee,9/3/2025,Finance Charge,1,,3.19,0,3.19,8/31/2025,
+1478971,Asbury Solomons Healthcare Center,SNF,Hayward,Martha,256,Late Fee,3/3/2025,Finance Charge,1,,234.51,0,234.51,2/28/2025,
+1655021,Asbury Solomons Healthcare Center,SNF,Hayward,Martha,256,Late Fee,4/3/2025,Finance Charge,1,,260.53,0,260.53,3/31/2025,
+1822623,Asbury Solomons Healthcare Center,SNF,Hayward,Martha,256,Late Fee,5/3/2025,Finance Charge,1,,490.04,0,490.04,4/30/2025,
+2137837,Asbury Solomons Healthcare Center,SNF,Hayward,Martha,256,Late Fee,8/3/2025,Finance Charge,1,,120.12,0,120.12,7/31/2025,
+2278019,Asbury Solomons Healthcare Center,SNF,Hayward,Martha,256,Late Fee,9/3/2025,Finance Charge,1,,380.01,0,380.01,8/31/2025,
+2479210,Asbury Solomons Healthcare Center,SNF,Hayward,Martha,256,Late Fee,10/3/2025,Finance Charge,1,,260.23,0,260.23,9/30/2025,
+2137865,Asbury Solomons Healthcare Center,SNF,Krell,Bonnie,668970,Late Fee,8/3/2025,Finance Charge,1,,14.72,0,14.72,7/31/2025,
+2278023,Asbury Solomons Healthcare Center,SNF,Krell,Bonnie,668970,Late Fee,9/3/2025,Finance Charge,1,,14.96,0,14.96,8/31/2025,
+2479221,Asbury Solomons Healthcare Center,SNF,Krell,Bonnie,668970,Late Fee,10/3/2025,Finance Charge,1,,15.19,0,15.19,9/30/2025,
+2137851,Asbury Solomons Healthcare Center,SNF,Lemkau,Philip,57331,Late Fee,8/3/2025,Finance Charge,1,,281.43,0,281.43,7/31/2025,739
+2240362,Asbury Solomons Healthcare Center,SNF,Lemkau,Philip,57331,Late Fee,8/3/2025,Finance Charge,-1,,-281.43,0,-281.43,8/13/2025,739
+2137861,Asbury Solomons Healthcare Center,SNF,Leonard,Michael,603350,Late Fee,8/3/2025,Finance Charge,1,,0.35,0,0.35,7/31/2025,740
+2248302,Asbury Solomons Healthcare Center,SNF,Leonard,Michael,603350,Late Fee,8/3/2025,Finance Charge,-1,,-0.35,0,-0.35,8/20/2025,740
+2277871,Asbury Solomons Healthcare Center,SNF,Moore,June,59,Late Fee,9/3/2025,Finance Charge,1,,481.45,0,481.45,8/31/2025,
+1338342,Asbury Solomons Healthcare Center,SNF,Perks,Paul,69,Late Fee,2/3/2025,Finance Charge,1,,244.51,0,244.51,1/31/2025,
+2278026,Asbury Solomons Healthcare Center,SNF,Proctor,Earcel,754793,Late Fee,9/3/2025,Finance Charge,1,,8.01,0,8.01,8/31/2025,
+2479228,Asbury Solomons Healthcare Center,SNF,Redmond,Lynne,829193,Late Fee,10/3/2025,Finance Charge,1,,69.14,0,69.14,9/30/2025,
+2479226,Asbury Solomons Healthcare Center,SNF,Spencer,Hanna,822785,Late Fee,10/3/2025,Finance Charge,1,,1.5,0,1.5,9/30/2025,
+2137867,Asbury Solomons Healthcare Center,SNF,Wagner,John,733697,Late Fee,8/3/2025,Finance Charge,1,,0.59,0,0.59,7/31/2025,746
+2479569,Asbury Solomons Healthcare Center,SNF,Wagner,John,733697,Late Fee,8/3/2025,Finance Charge,-1,,-0.59,0,-0.59,9/30/2025,746
+2479008,Asbury Solomons Healthcare Center,SNF,Webb,Mary,206,Late Fee,10/3/2025,Finance Charge,1,,0.33,0,0.33,9/30/2025,
+2278284,Asbury Solomons Residential Living,IL,Adams,Paul,1000,Late Fee,9/3/2025,Finance Charge,1,,5.84,0,5.84,8/31/2025,
+2278285,Asbury Solomons Residential Living,IL,Ashleman,Eddie,1024,Late Fee,9/3/2025,Finance Charge,1,,7.68,0,7.68,8/31/2025,
+2278288,Asbury Solomons Residential Living,IL,Aurand,Don,1177,Late Fee,9/3/2025,Finance Charge,1,,0.68,0,0.68,8/31/2025,
+2278287,Asbury Solomons Residential Living,IL,Boyce,Inge,1138,Late Fee,9/3/2025,Finance Charge,1,,49.77,0,49.77,8/31/2025,751
+2374514,Asbury Solomons Residential Living,IL,Boyce,Inge,1138,Late Fee,9/3/2025,Finance Charge,-1,,-49.77,0,-49.77,9/10/2025,751
+2479475,Asbury Solomons Residential Living,IL,Buck,Betty Lou,631,Late Fee,10/3/2025,Finance Charge,1,,7.88,0,7.88,9/30/2025,
+1822910,Asbury Solomons Residential Living,IL,Cook,Carol,652,Late Fee,5/3/2025,Finance Charge,1,,17.68,0,17.68,4/30/2025,
+1822909,Asbury Solomons Residential Living,IL,Cook,Robert,651,Late Fee,5/3/2025,Finance Charge,1,,51.17,0,51.17,4/30/2025,
+2479477,Asbury Solomons Residential Living,IL,Cooney Jr.,Matthew,1041,Late Fee,10/3/2025,Finance Charge,1,,49.52,0,49.52,9/30/2025,
+2138111,Asbury Solomons Residential Living,IL,Davis,Dana,588,Late Fee,8/3/2025,Finance Charge,1,,1.5,0,1.5,7/31/2025,
+2278283,Asbury Solomons Residential Living,IL,Davis,Dana,588,Late Fee,9/3/2025,Finance Charge,1,,0.86,0,0.86,8/31/2025,757
+2380750,Asbury Solomons Residential Living,IL,Davis,Dana,588,Late Fee,9/3/2025,Finance Charge,-1,,-0.86,0,-0.86,9/15/2025,757
+2138110,Asbury Solomons Residential Living,IL,Dent,Mary,587,Late Fee,8/3/2025,Finance Charge,1,,45.62,0,45.62,7/31/2025,
+1655464,Asbury Solomons Residential Living,IL,Dias,Michael,227395,Late Fee,4/3/2025,Finance Charge,1,,10.87,0,10.87,3/31/2025,
+2278291,Asbury Solomons Residential Living,IL,Dias,Michael,227395,Late Fee,9/3/2025,Finance Charge,1,,12.57,0,12.57,8/31/2025,760
+2385593,Asbury Solomons Residential Living,IL,Dias,Michael,227395,Late Fee,9/3/2025,Finance Charge,-1,,-12.57,0,-12.57,9/18/2025,760
+2138115,Asbury Solomons Residential Living,IL,Egeli,Peter,620882,Late Fee,8/3/2025,Finance Charge,1,,92.16,0,92.16,7/31/2025,
+2278294,Asbury Solomons Residential Living,IL,Flesner,Lois,483235,Late Fee,9/3/2025,Finance Charge,1,,0.2,0,0.2,8/31/2025,
+2278296,Asbury Solomons Residential Living,IL,Fletcher,Mary,802847,Late Fee,9/3/2025,Finance Charge,1,,7.91,0,7.91,8/31/2025,
+2278295,Asbury Solomons Residential Living,IL,Fletcher,Paul,800851,Late Fee,9/3/2025,Finance Charge,1,,39.75,0,39.75,8/31/2025,
+1338774,Asbury Solomons Residential Living,IL,Goldenberg,Stephen,227691,Late Fee,2/3/2025,Finance Charge,1,,216.47,0,216.47,1/31/2025,
+1655465,Asbury Solomons Residential Living,IL,Goldenberg,Stephen,227691,Late Fee,4/3/2025,Finance Charge,1,,72.66,0,72.66,3/31/2025,
+2278292,Asbury Solomons Residential Living,IL,Goldenberg,Stephen,227691,Late Fee,9/3/2025,Finance Charge,1,,74.49,0,74.49,8/31/2025,767
+2385594,Asbury Solomons Residential Living,IL,Goldenberg,Stephen,227691,Late Fee,9/3/2025,Finance Charge,-1,,-74.49,0,-74.49,9/18/2025,767
+2278281,Asbury Solomons Residential Living,IL,Gordon,Carol,297,Late Fee,9/3/2025,Finance Charge,1,,28.9,0,28.9,8/31/2025,
+2138109,Asbury Solomons Residential Living,IL,May,Sharon,423,Late Fee,8/3/2025,Finance Charge,1,,47.55,0,47.55,7/31/2025,
+2278282,Asbury Solomons Residential Living,IL,May,Sharon,423,Late Fee,9/3/2025,Finance Charge,1,,96.38,0,96.38,8/31/2025,
+2278286,Asbury Solomons Residential Living,IL,Poole,Mildred,1111,Late Fee,9/3/2025,Finance Charge,1,,46.38,0,46.38,8/31/2025,
+2479478,Asbury Solomons Residential Living,IL,Poole,Mildred,1111,Late Fee,10/3/2025,Finance Charge,1,,93.77,0,93.77,9/30/2025,
+2278290,Asbury Solomons Residential Living,IL,Porter,Ruth,40504,Late Fee,9/3/2025,Finance Charge,1,,18.08,0,18.08,8/31/2025,
+2138117,Asbury Solomons Residential Living,IL,Redshaw,Mary,752966,Late Fee,8/3/2025,Finance Charge,1,,4.28,0,4.28,7/31/2025,
+2138116,Asbury Solomons Residential Living,IL,Redshaw,Michael,752963,Late Fee,8/3/2025,Finance Charge,1,,19.71,0,19.71,7/31/2025,
+1338756,Asbury Solomons Residential Living,IL,Revis,Roy,411,Late Fee,2/3/2025,Finance Charge,1,,46.33,0,46.33,1/31/2025,
+1338755,Asbury Solomons Residential Living,IL,Revis,Sharon,393,Late Fee,2/3/2025,Finance Charge,1,,10.22,0,10.22,1/31/2025,
+2278293,Asbury Solomons Residential Living,IL,Slaughter,Charles,384658,Late Fee,9/3/2025,Finance Charge,1,,36.41,0,36.41,8/31/2025,
+1338754,Asbury Solomons Residential Living,IL,Stanton,Kathleen,386,Late Fee,2/3/2025,Finance Charge,1,,59.72,0,59.72,1/31/2025,
+1479276,Asbury Solomons Residential Living,IL,Stanton,Kathleen,386,Late Fee,3/3/2025,Finance Charge,1,,122.08,0,122.08,2/28/2025,
+1655458,Asbury Solomons Residential Living,IL,Stanton,Kathleen,386,Late Fee,4/3/2025,Finance Charge,1,,64,0,64,3/31/2025,
+1822907,Asbury Solomons Residential Living,IL,Stanton,Kathleen,386,Late Fee,5/3/2025,Finance Charge,1,,64.06,0,64.06,4/30/2025,
+2278289,Asbury Solomons Residential Living,IL,Vecchione,Susan,1203,Late Fee,9/3/2025,Finance Charge,1,,8.53,0,8.53,8/31/2025,783
+2385843,Asbury Solomons Residential Living,IL,Vecchione,Susan,1203,Late Fee,9/3/2025,Finance Charge,-1,,-8.53,0,-8.53,9/18/2025,783
+2137925,Chandler Estate Assisted Living,AL,Caracappa,Joseph,79434,Late Fee,8/3/2025,Finance Charge,1,,124.59,0,124.59,7/31/2025,784
+2220100,Chandler Estate Assisted Living,AL,Caracappa,Joseph,79434,Late Fee,8/3/2025,Finance Charge,-1,,-124.59,0,-124.59,7/31/2025,784
+2137935,Chandler Estate Assisted Living,AL,Davis,Kimberly,646839,Late Fee,8/3/2025,Finance Charge,1,,76.73,0,76.73,7/31/2025,785
+2220101,Chandler Estate Assisted Living,AL,Davis,Kimberly,646839,Late Fee,8/3/2025,Finance Charge,-1,,-76.73,0,-76.73,7/31/2025,785
+2479295,Chandler Estate Assisted Living,AL,Einfalt,Richard,279178,Late Fee,10/3/2025,Finance Charge,1,,61.2,0,61.2,9/30/2025,
+2479289,Chandler Estate Assisted Living,AL,Gerenser,Kathleen,79441,Late Fee,10/3/2025,Finance Charge,1,,65.52,0,65.52,9/30/2025,
+2278083,Chandler Estate Assisted Living,AL,Lane,Jean,79452,Late Fee,9/3/2025,Finance Charge,1,,63.24,0,63.24,8/31/2025,
+2479293,Chandler Estate Assisted Living,AL,Lane,Jean,79452,Late Fee,10/3/2025,Finance Charge,1,,0.95,0,0.95,9/30/2025,
+2137929,Chandler Estate Assisted Living,AL,Miller,Helen,121391,Late Fee,8/3/2025,Finance Charge,1,,63.24,0,63.24,7/31/2025,
+2278086,Chandler Estate Assisted Living,AL,Miller,Helen,121391,Late Fee,9/3/2025,Finance Charge,1,,41.46,0,41.46,8/31/2025,
+2278085,Chandler Estate Assisted Living,AL,Newton,Kay,79491,Late Fee,9/3/2025,Finance Charge,1,,63.24,0,63.24,8/31/2025,
+2479297,Chandler Estate Assisted Living,AL,Popovice,Amelia,335815,Late Fee,10/3/2025,Finance Charge,1,,0.74,0,0.74,9/30/2025,
+2138007,Chandler Estate Residential Living,IL,Conde,Patricia,284524,Late Fee,8/3/2025,Finance Charge,1,,29.48,0,29.48,7/31/2025,
+2138004,Chandler Estate Residential Living,IL,Wasser,Karen,79499,Late Fee,8/3/2025,Finance Charge,1,,8.64,0,8.64,7/31/2025,
+2278190,Chandler Estate Residential Living,IL,Wasser,Karen,79499,Late Fee,9/3/2025,Finance Charge,1,,32.28,0,32.28,8/31/2025,
+2278195,Chandler Estate Residential Living,IL,Wolderich,Oddny,638288,Late Fee,9/3/2025,Finance Charge,1,,4.55,0,4.55,8/31/2025,
+1822649,Normandie Ridge Assisted Living,AL,Collins,William,469878,Late Fee,5/3/2025,Finance Charge,1,,157.91,0,157.91,4/30/2025,
+1338510,Normandie Ridge Assisted Living,AL,Miller,Mary,20592,Late Fee,2/3/2025,Finance Charge,1,,28.82,0,28.82,1/31/2025,
+1655186,Normandie Ridge Assisted Living,AL,Miller,Mary,20592,Late Fee,4/3/2025,Finance Charge,1,,17.56,0,17.56,3/31/2025,
+1901176,Normandie Ridge Healthcare Center,SNF,Albright,Kim,572391,Late Fee,6/3/2025,Finance Charge,1,,0.73,0,0.73,5/31/2025,
+2063753,Normandie Ridge Healthcare Center,SNF,Albright,Kim,572391,Late Fee,7/3/2025,Finance Charge,1,,2.69,0,2.69,6/30/2025,802
+2250237,Normandie Ridge Healthcare Center,SNF,Albright,Kim,572391,Late Fee,7/3/2025,Finance Charge,-1,,-2.69,0,-2.69,8/22/2025,802
+1901178,Normandie Ridge Healthcare Center,SNF,Angelos,Mitchell,580561,Late Fee,6/3/2025,Finance Charge,1,,0.29,0,0.29,5/31/2025,
+1479240,Normandie Ridge Healthcare Center,SNF,Barkby,Helen,439546,Late Fee,3/3/2025,Finance Charge,1,,0.22,0,0.22,2/28/2025,
+2063760,Normandie Ridge Healthcare Center,SNF,Becker,William,634868,Late Fee,7/3/2025,Finance Charge,1,,0.58,0,0.58,6/30/2025,
+2278231,Normandie Ridge Healthcare Center,SNF,Becker,William,634868,Late Fee,9/3/2025,Finance Charge,1,,0.59,0,0.59,8/31/2025,806
+2381664,Normandie Ridge Healthcare Center,SNF,Becker,William,634868,Late Fee,9/3/2025,Finance Charge,-1,,-0.59,0,-0.59,9/16/2025,806
+1427689,Normandie Ridge Healthcare Center,SNF,Brinson,Terry,283768,Late Fee,1/3/2025,Finance Charge,-1,,-120.24,0,-120.24,1/31/2025,
+1655414,Normandie Ridge Healthcare Center,SNF,Brinson,Terry,283768,Late Fee,4/3/2025,Finance Charge,1,,141.42,0,141.42,3/31/2025,
+1901166,Normandie Ridge Healthcare Center,SNF,Brinson,Terry,283768,Late Fee,6/3/2025,Finance Charge,1,,143.54,0,143.54,5/31/2025,
+1655416,Normandie Ridge Healthcare Center,SNF,Brodus,Larue,305617,Late Fee,4/3/2025,Finance Charge,1,,6.56,0,6.56,3/31/2025,
+1479231,Normandie Ridge Healthcare Center,SNF,Brown,Eric,294804,Late Fee,3/3/2025,Finance Charge,1,,12.42,0,12.42,2/28/2025,
+1822857,Normandie Ridge Healthcare Center,SNF,Brown,Eric,294804,Late Fee,5/3/2025,Finance Charge,1,,12.61,0,12.61,4/30/2025,
+2278249,Normandie Ridge Healthcare Center,SNF,Bubczyk,Elizabetha,774343,Late Fee,9/3/2025,Finance Charge,1,,0.2,0,0.2,8/31/2025,
+1585824,Normandie Ridge Healthcare Center,SNF,Calhoun,Yvonne,21293,Late Fee,1/3/2025,Finance Charge,-1,,-0.38,0,-0.38,3/18/2025,
+1479234,Normandie Ridge Healthcare Center,SNF,Cedrone,Norma,358094,Late Fee,3/3/2025,Finance Charge,1,,0.58,0,0.58,2/28/2025,
+1822859,Normandie Ridge Healthcare Center,SNF,Cedrone,Norma,358094,Late Fee,5/3/2025,Finance Charge,1,,0.59,0,0.59,4/30/2025,
+1822869,Normandie Ridge Healthcare Center,SNF,Chandler,Carlton,536289,Late Fee,5/3/2025,Finance Charge,1,,0.97,0,0.97,4/30/2025,
+1479225,Normandie Ridge Healthcare Center,SNF,Collier,Alice,40512,Late Fee,3/3/2025,Finance Charge,1,,42,0,42,2/28/2025,
+1822852,Normandie Ridge Healthcare Center,SNF,Collier,Alice,40512,Late Fee,5/3/2025,Finance Charge,1,,42.63,0,42.63,4/30/2025,
+1901161,Normandie Ridge Healthcare Center,SNF,Collier,Alice,40512,Late Fee,6/3/2025,Finance Charge,1,,43.27,0,43.27,5/31/2025,
+2063720,Normandie Ridge Healthcare Center,SNF,Collier,Alice,40512,Late Fee,7/3/2025,Finance Charge,1,,43.92,0,43.92,6/30/2025,
+2138038,Normandie Ridge Healthcare Center,SNF,Collier,Alice,40512,Late Fee,8/3/2025,Finance Charge,1,,44.58,0,44.58,7/31/2025,
+1822855,Normandie Ridge Healthcare Center,SNF,Connelly,Betty,225363,Late Fee,5/3/2025,Finance Charge,1,,0.43,0,0.43,4/30/2025,
+1901165,Normandie Ridge Healthcare Center,SNF,Connelly,Betty,225363,Late Fee,6/3/2025,Finance Charge,1,,0.43,0,0.43,5/31/2025,
+2063745,Normandie Ridge Healthcare Center,SNF,Connelly,Betty,225363,Late Fee,7/3/2025,Finance Charge,1,,0.44,0,0.44,6/30/2025,
+2138040,Normandie Ridge Healthcare Center,SNF,Connelly,Betty,225363,Late Fee,8/3/2025,Finance Charge,1,,0.45,0,0.45,7/31/2025,
+1655421,Normandie Ridge Healthcare Center,SNF,Crawford,Carol,463065,Late Fee,4/3/2025,Finance Charge,1,,0.58,0,0.58,3/31/2025,
+1822866,Normandie Ridge Healthcare Center,SNF,Dellorfano,Lorraine,511288,Late Fee,5/3/2025,Finance Charge,1,,1.15,0,1.15,4/30/2025,
+2479380,Normandie Ridge Healthcare Center,SNF,Dellorfano,Lorraine,511288,Late Fee,10/3/2025,Finance Charge,1,,37.71,0,37.71,9/30/2025,
+1655398,Normandie Ridge Healthcare Center,SNF,Drawbaugh,Lois,20724,Late Fee,4/3/2025,Finance Charge,1,,1.5,0,1.5,3/31/2025,
+2278251,Normandie Ridge Healthcare Center,SNF,Elliott,Michael,788853,Late Fee,9/3/2025,Finance Charge,1,,0.44,0,0.44,8/31/2025,
+2479396,Normandie Ridge Healthcare Center,SNF,Elliott,Michael,788853,Late Fee,10/3/2025,Finance Charge,1,,1.02,0,1.02,9/30/2025,
+2138053,Normandie Ridge Healthcare Center,SNF,Ensor,Kenneth,672489,Late Fee,8/3/2025,Finance Charge,1,,1.14,0,1.14,7/31/2025,833
+2250116,Normandie Ridge Healthcare Center,SNF,Ensor,Kenneth,672489,Late Fee,8/3/2025,Finance Charge,-1,,-1.14,0,-1.14,8/22/2025,833
+2138055,Normandie Ridge Healthcare Center,SNF,Fazzone,Marion,708147,Late Fee,8/3/2025,Finance Charge,1,,0.38,0,0.38,7/31/2025,834
+2382170,Normandie Ridge Healthcare Center,SNF,Fazzone,Marion,708147,Late Fee,8/3/2025,Finance Charge,-1,,-0.38,0,-0.38,9/16/2025,834
+1822870,Normandie Ridge Healthcare Center,SNF,Feelemyer,Terri,537049,Late Fee,5/3/2025,Finance Charge,1,,0.58,0,0.58,4/30/2025,
+2479399,Normandie Ridge Healthcare Center,SNF,Fenstermacher,John,808524,Late Fee,10/3/2025,Finance Charge,1,,0.61,0,0.61,9/30/2025,
+2479368,Normandie Ridge Healthcare Center,SNF,Fidler,Raymond,74811,Late Fee,10/3/2025,Finance Charge,1,,0.86,0,0.86,9/30/2025,
+2479409,Normandie Ridge Healthcare Center,SNF,Fitz,Jeanette,853817,Late Fee,10/3/2025,Finance Charge,1,,6.9,0,6.9,9/30/2025,
+1822867,Normandie Ridge Healthcare Center,SNF,Graham,Carol,519406,Late Fee,5/3/2025,Finance Charge,1,,1.73,0,1.73,4/30/2025,
+1901171,Normandie Ridge Healthcare Center,SNF,Graham,Carol,519406,Late Fee,6/3/2025,Finance Charge,1,,2.33,0,2.33,5/31/2025,
+1901162,Normandie Ridge Healthcare Center,SNF,Grim,Catherine,87150,Late Fee,6/3/2025,Finance Charge,1,,1.73,0,1.73,5/31/2025,
+1427688,Normandie Ridge Healthcare Center,SNF,Gureghian,Patricia,118366,Late Fee,1/3/2025,Finance Charge,-1,,-207.5,0,-207.5,1/31/2025,
+1479227,Normandie Ridge Healthcare Center,SNF,Gureghian,Patricia,118366,Late Fee,3/3/2025,Finance Charge,1,,403.8,0,403.8,2/28/2025,843
+1585753,Normandie Ridge Healthcare Center,SNF,Gureghian,Patricia,118366,Late Fee,3/3/2025,Finance Charge,-1,,-403.8,0,-403.8,3/18/2025,843
+2063723,Normandie Ridge Healthcare Center,SNF,Gureghian,Patricia,118366,Late Fee,7/3/2025,Finance Charge,1,,189.23,0,189.23,6/30/2025,844
+2109813,Normandie Ridge Healthcare Center,SNF,Gureghian,Patricia,118366,Late Fee,7/3/2025,Finance Charge,-1,,-189.23,0,-189.23,7/8/2025,844
+2278217,Normandie Ridge Healthcare Center,SNF,Gureghian,Patricia,118366,Late Fee,9/3/2025,Finance Charge,1,,99.23,0,99.23,8/31/2025,
+2278247,Normandie Ridge Healthcare Center,SNF,Haugh,Theresa,760802,Late Fee,9/3/2025,Finance Charge,1,,1.04,0,1.04,8/31/2025,
+2479391,Normandie Ridge Healthcare Center,SNF,Haugh,Theresa,760802,Late Fee,10/3/2025,Finance Charge,1,,1.05,0,1.05,9/30/2025,
+1479224,Normandie Ridge Healthcare Center,SNF,Hess,Debra,23352,Late Fee,3/3/2025,Finance Charge,1,,10.16,0,10.16,2/28/2025,
+1822851,Normandie Ridge Healthcare Center,SNF,Hess,Debra,23352,Late Fee,5/3/2025,Finance Charge,1,,10.32,0,10.32,4/30/2025,
+1464175,Normandie Ridge Healthcare Center,SNF,Houseman,Karlyn,127116,Late Fee,1/3/2025,Finance Charge,-1,,-12.41,0,-12.41,2/18/2025,
+2479392,Normandie Ridge Healthcare Center,SNF,Kauffman,Claire Jo,783664,Late Fee,10/3/2025,Finance Charge,1,,0.3,0,0.3,9/30/2025,
+2138051,Normandie Ridge Healthcare Center,SNF,Kauffman,Patricia,661902,Late Fee,8/3/2025,Finance Charge,1,,1.25,0,1.25,7/31/2025,
+2479394,Normandie Ridge Healthcare Center,SNF,Keffer,Barbara,787444,Late Fee,10/3/2025,Finance Charge,1,,1.35,0,1.35,9/30/2025,
+1822871,Normandie Ridge Healthcare Center,SNF,Khanna,Saroj,538399,Late Fee,5/3/2025,Finance Charge,1,,0.24,0,0.24,4/30/2025,854
+1866111,Normandie Ridge Healthcare Center,SNF,Khanna,Saroj,538399,Late Fee,5/3/2025,Finance Charge,-1,,-0.24,0,-0.24,5/15/2025,854
+1901180,Normandie Ridge Healthcare Center,SNF,Laity,Samuel,611911,Late Fee,6/3/2025,Finance Charge,1,,0.23,0,0.23,5/31/2025,855
+2063982,Normandie Ridge Healthcare Center,SNF,Laity,Samuel,611911,Late Fee,6/3/2025,Finance Charge,-1,,-0.23,0,-0.23,6/30/2025,855
+1655423,Normandie Ridge Healthcare Center,SNF,Lawrence,Adaline,487833,Late Fee,4/3/2025,Finance Charge,1,,0.25,0,0.25,3/31/2025,
+1822864,Normandie Ridge Healthcare Center,SNF,Lawrence,Adaline,487833,Late Fee,5/3/2025,Finance Charge,1,,38.41,0,38.41,4/30/2025,
+1479238,Normandie Ridge Healthcare Center,SNF,Lilly,Marylee,416037,Late Fee,3/3/2025,Finance Charge,1,,0.44,0,0.44,2/28/2025,858
+1585851,Normandie Ridge Healthcare Center,SNF,Lilly,Marylee,416037,Late Fee,3/3/2025,Finance Charge,-1,,-0.44,0,-0.44,3/18/2025,858
+1655424,Normandie Ridge Healthcare Center,SNF,Longo,Joseph,503243,Late Fee,4/3/2025,Finance Charge,1,,0.7,0,0.7,3/31/2025,
+1822865,Normandie Ridge Healthcare Center,SNF,Longo,Joseph,503243,Late Fee,5/3/2025,Finance Charge,1,,1.17,0,1.17,4/30/2025,
+1901170,Normandie Ridge Healthcare Center,SNF,Longo,Joseph,503243,Late Fee,6/3/2025,Finance Charge,1,,1.18,0,1.18,5/31/2025,
+2278244,Normandie Ridge Healthcare Center,SNF,Markland,Julia,753149,Late Fee,9/3/2025,Finance Charge,1,,0.58,0,0.58,8/31/2025,
+2063758,Normandie Ridge Healthcare Center,SNF,Matterson,Sandra,620985,Late Fee,7/3/2025,Finance Charge,1,,0.58,0,0.58,6/30/2025,
+1479239,Normandie Ridge Healthcare Center,SNF,McNeill,Ruth,416192,Late Fee,3/3/2025,Finance Charge,1,,1.1,0,1.1,2/28/2025,
+1479235,Normandie Ridge Healthcare Center,SNF,Miller,Betty,404093,Late Fee,3/3/2025,Finance Charge,1,,0.13,0,0.13,2/28/2025,865
+1585827,Normandie Ridge Healthcare Center,SNF,Miller,Betty,404093,Late Fee,3/3/2025,Finance Charge,-1,,-0.13,0,-0.13,3/18/2025,865
+1822846,Normandie Ridge Healthcare Center,SNF,Miller,Marlyn,21274,Late Fee,5/3/2025,Finance Charge,1,,34.15,0,34.15,4/30/2025,
+1655420,Normandie Ridge Healthcare Center,SNF,Minor,Constance,437523,Late Fee,4/3/2025,Finance Charge,1,,0.53,0,0.53,3/31/2025,867
+1990887,Normandie Ridge Healthcare Center,SNF,Minor,Constance,437523,Late Fee,4/3/2025,Finance Charge,-1,,-0.53,0,-0.53,6/13/2025,867
+1479241,Normandie Ridge Healthcare Center,SNF,Mohr,Deborah,441705,Late Fee,3/3/2025,Finance Charge,1,,0.58,0,0.58,2/28/2025,
+2138052,Normandie Ridge Healthcare Center,SNF,Momberger,Elaine,669410,Late Fee,8/3/2025,Finance Charge,1,,7.25,0,7.25,7/31/2025,
+2479400,Normandie Ridge Healthcare Center,SNF,Mosley,Donald,811918,Late Fee,10/3/2025,Finance Charge,1,,7.92,0,7.92,9/30/2025,
+1479233,Normandie Ridge Healthcare Center,SNF,Myers,Michael,336323,Late Fee,3/3/2025,Finance Charge,1,,18.27,0,18.27,2/28/2025,
+1822858,Normandie Ridge Healthcare Center,SNF,Myers,Michael,336323,Late Fee,5/3/2025,Finance Charge,1,,18.54,0,18.54,4/30/2025,
+1655404,Normandie Ridge Healthcare Center,SNF,Olkowski,Victoria,21350,Late Fee,4/3/2025,Finance Charge,1,,2.1,0,2.1,3/31/2025,
+2063755,Normandie Ridge Healthcare Center,SNF,Rattigan,Dorothy,587276,Late Fee,7/3/2025,Finance Charge,1,,1.65,0,1.65,6/30/2025,874
+2230138,Normandie Ridge Healthcare Center,SNF,Rattigan,Dorothy,587276,Late Fee,7/3/2025,Finance Charge,-1,,-1.65,0,-1.65,7/31/2025,874
+2063754,Normandie Ridge Healthcare Center,SNF,Ritter,Eula,586843,Late Fee,7/3/2025,Finance Charge,1,,6.6,0,6.6,6/30/2025,875
+2381953,Normandie Ridge Healthcare Center,SNF,Ritter,Eula,586843,Late Fee,7/3/2025,Finance Charge,-1,,-6.6,0,-6.6,9/16/2025,875
+1479237,Normandie Ridge Healthcare Center,SNF,Rossi,Diane,414534,Late Fee,3/3/2025,Finance Charge,1,,0.28,0,0.28,2/28/2025,876
+1585961,Normandie Ridge Healthcare Center,SNF,Rossi,Diane,414534,Late Fee,3/3/2025,Finance Charge,-1,,-0.28,0,-0.28,3/18/2025,876
+2278237,Normandie Ridge Healthcare Center,SNF,Rutledge,George,725370,Late Fee,9/3/2025,Finance Charge,1,,1.73,0,1.73,8/31/2025,
+1338709,Normandie Ridge Healthcare Center,SNF,Salzman,Lajeanne,374648,Late Fee,2/3/2025,Finance Charge,1,,0.44,0,0.44,1/31/2025,
+2278222,Normandie Ridge Healthcare Center,SNF,Salzman,Lajeanne,374648,Late Fee,9/3/2025,Finance Charge,1,,0.04,0,0.04,8/31/2025,
+2479376,Normandie Ridge Healthcare Center,SNF,Salzman,Lajeanne,374648,Late Fee,10/3/2025,Finance Charge,1,,1.31,0,1.31,9/30/2025,
+1338704,Normandie Ridge Healthcare Center,SNF,Sanders,Paul,210838,Late Fee,2/3/2025,Finance Charge,1,,3.69,0,3.69,1/31/2025,
+1822854,Normandie Ridge Healthcare Center,SNF,Sanders,Paul,210838,Late Fee,5/3/2025,Finance Charge,1,,2.25,0,2.25,4/30/2025,
+2278239,Normandie Ridge Healthcare Center,SNF,Schwartz,Ann,742611,Late Fee,9/3/2025,Finance Charge,1,,377.69,0,377.69,8/31/2025,
+2479401,Normandie Ridge Healthcare Center,SNF,Seifrit,Catharine,816608,Late Fee,10/3/2025,Finance Charge,1,,1.73,0,1.73,9/30/2025,
+1901175,Normandie Ridge Healthcare Center,SNF,Shaffer,Patricia,567999,Late Fee,6/3/2025,Finance Charge,1,,0.76,0,0.76,5/31/2025,
+1338707,Normandie Ridge Healthcare Center,SNF,Sharrer,May,327416,Late Fee,2/3/2025,Finance Charge,1,,55.08,0,55.08,1/31/2025,
+1655417,Normandie Ridge Healthcare Center,SNF,Sharrer,May,327416,Late Fee,4/3/2025,Finance Charge,1,,55.91,0,55.91,3/31/2025,
+1901168,Normandie Ridge Healthcare Center,SNF,Sharrer,May,327416,Late Fee,6/3/2025,Finance Charge,1,,56.74,0,56.74,5/31/2025,
+1901179,Normandie Ridge Healthcare Center,SNF,Shird,Marsha,585656,Late Fee,6/3/2025,Finance Charge,1,,3.14,0,3.14,5/31/2025,
+1901156,Normandie Ridge Healthcare Center,SNF,Smeltzer,Margaret,21295,Late Fee,6/3/2025,Finance Charge,1,,33.92,0,33.92,5/31/2025,
+2278196,Normandie Ridge Healthcare Center,SNF,Smith,Morgan,20420,Late Fee,9/3/2025,Finance Charge,1,,36.82,0,36.82,8/31/2025,891
+2385847,Normandie Ridge Healthcare Center,SNF,Smith,Morgan,20420,Late Fee,9/3/2025,Finance Charge,-1,,-36.82,0,-36.82,9/18/2025,891
+2063756,Normandie Ridge Healthcare Center,SNF,Smith,Treva,601070,Late Fee,7/3/2025,Finance Charge,1,,0.86,0,0.86,6/30/2025,892
+2230139,Normandie Ridge Healthcare Center,SNF,Smith,Treva,601070,Late Fee,7/3/2025,Finance Charge,-1,,-0.86,0,-0.86,7/31/2025,892
+1338702,Normandie Ridge Healthcare Center,SNF,Snyder,Curvin,200005,Late Fee,2/3/2025,Finance Charge,1,,0.97,0,0.97,1/31/2025,
+2479405,Normandie Ridge Healthcare Center,SNF,Soltes,Margaret,823150,Late Fee,10/3/2025,Finance Charge,1,,0.44,0,0.44,9/30/2025,
+1822872,Normandie Ridge Healthcare Center,SNF,Stauffer,David,560718,Late Fee,5/3/2025,Finance Charge,1,,41.4,0,41.4,4/30/2025,895
+1871513,Normandie Ridge Healthcare Center,SNF,Stauffer,David,560718,Late Fee,5/3/2025,Finance Charge,-1,,-41.4,0,-41.4,5/20/2025,895
+2094227,Normandie Ridge Healthcare Center,SNF,Stough,John,20485,Late Fee,7/3/2025,Finance Charge,-1,,-200.54,0,-200.54,6/30/2025,896
+2063708,Normandie Ridge Healthcare Center,SNF,Stough,John,20485,Late Fee,7/3/2025,Finance Charge,1,,200.54,0,200.54,6/30/2025,896
+1822856,Normandie Ridge Healthcare Center,SNF,Thompson,Dean,285365,Late Fee,5/3/2025,Finance Charge,1,,104.58,0,104.58,4/30/2025,
+2063722,Normandie Ridge Healthcare Center,SNF,Vogelsong,Deanna,72792,Late Fee,7/3/2025,Finance Charge,1,,0.3,0,0.3,6/30/2025,898
+2230137,Normandie Ridge Healthcare Center,SNF,Vogelsong,Deanna,72792,Late Fee,7/3/2025,Finance Charge,-1,,-0.3,0,-0.3,7/31/2025,898
+2063763,Normandie Ridge Healthcare Center,SNF,Watson,Melanie,671887,Late Fee,7/3/2025,Finance Charge,1,,7.48,0,7.48,6/30/2025,
+1901177,Normandie Ridge Healthcare Center,SNF,Wertz,Peggy,574472,Late Fee,6/3/2025,Finance Charge,1,,1.21,0,1.21,5/31/2025,
+2138050,Normandie Ridge Healthcare Center,SNF,Whitenight,Russell,655967,Late Fee,8/3/2025,Finance Charge,1,,1.03,0,1.03,7/31/2025,901
+2250057,Normandie Ridge Healthcare Center,SNF,Whitenight,Russell,655967,Late Fee,8/3/2025,Finance Charge,-1,,-1.03,0,-1.03,8/22/2025,901
+1479242,Normandie Ridge Healthcare Center,SNF,Winter,Dorothy,450471,Late Fee,3/3/2025,Finance Charge,1,,0.02,0,0.02,2/28/2025,902
+1871367,Normandie Ridge Healthcare Center,SNF,Winter,Dorothy,450471,Late Fee,3/3/2025,Finance Charge,-1,,-0.02,0,-0.02,5/20/2025,902
+1338710,Normandie Ridge Healthcare Center,SNF,Wise,Rosemary,375723,Late Fee,2/3/2025,Finance Charge,1,,0.75,0,0.75,1/31/2025,
+1822868,Normandie Ridge Healthcare Center,SNF,Zerbe,June,534096,Late Fee,5/3/2025,Finance Charge,1,,0.58,0,0.58,4/30/2025,
+2063750,Normandie Ridge Healthcare Center,SNF,Zerbe,June,534096,Late Fee,7/3/2025,Finance Charge,1,,6.61,0,6.61,6/30/2025,
+2138044,Normandie Ridge Healthcare Center,SNF,Zerbe,June,534096,Late Fee,8/3/2025,Finance Charge,1,,181.52,0,181.52,7/31/2025,
+2278226,Normandie Ridge Healthcare Center,SNF,Zerbe,June,534096,Late Fee,9/3/2025,Finance Charge,1,,184.24,0,184.24,8/31/2025,
+1338699,Normandie Ridge Healthcare Center,SNF,Zuercher,Darlene,131502,Late Fee,2/3/2025,Finance Charge,1,,0.97,0,0.97,1/31/2025,
+1479228,Normandie Ridge Healthcare Center,SNF,Zuercher,Darlene,131502,Late Fee,3/3/2025,Finance Charge,1,,0.99,0,0.99,2/28/2025,
+1655411,Normandie Ridge Healthcare Center,SNF,Zuercher,Darlene,131502,Late Fee,4/3/2025,Finance Charge,1,,1,0,1,3/31/2025,
+2138015,Normandie Ridge Residential Living,IL,Bupp,Bruce,20590,Late Fee,8/3/2025,Finance Charge,1,,0.19,0,0.19,7/31/2025,911
+2228419,Normandie Ridge Residential Living,IL,Bupp,Bruce,20590,Late Fee,8/3/2025,Finance Charge,-1,,-0.19,0,-0.19,7/31/2025,911
+1901066,Normandie Ridge Residential Living,IL,Calhoun,Yvonne,20617,Late Fee,6/3/2025,Finance Charge,1,,20.12,0,20.12,5/31/2025,
+2063767,Normandie Ridge Residential Living,IL,Calhoun,Yvonne,20617,Late Fee,7/3/2025,Finance Charge,1,,20.31,0,20.31,6/30/2025,
+2138017,Normandie Ridge Residential Living,IL,Calhoun,Yvonne,20617,Late Fee,8/3/2025,Finance Charge,1,,41.91,0,41.91,7/31/2025,
+1338666,Normandie Ridge Residential Living,IL,Gregory,Barbara,20069,Late Fee,2/3/2025,Finance Charge,1,,25.26,0,25.26,1/31/2025,915
+1457067,Normandie Ridge Residential Living,IL,Gregory,Barbara,20069,Late Fee,2/3/2025,Finance Charge,-1,,-25.26,0,-25.26,2/18/2025,915
+1822765,Normandie Ridge Residential Living,IL,Kling,Elizabeth,20628,Late Fee,5/3/2025,Finance Charge,1,,33.35,0,33.35,4/30/2025,916
+1864872,Normandie Ridge Residential Living,IL,Kling,Elizabeth,20628,Late Fee,5/3/2025,Finance Charge,-1,,-33.35,0,-33.35,5/14/2025,916
+1822764,Normandie Ridge Residential Living,IL,Knaub,John,20167,Late Fee,5/3/2025,Finance Charge,1,,23.69,0,23.69,4/30/2025,
+1655287,Normandie Ridge Residential Living,IL,Mayer,Annette,20085,Late Fee,4/3/2025,Finance Charge,1,,24.61,0,24.61,3/31/2025,
+2278205,Normandie Ridge Residential Living,IL,Meile,Carolyn,20170,Late Fee,9/3/2025,Finance Charge,1,,3.86,0,3.86,8/31/2025,919
+2381843,Normandie Ridge Residential Living,IL,Meile,Carolyn,20170,Late Fee,9/3/2025,Finance Charge,-1,,-3.86,0,-3.86,9/16/2025,919
+2278207,Normandie Ridge Residential Living,IL,Meile,Carroll,20195,Late Fee,9/3/2025,Finance Charge,1,,23.48,0,23.48,8/31/2025,920
+2381844,Normandie Ridge Residential Living,IL,Meile,Carroll,20195,Late Fee,9/3/2025,Finance Charge,-1,,-23.48,0,-23.48,9/16/2025,920
+2479416,Normandie Ridge Residential Living,IL,Wyre,Frances,20207,Late Fee,10/3/2025,Finance Charge,1,,0.16,0,0.16,9/30/2025,
+1822882,Springhill Forestview Healthcare Center,SNF,Babbitt,Charles,52773,Late Fee,5/3/2025,Finance Charge,1,,209.59,0,209.59,4/30/2025,
+2063790,Springhill Forestview Healthcare Center,SNF,Babbitt,Charles,52773,Late Fee,7/3/2025,Finance Charge,1,,209.59,0,209.59,6/30/2025,
+2278261,Springhill Forestview Healthcare Center,SNF,Babbitt,Charles,52773,Late Fee,9/3/2025,Finance Charge,1,,216.85,0,216.85,8/31/2025,
+2063803,Springhill Forestview Healthcare Center,SNF,Carlo,Bonnie,535145,Late Fee,7/3/2025,Finance Charge,1,,257.6,0,257.6,6/30/2025,
+1655442,Springhill Forestview Healthcare Center,SNF,Johnson,Harold,360583,Late Fee,4/3/2025,Finance Charge,1,,269.77,0,269.77,3/31/2025,
+1655444,Springhill Forestview Healthcare Center,SNF,Kobierski,Edward,365657,Late Fee,4/3/2025,Finance Charge,1,,264.59,0,264.59,3/31/2025,927
+2113993,Springhill Forestview Healthcare Center,SNF,Kobierski,Edward,365657,Late Fee,4/3/2025,Finance Charge,-1,,-264.59,0,-264.59,7/15/2025,927
+1655432,Springhill Forestview Healthcare Center,SNF,Koeck,Susan,52731,Late Fee,4/3/2025,Finance Charge,1,,186.52,0,186.52,3/31/2025,928
+1661568,Springhill Forestview Healthcare Center,SNF,Koeck,Susan,52731,Late Fee,4/3/2025,Finance Charge,-1,,-186.52,0,-186.52,3/31/2025,928
+1661569,Springhill Forestview Healthcare Center,SNF,McConnon,Henry,309895,Late Fee,4/3/2025,Finance Charge,-1,,-265.81,0,-265.81,3/31/2025,929
+1655441,Springhill Forestview Healthcare Center,SNF,McConnon,Henry,309895,Late Fee,4/3/2025,Finance Charge,1,,265.81,0,265.81,3/31/2025,929
+1866358,Springhill Forestview Healthcare Center,SNF,Pius,Georgette,52805,Late Fee,10/3/2024,Finance Charge,-1,,-1830.42,0,-1830.42,5/15/2025,
+1822894,Springhill Forestview Healthcare Center,SNF,Rychel,Geraldine,420481,Late Fee,5/3/2025,Finance Charge,1,,159.8,0,159.8,4/30/2025,
+1901200,Springhill Forestview Healthcare Center,SNF,Smith,Katharine,526201,Late Fee,6/3/2025,Finance Charge,1,,25.8,0,25.8,5/31/2025,
+2063782,Springhill Forestview Healthcare Center,SNF,Wilson,Diane,52728,Late Fee,7/3/2025,Finance Charge,1,,337.7,0,337.7,6/30/2025,
+1822652,Springhill Oakview Personal Care,AL,Carpen,Margaret,98635,Late Fee,5/3/2025,Finance Charge,1,,104.88,0,104.88,4/30/2025,934
+1875148,Springhill Oakview Personal Care,AL,Carpen,Margaret,98635,Late Fee,5/3/2025,Finance Charge,-1,,-104.88,0,-104.88,5/22/2025,934
+2063638,Springhill Oakview Personal Care,AL,Golden,Beverly,647251,Late Fee,7/3/2025,Finance Charge,1,,144.86,0,144.86,6/30/2025,
+2063637,Springhill Oakview Personal Care,AL,Krajovic,Marjorie,523045,Late Fee,7/3/2025,Finance Charge,1,,100.65,0,100.65,6/30/2025,
+1338556,Springhill Oakview Personal Care,AL,Lacey,William,51591,Late Fee,2/3/2025,Finance Charge,1,,96.66,0,96.66,1/31/2025,
+1338536,Springhill Oakview Personal Care,AL,Lynch,Mary Lee,51568,Late Fee,2/3/2025,Finance Charge,1,,139.78,0,139.78,1/31/2025,
+1479132,Springhill Oakview Personal Care,AL,Lynch,Mary Lee,51568,Late Fee,3/3/2025,Finance Charge,1,,244.97,0,244.97,2/28/2025,
+1655189,Springhill Oakview Personal Care,AL,Lynch,Mary Lee,51568,Late Fee,4/3/2025,Finance Charge,1,,236.45,0,236.45,3/31/2025,
+1822650,Springhill Oakview Personal Care,AL,Lynch,Mary Lee,51568,Late Fee,5/3/2025,Finance Charge,1,,287.78,0,287.78,4/30/2025,
+1900976,Springhill Oakview Personal Care,AL,Lynch,Mary Lee,51568,Late Fee,6/3/2025,Finance Charge,1,,339.54,0,339.54,5/31/2025,
+2063613,Springhill Oakview Personal Care,AL,Lynch,Mary Lee,51568,Late Fee,7/3/2025,Finance Charge,1,,253.68,0,253.68,6/30/2025,
+2137952,Springhill Oakview Personal Care,AL,Lynch,Mary Lee,51568,Late Fee,8/3/2025,Finance Charge,1,,300.06,0,300.06,7/31/2025,
+2278116,Springhill Oakview Personal Care,AL,Lynch,Mary Lee,51568,Late Fee,9/3/2025,Finance Charge,1,,347.67,0,347.67,8/31/2025,
+2479325,Springhill Oakview Personal Care,AL,Lynch,Mary Lee,51568,Late Fee,10/3/2025,Finance Charge,1,,455.47,0,455.47,9/30/2025,
+1338558,Springhill Oakview Personal Care,AL,Malec,Francis,272454,Late Fee,2/3/2025,Finance Charge,1,,210.61,0,210.61,1/31/2025,
+1479141,Springhill Oakview Personal Care,AL,Malec,Francis,272454,Late Fee,3/3/2025,Finance Charge,1,,111.27,0,111.27,2/28/2025,
+2137959,Springhill Oakview Personal Care,AL,Young,Robert,594044,Late Fee,8/3/2025,Finance Charge,1,,92.68,0,92.68,7/31/2025,
+1822653,Springhill Oakview Personal Care,AL,Zimmerman,Helen,112593,Late Fee,5/3/2025,Finance Charge,1,,111.01,0,111.01,4/30/2025,
+2137955,Springhill Oakview Personal Care,AL,Zimmerman,Shirley,51583,Late Fee,8/3/2025,Finance Charge,1,,98.73,0,98.73,7/31/2025,
+1822791,Springhill Residential Living,IL,Bolla,Helen,52610,Late Fee,5/3/2025,Finance Charge,1,,44.33,0,44.33,4/30/2025,952
+1850293,Springhill Residential Living,IL,Bolla,Helen,52610,Late Fee,5/3/2025,Finance Charge,-1,,-44.33,0,-44.33,4/30/2025,952
+2063785,Springhill Residential Living,IL,Csir,Floyd,581313,Late Fee,7/3/2025,Finance Charge,1,,71.48,0,71.48,6/30/2025,953
+2256577,Springhill Residential Living,IL,Csir,Floyd,581313,Late Fee,7/3/2025,Finance Charge,-1,,-71.48,0,-71.48,8/26/2025,953
+2138067,Springhill Residential Living,IL,Csir,Floyd,581313,Late Fee,8/3/2025,Finance Charge,1,,144.22,0,144.22,7/31/2025,954
+2256567,Springhill Residential Living,IL,Csir,Floyd,581313,Late Fee,8/3/2025,Finance Charge,-1,,-144.22,0,-144.22,8/26/2025,954
+2063787,Springhill Residential Living,IL,Csir,Janet,581315,Late Fee,7/3/2025,Finance Charge,1,,6.47,0,6.47,6/30/2025,955
+2256578,Springhill Residential Living,IL,Csir,Janet,581315,Late Fee,7/3/2025,Finance Charge,-1,,-6.47,0,-6.47,8/26/2025,955
+2138068,Springhill Residential Living,IL,Csir,Janet,581315,Late Fee,8/3/2025,Finance Charge,1,,13.03,0,13.03,7/31/2025,956
+2256568,Springhill Residential Living,IL,Csir,Janet,581315,Late Fee,8/3/2025,Finance Charge,-1,,-13.03,0,-13.03,8/26/2025,956
+2063789,Springhill Residential Living,IL,Csir,Shirley,593247,Late Fee,7/3/2025,Finance Charge,1,,6.47,0,6.47,6/30/2025,957
+2256579,Springhill Residential Living,IL,Csir,Shirley,593247,Late Fee,7/3/2025,Finance Charge,-1,,-6.47,0,-6.47,8/26/2025,957
+2138069,Springhill Residential Living,IL,Csir,Shirley,593247,Late Fee,8/3/2025,Finance Charge,1,,13.03,0,13.03,7/31/2025,958
+2256569,Springhill Residential Living,IL,Csir,Shirley,593247,Late Fee,8/3/2025,Finance Charge,-1,,-13.03,0,-13.03,8/26/2025,958
+1822796,Springhill Residential Living,IL,Dolwick,Brenda,369789,Late Fee,5/3/2025,Finance Charge,1,,76.85,0,76.85,4/30/2025,
+1822797,Springhill Residential Living,IL,Dolwick,Robert,369890,Late Fee,5/3/2025,Finance Charge,1,,6.47,0,6.47,4/30/2025,
+1822769,Springhill Residential Living,IL,Heineman,Jane,51709,Late Fee,5/3/2025,Finance Charge,1,,43.17,0,43.17,4/30/2025,
+1901069,Springhill Residential Living,IL,Jordano,Mary,51681,Late Fee,6/3/2025,Finance Charge,1,,47.84,0,47.84,5/31/2025,
+1338716,Springhill Residential Living,IL,Kuntz,Donna,52595,Late Fee,2/3/2025,Finance Charge,1,,45.38,0,45.38,1/31/2025,
+1479122,Springhill Residential Living,IL,Kuntz,Donna,52595,Late Fee,3/3/2025,Finance Charge,1,,89.8,0,89.8,2/28/2025,
+1822790,Springhill Residential Living,IL,Kuntz,Donna,52595,Late Fee,5/3/2025,Finance Charge,1,,43.74,0,43.74,4/30/2025,
+1901071,Springhill Residential Living,IL,Kuntz,Donna,52595,Late Fee,6/3/2025,Finance Charge,1,,88.14,0,88.14,5/31/2025,
+2063776,Springhill Residential Living,IL,Kuntz,Donna,52595,Late Fee,7/3/2025,Finance Charge,1,,133.21,0,133.21,6/30/2025,
+2063772,Springhill Residential Living,IL,Mason,Maureen,51679,Late Fee,7/3/2025,Finance Charge,1,,57.93,0,57.93,6/30/2025,
+1338692,Springhill Residential Living,IL,Oliver,Darcie,51747,Late Fee,2/3/2025,Finance Charge,1,,222.5,0,222.5,1/31/2025,

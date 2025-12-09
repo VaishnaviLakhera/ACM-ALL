@@ -1,0 +1,238 @@
+UNLOAD ('SELECT
+    REPLACE(note_text, ''"'', '' '') AS note_text,  
+    inc_id
+FROM
+    "source_pcc"."inc_note"')
+TO 's3://fp-forecast-final/TablesforPCCModel/INCIDENT_NOTES.csv'
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
+
+--INCIDENT_NOTES.csv,INCIDENTS.csv,INCIDENT_TYPES.csv,INCIDENT_TYPES.csv,DIAGNOSES_test.csv,FACILITY.csv',MPI.csv,CLIENTS.csv,medications_test.csv'
+--inc_note,inc_incident,inc_std_pick_list_item,diagnosis,diagnosis_codes,facility,mpi
+UNLOAD('SELECT
+    inc_id,client_id,inc_date,type_id
+FROM
+    "source_pcc"."inc_incident"')
+TO 's3://fp-forecast-final/TablesforPCCModel/INCIDENTS.csv'
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
+---------------------
+UNLOAD('SELECT
+    pick_list_item_id,description
+FROM
+    "source_pcc"."inc_std_pick_list_item"
+WHERE pick_list_id=1')
+TO 's3://fp-forecast-final/TablesforPCCModel/INCIDENT_TYPES.csv' 
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
+
+
+-----------
+UNLOAD('select d.client_id,d.created_date,d.diagnosis_id,d.comments,
+dc.icd9_full_desc,dc.icd9_code
+from "source_pcc"."diagnosis" d
+join
+ "source_pcc"."diagnosis_codes" dc
+ on d.diagnosis_id = dc.diagnosis_id')
+TO 's3://fp-forecast-final/TablesforPCCModel/DIAGNOSES_test.csv' -- same as diagnoses_test
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
+-------------------------
+UNLOAD ('select fac_id,name from "source_pcc"."facility"')
+TO 's3://fp-forecast-final/TablesforPCCModel/FACILITY.csv'
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
+-----------------
+UNLOAD ('select mpi_id,first_name,last_name,middle_name,date_of_birth,sex from "source_pcc"."mpi"')
+TO 's3://fp-forecast-final/TablesforPCCModel/MPI.csv'
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
+----------------------------------
+
+UNLOAD ('SELECT
+    client_id,fac_id,admission_date,initial_admission_date,bmi,mpi_id,current_care_plan_id,pharmacy_id,current_census_id
+FROM
+    "source_pcc"."clients"')
+TO 's3://fp-forecast-final/TablesforPCCModel/CLIENTS.csv'
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
+
+---------------------------------
+
+UNLOAD ($$
+    SELECT
+        phys_order.client_id,
+        phys_order.created_date,
+        phys_order.description,
+        category.category_desc
+    FROM "source_pcc"."pho_phys_order" AS phys_order
+    LEFT JOIN "source_pcc"."pho_order_category" AS category
+        ON phys_order.order_category_id = category.order_category_id
+    LEFT JOIN "source_pcc"."pho_order_ext_lib_med_ref" AS ext_lib
+        ON phys_order.phys_order_id = ext_lib.phys_order_id
+    LEFT JOIN "source_pcc"."pho_order_supply" AS supply
+        ON phys_order.phys_order_id = supply.phys_order_id
+    WHERE category.category_desc ILIKE '%Pharmacy%'
+       OR category.category_desc ILIKE '%Diagnostic%'
+       OR category.category_desc ILIKE '%Laboratory%'
+$$)
+TO 's3://fp-forecast-final/TablesforPCCModel/medications_test.csv'
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
+--ext_lib.pho_ext_lib_generic_desc
+----------------
+-- active residents
+UNLOAD ('
+    SELECT
+        ci.client_id,
+        mpi.mpi_id
+    FROM source_pcc.census_item ci
+    INNER JOIN source_pcc.bed b ON ci.bed_id = b.bed_id          
+    INNER JOIN source_pcc.facility f ON f.fac_id = ci.fac_id          
+    INNER JOIN source_pcc.clients cl ON cl.client_id = ci.client_id
+    INNER JOIN source_pcc.mpi mpi ON mpi.mpi_id = cl.mpi_id
+    INNER JOIN source_pcc.census_codes cc ON cc.item_id = ci.status_code_id
+    WHERE ci.deleted = ''N''
+      AND b.deleted = ''N''
+      AND cc.short_desc NOT IN (''HUP'', ''HN3'', ''TUP'')
+      AND f.name LIKE ''%Healthcare Center''
+      AND ci.effective_date::date <= dateadd(day, -1, current_date)
+      AND COALESCE(NULLIF(ci.ineffective_date, ''''), current_date::text)::date > dateadd(day, -1, current_date)
+')
+TO 's3://fp-forecast-final/TablesforPCCModel/pcc_active_clients.csv'
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
+--------------------
+UNLOAD ('
+    SELECT  
+        i.inc_id, 
+        i.client_id, 
+        i.type_id, 
+        i.inc_date,
+        i.incident_location_id,
+        i.fac_id,
+        n.note_text
+    FROM "source_pcc"."inc_incident" i
+    LEFT JOIN "source_pcc"."inc_note" n
+        ON i.inc_id = n.inc_id
+    WHERE i.type_id IN (
+        291, 219, 321, 251, 220, 371, 261, 281, 
+        209, 9, 331, 243, 221, 311, 351, 241
+    )
+')
+TO 's3://fp-forecast-final/TablesforPCCModel/pcc_incidents.csv'
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
+----------------------------------------------
+--support notes
+    SELECT
+    client_id,description
+FROM
+    "source_pcc"."cr_alert"
+WHERE description ILIKE '%cane%'
+    OR description ILIKE '%wheelchair%'
+    OR  description ILIKE '%wheel%'
+    OR  description ILIKE '%w/c%'
+    OR  description ILIKE '%w\c%'
+    OR  description ILIKE '%walker%'
+    OR  description ILIKE '%walking stick%'
+    OR  description ILIKE '%walking aid%'
+    OR  description ILIKE '%stick%'
+    OR  description ILIKE '%gait belt%'
+    OR  description ILIKE '%ambulation aid%'
+    OR  description ILIKE '%scooter%'
+    OR  description ILIKE '%device%'
+    OR  description ILIKE '%wheel%'
+    OR  description ILIKE '%brake%'
+    OR  description ILIKE '%crutch%'
+    OR  description ILIKE '%belt%'
+    OR  description ILIKE '%personal assistive device%'
+    OR  description ILIKE '%personal assistive equipment%'
+    ---------------
+UNLOAD('
+    SELECT
+        client_id,
+        description
+    FROM "source_pcc"."cr_alert"
+    WHERE description ILIKE ''%cane%''
+        OR description ILIKE ''%wheelchair%''
+        OR description ILIKE ''%wheel%''
+        OR description ILIKE ''%w/c%''
+        OR description ILIKE ''%w\\c%''
+        OR description ILIKE ''%walker%''
+        OR description ILIKE ''%walking stick%''
+        OR description ILIKE ''%walking aid%''
+        OR description ILIKE ''%stick%''
+        OR description ILIKE ''%gait belt%''
+        OR description ILIKE ''%ambulation aid%''
+        OR description ILIKE ''%scooter%''
+        OR description ILIKE ''%device%''
+        OR description ILIKE ''%brake%''
+        OR description ILIKE ''%crutch%''
+        OR description ILIKE ''%belt%''
+        OR description ILIKE ''%personal assistive device%''
+        OR description ILIKE ''%personal assistive equipment%''
+')
+TO 's3://fp-forecast-final/TablesforPCCModel/support notes.csv'
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
+    --------------------------------------------------------
+UNLOAD ('
+    SELECT 
+        s.assess_id,
+        s.std_score_id,
+        s.score,
+        s.category,
+        a.fac_id,
+        a.client_id,
+        a.std_assess_id,
+        sa.description AS std_assess_description,
+        a.assess_date,
+        a.adl_score,
+        a.status
+    FROM "source_pcc"."as_assessment_score" s
+    LEFT JOIN "source_pcc"."as_assessment" a 
+        ON s.assess_id = a.assess_id
+    LEFT JOIN "source_pcc"."as_std_assessment" sa
+        ON a.std_assess_id = sa.std_assess_id
+    WHERE s.std_score_id IN (291, 534, 239, 340, 330, 533)
+')
+TO 's3://fp-forecast-final/TablesforPCCModel/fall risk scores.csv'
+IAM_ROLE 'arn:aws:iam::163805818809:role/service-role/AmazonRedshift-CommandsAccessRole-20240827T215452'
+DELIMITER ','
+ADDQUOTES
+ALLOWOVERWRITE
+PARALLEL OFF;
